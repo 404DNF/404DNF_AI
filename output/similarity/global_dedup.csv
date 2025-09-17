@@ -1,0 +1,432 @@
+global_cluster_id,canonical_norm_global,canonical_example_global,total_collapsed_count,n_members,majority_predicate,is_mixed_predicates
+0,no i don t feel lucky,"No, I don't feel lucky",35,2,Confirmshaming,1
+1,no thanks i d rather pay full price,"No thanks, I'd rather pay full price.",26,1,Confirmshaming,0
+2,no thanks i ll pay full price,"No thanks, I'll pay full price!",15,1,Confirmshaming,0
+3,<num> person have purchase this item,"2,221 people have purchased this item",11,1,Activity Notifications,0
+4,<num> sold in last <num> hours,156 sold in last 24 hours,10,1,Activity Notifications,0
+5,<num> person have view this item,161 people have viewed this item,10,1,Activity Notifications,0
+14,no thanks i don t want to save money,"NO THANKS, I DON'T WANT TO SAVE MONEY",9,2,Confirmshaming,0
+6,no thanks i don t want a discount,"No Thanks, I Don't Want a Discount",9,1,Confirmshaming,0
+7,recommended option selected you can modify later,Recommended option selected (you can modify later).,9,1,Pressured Selling,0
+8,no thanks i prefer paying full price,"No Thanks, I Prefer Paying Full Price",9,1,Confirmshaming,0
+9,no thanks i don t like free stuff,"No thanks, I don't like FREE stuff.",8,1,Confirmshaming,0
+10,<num> person are view this,9 people are viewing this.,8,1,Activity Notifications,0
+11,<num> person have added this item to cart,17 people have added this item to cart,8,1,Activity Notifications,0
+15,no thanks i don t like saving money,"No Thanks, I Don't Like Saving Money.",7,1,Confirmshaming,0
+12,<num> users are currently active on our website just now,40 users are currently active on our website just now.,7,1,Activity Notifications,0
+13,processing will be faster with express checkout selected,Processing will be faster with Express Checkout (selected).,7,1,Pressured Selling,0
+16,no thanks i don t want to save,"No thanks, I don’t want to save",6,1,Confirmshaming,0
+17,no thanks i don t like discounts,"No thanks, I don't like discounts",6,1,Confirmshaming,0
+18,best value pre-selected for you change anytime,Best value pre-selected for you (change anytime).,6,1,Pressured Selling,0
+19,no thanks i like paying full price,"No thanks, I like paying full price",6,1,Confirmshaming,0
+20,no thanks i d rather pay more,"No thanks, I’d rather pay more",6,1,Confirmshaming,0
+21,<num> bought,143 BOUGHT,6,1,Activity Notifications,0
+24,your discount is applied additional service fee may appear at checkout,Your discount is applied.*  *Additional service fee may appear at checkout.,5,1,Trick Questions,0
+25,almost there confirm details to receive extra coupon,Almost there—confirm details to receive extra coupon.,5,1,Pressured Selling,0
+22,you re almost done click next to get started,You’re almost done! Click ‘Next’ to get started.,5,1,Trick Questions,0
+23,no thanks i don t want <num> off,"NO THANKS, I DON’T WANT 15% OFF",5,1,Confirmshaming,0
+34,no thanks i don t like exclusive offers,"No Thanks, I Don't Like Exclusive Offers.",4,1,Confirmshaming,0
+40,popular <num> others checked this out in the last few hours,POPULAR 64 others checked this out in the last few hours.,4,1,Activity Notifications,0
+39,no thanks i don t want a free gift,"No thanks, I don't want a free gift.",4,1,Confirmshaming,0
+38,trending now added to basket <num> times today,Trending now! Added to basket 38 times today,4,1,Activity Notifications,0
+37,almost there confirm details to receive bonus points,Almost there—confirm details to receive bonus points.,4,1,Trick Questions,0
+36,<num> customers have this in their basket,6 customers have this in their basket,4,1,Activity Notifications,0
+26,<num> person are looking at this now,52 people are looking at this right now.,4,1,Activity Notifications,0
+35,almost there confirm details to receive free gift,Almost there—confirm details to receive free gift.,4,1,Pressured Selling,0
+33,no thanks i don t like deals,"No thanks, I don't like deals.",4,1,Confirmshaming,0
+32,purchased <num> times in the last few days,Purchased 8 times in the last few days.,4,1,Activity Notifications,0
+31,no thanks i don t like winning,"No thanks, I don't like winning",4,1,Confirmshaming,0
+30,no thanks i don t like to save,"No thanks, I don't like to save",4,1,Confirmshaming,0
+29,almost there confirm details to receive exclusive access,Almost there—confirm details to receive exclusive access.,4,1,Pressured Selling,0
+28,<num> view this product,72 Viewing This Product,4,1,Activity Notifications,0
+27,compare at,Compare at,4,1,Trick Questions,0
+45,<num> person seeing this product right now,1626 people seeing this product right now,3,1,Activity Notifications,0
+48,<num> have it in their cart,31 have it in their cart,3,1,Activity Notifications,0
+47,<num> person have looked at this in the last few hrs,6 people have looked at this in the last few hrs.,3,1,Activity Notifications,0
+46,<num> recent purchase it,12 recently purchased it.,3,1,Activity Notifications,0
+42,no i ll pay full price,"NO, I'LL PAY FULL PRICE",3,1,Confirmshaming,0
+44,hurry up <num> person other than you have this product in their cart,Hurry up! 22 people other than you have this product in their cart,3,1,Activity Notifications,0
+43,<num> person are looking right now,🔥 2 people are looking right now,3,1,Activity Notifications,0
+41,your free gift is ready press continue to proceed,Your free gift is ready—press 'Continue' to proceed.,3,1,Pressured Selling,0
+235,someone in cashmere bought a rcm cosworth timing belt kit <num> - <num> my ej <num> <num> <num> hour ago,"Someone in Cashmere bought a 
+RCM Cosworth Timing Belt Kit 99-02MY EJ20/22/251 hour ago",2,1,Activity Notifications,0
+236,someone in canberra purchase nadv <num> austracantha about <num> minutes ago,Someone in Canberra purchased\nADV.2 (Austracantha) about 41 minutes ago,2,1,Activity Notifications,0
+237,someone in byron bay nsw just bought,"Someone in Byron Bay, NSW just bought",2,1,Activity Notifications,0
+238,someone in boling iago texas united states purchase seek discomfort sketch white iphone case <num> hours ago,Someone in Boling Iago Texas United States Purchased Seek Discomfort Sketch White iPhone Case 5 hours ago,2,1,Activity Notifications,0
+239,someone in bacchus marsh bought a noosa basics deodorant stick - sensitive <num> g <num> seconds ago,Someone in Bacchus Marsh bought a Noosa Basics Deodorant Stick - Sensitive (60g) 27 seconds ago,2,1,Activity Notifications,0
+240,someone in arden hills united states purchase <num> ml young napoleon best strawberry shortcake ejuice vaporham lincoln eliquid about <num> minutes ago,"Someone in Arden Hills, United States purchased 120ml Young Napoleon | Best Strawberry Shortcake eJuice | Vaporham Lincoln eLiquid about 42 minutes ago",2,1,Activity Notifications,0
+234,someone from purchase a holees original ladies ii - navy about <num> hours ago,Someone from purchased a HOLEES Original Ladies II - Navy About 9 hours ago,2,1,Activity Notifications,0
+242,someone in culgoa australia purchase savelli epic mens comfortable leather lace up boots made in brazil,"Someone in Culgoa, Australia purchased Savelli Epic Mens Comfortable Leather Lace Up Boots Made In Brazil",2,1,Activity Notifications,0
+243,<num> person have bought this product today,93 PEOPLE HAVE BOUGHT THIS PRODUCT TODAY,2,1,Activity Notifications,0
+244,<num> person have it in their cart,7 people have it in their cart,2,1,Activity Notifications,0
+245,<num> customers are considering this product now,80 Customers are considering this product right now.,2,1,Activity Notifications,0
+246,someone from south gate california just purchase the admiral jr spektrum servo connector plug set male and female - <num> pairs,"Someone from South Gate, California just purchased the Admiral JR / Spektrum Servo Connector Plug Set (Male and Female - 2 Pairs)",2,1,Activity Notifications,0
+247,<num> bought already,227 Bought Already,2,1,Activity Notifications,0
+248,<num> added to bag in the past <num> hours,45 ADDED TO BAG IN THE PAST 24 HOURS,2,1,Activity Notifications,0
+249,<num> person are looking at this listing now,2 people are looking at this listing now,2,1,Activity Notifications,0
+241,denise in saluda virginia bought terani couture - <num> e <num> embroidered asymmetric neck mermaid gown,"Denise in Saluda, Virginia bought Terani Couture - 1911E9095 Embroidered Asymmetric Neck Mermaid Gown",2,1,Activity Notifications,0
+250,<num> person are looking at this right now,99 people are looking at this right now,2,1,Activity Notifications,0
+251,<num> person like this,77 PEOPLE LIKE THIS,2,1,Activity Notifications,0
+252,<num> person are view this currently,1 people are viewing this currently,2,1,Activity Notifications,0
+232,<num> person have already bought that product today with <num> discount,61 people have already bought that product today with 50% discount,2,1,Activity Notifications,0
+266,ibkul solid mock neck half zip pullover purchase from clinton md us <num> minute ago,"IBKUL Solid Mock Neck Half Zip Pullover purchased from Clinton, MD, US 1 minute ago",2,1,Activity Notifications,0
+265,hayden near princeton just bought cbd vegan gummies,Hayden near Princeton just bought!!!: CBD VEGAN GUMMIES,2,1,Activity Notifications,0
+264,someone from airdrie <num> others bought this item recent,Someone from Airdrie & 10820 others bought this item recently.,2,1,Activity Notifications,0
+263,someone from cape town western cape south africa just started buy packable travel duffel bag <num> minutes ago,"Someone from Cape Town, Western Cape, South Africa just started buying Packable Travel Duffel Bag! 5 minutes ago",2,1,Activity Notifications,0
+262,someone from huntingtown maryland united states purchase topcoat f <num> polish sealer - web special kits just now,"Someone from Huntingtown, Maryland, United States purchased TopCoat® F11® Polish & Sealer - Web Special Kits Just Now",2,1,Activity Notifications,0
+261,<num> person just view this product,2+ people just viewed this product,2,1,Activity Notifications,0
+260,<num> person have looked at this today,57 PEOPLE HAVE LOOKED AT THIS TODAY,2,1,Activity Notifications,0
+259,<num> person have this in their cart,39 people have this in their cart,2,1,Activity Notifications,0
+258,<num> person have view in the last <num> hrs,113 people have viewed in the last 24hrs,2,1,Activity Notifications,0
+257,<num> person have view this product recent,228 People Have Viewed This Product Recently!,2,1,Activity Notifications,0
+256,<num> person have view this wine today,17 people have viewed this wine today,2,1,Activity Notifications,0
+255,<num> person is looking at this item,1 person is looking at this item.,2,1,Activity Notifications,0
+254,<num> person is view this,🔥👁️ 1 person is viewing this.,2,1,Activity Notifications,0
+253,<num> person have looked at this item in the last few hours,62 people have looked at this item in the last few hours.,2,1,Activity Notifications,0
+233,jacob in seymour wisconsin united states purchase a bass xl just now,"Jacob in Seymour, Wisconsin, United States purchased a Bass XL just now!",2,1,Activity Notifications,0
+208,add to wish list <num> person have added,Add to Wish List(13 People Have Added),2,1,Activity Notifications,0
+231,crystal li in flushing united states purchase a,"Crystal Li in Flushing, United States purchased a",2,1,Activity Notifications,0
+204,<num> users bought this product touch the set - touch xl touchup makeup mirror bundle,64 users bought this product Touch: The Set - Touch XL & TouchUp Makeup Mirror Bundle,2,1,Activity Notifications,0
+210,cheryl in ontario bought <num> organic reishi mushroom powder <num> g about <num> minutes ago,Cheryl in Ontario bought 100% Organic Reishi Mushroom Powder 100g about 16 minutes ago,2,1,Activity Notifications,0
+209,<num> view per day,308 viewed per day,2,1,Activity Notifications,0
+268,in other users carts <num>,In other users' carts 59,2,1,Activity Notifications,0
+207,<num> person have looked at this in the last couple of hrs,2 people have looked at this in the last couple of hrs.,2,1,Activity Notifications,0
+206,someone from rochedale queensland australia started buy this,"Someone from Rochedale, Queensland, Australia started buying this!",2,1,Activity Notifications,0
+205,someone from portland united states us purchase modalert recent,"Someone from Portland, United States (US) purchased MODALERT recently.",2,1,Activity Notifications,0
+203,bought by <num> person in last few hours hot seller,Bought by 39 people in last few hours! HOT SELLER!,2,1,Activity Notifications,0
+212,<num> customers recent bought it,2 customers recently bought it,2,1,Activity Notifications,0
+202,bobby in decatur united states just purchased,"Bobby in Decatur, United States just purchased",2,1,Activity Notifications,0
+201,bernard in philadelphia united states purchase a,"BERNARD in Philadelphia, United States purchased a",2,1,Activity Notifications,0
+200,<num> person are looking at this product right now,5 people are looking at this product right now,2,1,Activity Notifications,0
+199,<num> customers view this product today,12 customers viewed this product today!,2,1,Activity Notifications,0
+198,<num> orders,404 Orders,2,1,Activity Notifications,0
+197,<num> other customers have this item in their shopping cart,1 other customers have this item in their shopping cart,2,1,Activity Notifications,0
+211,collin p from grandview missouri just bought burgundy two button suit about <num> seconds ago,Collin P. from Grandview Missouri just bought BURGUNDY TWO BUTTON SUIT ABOUT 5 SECONDS AGO,2,1,Activity Notifications,0
+213,<num> person view this today,11 people viewed this today!,2,1,Activity Notifications,0
+230,<num> person bought jotter to do refill in the last few hours,1 people bought Jotter To Do Refill in the last few hours,2,1,Activity Notifications,0
+223,<num> customers have bought today,8 customers have bought today,2,1,Activity Notifications,0
+229,<num> person bought this item last week,3 people bought this item last week.,2,1,Activity Notifications,0
+228,<num> person currently interested,24 people currently interested,2,1,Activity Notifications,0
+227,<num> person have added this item to their cart today,2 PEOPLE HAVE ADDED THIS ITEM TO THEIR CART TODAY,2,1,Activity Notifications,0
+226,<num> person have added this to their cart,13 people have added this to their cart,2,1,Activity Notifications,0
+225,<num> person have added to cart recently,"1,142 people have added to cart recently",2,1,Activity Notifications,0
+224,<num> customers bought this in the last <num> hours,92 customers bought this in the last 48 hours,2,1,Activity Notifications,0
+222,<num> customers have view this item recently,407 customers have viewed this item recently,2,1,Activity Notifications,0
+215,<num> units sold in the last <num> days,273 units sold in the last 30 days,2,1,Activity Notifications,0
+221,<num> users have looked at this product in the past <num> minutes,7 users have looked at this product in the past 6 minutes,2,1,Activity Notifications,0
+220,<num> sold in the last <num> days,2049 sold in the last 7 days,2,1,Activity Notifications,0
+219,<num> sold in past <num> months,1044 sold in past 12 months,2,1,Activity Notifications,0
+218,carl f from fort ann ny bought a king,"Carl F. from Fort Ann, NY bought a King",2,1,Activity Notifications,0
+217,<num> person viewing,3 PEOPLE VIEWING,2,1,Activity Notifications,0
+216,chelsea in burlington wisconsin bought take out the boat jumpsuit blackabout <num> minutes ago,"Chelsea in Burlington, Wisconsin bought Take Out The Boat Jumpsuit, Blackabout 13 minutes ago",2,1,Activity Notifications,0
+267,in <num> person s shopping bag,IN 43 PEOPLE'S SHOPPING BAG,2,1,Activity Notifications,0
+292,most popular,MOST POPULAR,2,1,Activity Notifications,0
+269,james from colonia purchase a,James from Colonia purchased a,2,1,Activity Notifications,0
+306,trey in sparta united states purchase stealth angel ultra lightweight portable sleeping bag about <num> minutes ago,"Trey in Sparta, United States purchased Stealth Angel Ultra Lightweight & Portable Sleeping Bag about 45 minutes ago",2,1,Activity Notifications,0
+322,synne kristine in halden bought classic bokksu subscription billed every <num> month ships every <num> months about <num> minutes ago,"Synne Kristine in Halden, bought Classic Bokksu Subscription (Billed Every 1 Month) (Ships every 1 Months) about 45 minutes ago",2,1,Activity Notifications,0
+321,this is in <num> other carts,This is in 5 other carts.,2,1,Activity Notifications,0
+320,someone in cedarhurst united states purchase a sproet and sprout shell violet stripe bloomers,"Someone in Cedarhurst, United States purchased a Sproet and Sprout Shell/Violet Stripe Bloomers",2,1,Activity Notifications,0
+319,someone bought hype blue large splat kids leggings,Someone bought: HYPE BLUE LARGE SPLAT KIDS LEGGINGS,2,1,Activity Notifications,0
+318,someone added <num> pc <num> ocean natural stone beads beaded bracelet men boho handmade to their cart right now,Someone added 1pc 4ocean natural stone beads beaded bracelet men boho handmade to their cart RIGHT NOW,2,1,Activity Notifications,0
+317,sandeep in hawthorne california bought sadie ponte pants - black just now,"Sandeep in Hawthorne, California bought Sadie Ponte Pants - Black Just Now",2,1,Activity Notifications,0
+316,samuel in minneapolis united states purchase a pod juice jewel mint cool nicotine salt e-liquid <num> <num> ml <num> hours ago,"Samuel in Minneapolis, United States purchased a Pod Juice Jewel Mint Cool ❄️Nicotine Salt e-Liquid 15/30ml 7 hours ago",2,1,Activity Notifications,0
+315,don t let em get away several person have recent view this item,DON'T LET 'EM GET AWAY Several people have recently viewed this item.,2,1,Activity Notifications,0
+314,rick in columbia united states purchase a,"Rick in Columbia, United States purchased a",2,1,Activity Notifications,0
+313,recently view <num> others view this in the last few hours,RECENTLY VIEWED 2 others viewed this in the last few hours,2,1,Activity Notifications,0
+312,someone in joliet illinois purchase a yocan evolve plus xl vaporizer,"Someone in Joliet, Illinois purchased a Yocan Evolve Plus XL Vaporizer",2,1,Activity Notifications,0
+311,this product has been view <num> times in the last <num> hours,THIS PRODUCT HAS BEEN VIEWED 480 TIMES IN THE LAST 48 HOURS,2,1,Activity Notifications,0
+310,real time <num> visitor right now,Real time 30 Visitor right now,2,1,Activity Notifications,0
+309,someone purchase a forward revive women s red white hustle t-shirt <num> minutes ago,Someone purchased a FORWARD REVIVE WOMEN'S RED WHITE HUSTLE T-SHIRT 32 minutes ago,2,1,Activity Notifications,0
+308,viewed <num> times in the last <num> days,Viewed 1040 times in the last 7 days,2,1,Activity Notifications,0
+323,stacey in saint marys united states purchase extra long <num> ft fiber cloth sync charge usb android cable - assorted colors about <num> minutes ago,"Stacey in Saint Marys, United States purchased Extra Long (10 Ft) Fiber Cloth Sync & Charge USB Android Cable - Assorted Colors about 30 minutes ago",2,1,Activity Notifications,0
+324,<num> added to bag in the last <num> hrs,43 added to bag in the last 48hrs,2,1,Activity Notifications,0
+325,rebecca in buffalo just bought sateen twill swatchabout <num> hour ago,Rebecca in Buffalo just bought Sateen Twill Swatchabout 1 hour ago,2,1,Activity Notifications,0
+334,someone in united states just purchase a,Someone in United States just purchased a,2,1,Activity Notifications,0
+340,someone in alexandria united states just bought ttdeye queen green colored contact lenses,"Someone in Alexandria, United States just bought TTDeye Queen Green Colored Contact Lenses",2,1,Activity Notifications,0
+339,leah rich in louisville united states purchase a,"Leah Rich in Louisville, United States purchased a",2,1,Activity Notifications,0
+338,son in suisun city united states purchase commander lex,"Son in Suisun City, United States purchased Commander Lex",2,1,Activity Notifications,0
+337,someone in yanchep bought a <num> mm mechanical performance boost gauge - blue white <num> seconds ago,Someone in Yanchep bought a 52mm Mechanical 'Performance' Boost Gauge - Blue/White 9 seconds ago,2,1,Activity Notifications,0
+336,someone in keilor east bought a piranta-edge skinning knife - blaze - havalon knives <num> minutes ago,Someone in Keilor East bought a Piranta-Edge Skinning Knife - Blaze - Havalon Knives54 minutes ago,2,1,Activity Notifications,0
+335,someone in vancouver washington purchase a orthofeet men s orthotic insoles about <num> minutes,"Someone in Vancouver, Washington purchased a Orthofeet Men's Orthotic Insoles about 38 minutes",2,1,Activity Notifications,0
+333,someone in spain purchased,Someone in Spain purchased,2,1,Activity Notifications,0
+326,someone in kilwinning united kingdom just bought cuban link chain bracelet,"Someone in Kilwinning, United Kingdom just bought Cuban Link Chain Bracelet",2,1,Activity Notifications,0
+332,someone in shelby twp united states just bought galaxy note <num> <num> mah zeroshock battery case <num> days ago,"Someone in Shelby twp, United States just bought Galaxy Note 8 10000mAh ZeroShock Battery Case 3 days ago",2,1,Activity Notifications,0
+331,someone in san diego united states just bought gemfield watch <num> days ago,"Someone in San diego, United States just bought Gemfield Watch 15 days ago",2,1,Activity Notifications,0
+330,someone in saint kilda victoria purchase frank queen size bed base,"Someone in Saint Kilda, Victoria purchased Frank Queen Size Bed Base",2,1,Activity Notifications,0
+329,someone in red cliffs bought a rhk yamaha yz yzf wrf <num> - <num> blue pursuit footpegs <num> minutes ago,Someone in Red Cliffs bought a RHK Yamaha YZ/YZF/WRF 99-16 Blue Pursuit Footpegs 3 minutes ago,2,1,Activity Notifications,0
+328,someone in petaling jaya malaysia just bought sneakerguard midsole paint marker - boost white,"Someone in Petaling Jaya, Malaysia just bought SNEAKERGUARD Midsole Paint Marker - BOOST White",2,1,Activity Notifications,0
+327,someone in new lynn bought a kogan a <num> earphones with inline control for ios android <num> hour ago,Someone in New Lynn bought a Kogan A1 Earphones with Inline Control for IOS/Android 1 hour ago.,2,1,Activity Notifications,0
+307,tristan in markham canada purchase a dragon baseball jersey,"Tristan in Markham, Canada purchased a Dragon Baseball Jersey",2,1,Activity Notifications,0
+305,trending style sold <num> times today,Trending Style! Sold 4 times today,2,1,Activity Notifications,0
+270,james in cashion oklahoma just bought glossy black brick geode amber gradient fast lanes,"James in Cashion, Oklahoma just bought Glossy Black Brick Geode / Amber Gradient Fast Lanes",2,1,Activity Notifications,0
+304,this product was view <num> seconds ago by someone from princeton,This product was viewed 26 seconds ago by someone from Princeton,2,1,Activity Notifications,0
+285,popular item <num> person recent purchase this,Popular item! 🔥 27 people recently purchased this.,2,1,Activity Notifications,0
+284,over <num> person have bought this product,Over 238 people have bought this product,2,1,Activity Notifications,0
+283,last purchase was <num> minutes ago by someone from dublin,Last purchase was 18 minutes ago by someone from Dublin,2,1,Activity Notifications,0
+282,laurie in urraween queensland bought no brainer usb charging anti-theft backpack,"Laurie in Urraween, Queensland bought No Brainer USB Charging Anti-Theft Backpack",2,1,Activity Notifications,0
+281,get it fast <num> added to bag today,Get it fast! 14 added to bag today,2,1,Activity Notifications,0
+280,grace from orlando united states bought camouflage jumpsuit <num> minutes ago,"GRACE from ORLANDO, United States bought Camouflage Jumpsuit 31 minutes ago          ",2,1,Activity Notifications,0
+279,ken in three bridges united states purchase all zebrawood olive ash,"Ken in Three Bridges, United States purchased All Zebrawood + Olive Ash",2,1,Activity Notifications,0
+278,keith in champaign illinois bought mini usb audio cassette to mp <num> converterabout <num> minutes ago,"Keith in Champaign, Illinois bought Mini USB Audio Cassette to MP3 Converterabout 56 minutes ago",2,1,Activity Notifications,0
+277,kamal in lathrop united states purchase a father sons super slim stretch feather print long sleeve - fs <num> <num> hours ago,"Kamal in Lathrop, United States purchased a Father Sons Super Slim Stretch Feather Print Long Sleeve - FS429 4 hours ago",2,1,Activity Notifications,0
+276,jonathan in syracuse united states just bought electric skateboard battery pack <num> v <num> s <num> p <num> hours ago,"Jonathan in Syracuse, United States just bought Electric Skateboard Battery Pack 36V 10S2P 4 hours ago",2,1,Activity Notifications,0
+275,joe m from bought a cartoon caterpillar rigged <num> d model recently,"Joe M from , Bought a Cartoon Caterpillar Rigged 3D Model Recently",2,1,Activity Notifications,0
+274,jim in houston usa purchase pure ratios hemp oil cbd patch <num> mg cbd,"Jim in Houston, USA purchased Pure Ratios: Hemp Oil CBD Patch (40mg CBD)",2,1,Activity Notifications,0
+273,jeremy in warroad united states purchase a,"Jeremy in Warroad, United States purchased a",2,1,Activity Notifications,0
+272,jeremy in stockton united states purchase a,"Jeremy in Stockton, United States purchased a",2,1,Activity Notifications,0
+271,jamie in nashville united states purchased,"Jamie in Nashville, United States purchased",2,1,Activity Notifications,0
+286,matthew in charleston south carolina just purchase the puffy lux mattress,"Matthew in Charleston, South Carolina just purchased The Puffy Lux Mattress",2,1,Activity Notifications,0
+287,mher from san angelo tx recent made a purchase with crossrope,"Mher from San Angelo, TX Recently made a purchase with Crossrope",2,1,Activity Notifications,0
+288,popular item <num> person are view this and <num> recent purchase it,Popular Item! 🔥 16 people are viewing this and 18 recently purchased it.,2,1,Activity Notifications,0
+297,other person want this <num> person have this in their cart now,Other people want this. 10 people have this in their cart right now.,2,1,Activity Notifications,0
+303,last purchase at <num> <num> am today,Last purchased at 11:19am today.,2,1,Activity Notifications,0
+302,estiven in deer park united states purchase prewash <num> oz,"estiven in Deer Park, United States purchased PreWash™ 4 oz",2,1,Activity Notifications,0
+301,don t miss out we ve sold <num> in the last few days,Don't miss out! We've sold 38 in the last few days.,2,1,Activity Notifications,0
+300,mounif in pittsburgh united states purchased,"Mounif in Pittsburgh, United States purchased",2,1,Activity Notifications,0
+299,long dress style beach cover up with lace detail jessica in metairie united states,"Long Dress Style Beach Cover Up With Lace Detail Jessica in Metairie, United States",2,1,Activity Notifications,0
+298,over <num> views in <num> hrs,Over 200 views in 24 hrs,2,1,Activity Notifications,0
+296,one customer bought this article in the last <num> min,One customer bought this article in the last 53 min.,2,1,Activity Notifications,0
+289,michael m from lacey wa just bought a cal king,"Michael M. from Lacey, WA just bought a Cal King",2,1,Activity Notifications,0
+295,oliver in rotterdam netherlands purchase a england away soccer shorts <num> about <num> hours ago,"Oliver in Rotterdam, Netherlands purchased a England Away Soccer Shorts 2018 About 9 hours ago",2,1,Activity Notifications,0
+294,oh so popular <num> bought in the last <num> days,OH SO POPULAR! 21 bought in the last 7 days.,2,1,Activity Notifications,0
+293,nancy in pennsylvania purchase <num> italian sterling silver milano twist adjustable chain,"Nancy in Pennsylvania purchased 24"" Italian Sterling Silver Milano Twist Adjustable Chain",2,1,Activity Notifications,0
+195,<num> other person looking at this item,6 other people looking at this item,2,1,Activity Notifications,0
+291,someone in ampang malaysia just bought,"Someone in Ampang, Malaysia just bought",2,1,Activity Notifications,0
+290,monira in doha qatar purchase a lilyvanity velvet box,"Monira in Doha, Qatar purchased a LilyVanity™ Velvet Box",2,1,Activity Notifications,0
+196,<num> other person are currently view this item,3 other people are currently viewing this item.,2,1,Activity Notifications,0
+214,another babe in alexandria united states just ordered flat tummy tea,"Another babe in Alexandria, United States just ordered Flat Tummy Tea",2,1,Activity Notifications,0
+194,<num> others have already bought this deal today,6 others have already bought this deal today!,2,1,Activity Notifications,0
+84,no thanks i don t want the free gift,"No thanks, I don't want the free gift.",2,1,Confirmshaming,0
+100,no thanks i hate fun games,"no thanks, I hate fun & games",2,1,Confirmshaming,0
+99,no thanks i hate saving money,"No thanks, I hate saving money",2,1,Confirmshaming,0
+98,no thanks i just want the item,"No thanks, I just want the item",2,1,Confirmshaming,0
+97,no thanks i prefer to pay full price,"No thanks, I prefer to pay full price.",2,1,Confirmshaming,0
+96,no thanks i ll be the last to know,"No thanks, I'll be the last to know.",2,1,Confirmshaming,0
+95,no thanks i ll just walk,"[NO THANKS, I'LL JUST WALK]",2,1,Confirmshaming,0
+94,no thanks i dont want a discount,"No thanks, I dont want a discount",2,1,Confirmshaming,0
+93,no thanks i ll let this offer sail away,"No Thanks, I'll let this offer sail away",2,1,Confirmshaming,0
+92,no thanks i prefer not to have a protection plan,"No Thanks, I prefer not to have a protection plan",2,1,Confirmshaming,0
+91,no thanks i ll save money another day,"no thanks, I'll save money another day",2,1,Confirmshaming,0
+90,no thanks i ll skip this amazing super-saver deal i don t need so many beautiful textures,"No thanks, I’ll skip this amazing super-saver deal. I don’t need so many beautiful textures",2,1,Confirmshaming,0
+89,no thanks i love chaos,No thanks. I love chaos!,2,1,Confirmshaming,0
+88,i d rather not save,I'd rather not save,2,1,Confirmshaming,0
+87,no thanks i m not interested in saving money,"No thanks, I'm not interested in saving money.",2,1,Confirmshaming,0
+86,no thanks i don t like free things,No thanks. I don't like free things...,2,1,Confirmshaming,0
+101,no thanks i prefer to pay more for shoes,"No thanks, I prefer to pay more for shoes!",2,1,Confirmshaming,0
+102,no thanks i rather pay full price,"No Thanks, I rather pay full price",2,1,Confirmshaming,0
+103,no thanks i ll just pay full price,"No thanks, I'll just pay full price.",2,1,Confirmshaming,0
+112,grab yourself a bargain,Grab yourself a bargain!,2,1,Pressured Selling,0
+118,don t forget the essentials get up to <num> years of accidental damage coverage with applecare,Don't forget the essentials Get up to 2 years of accidental damage coverage with AppleCare+.,2,1,Pressured Selling,0
+117,don t miss on these awesome items don t miss on our table decoration system,DON'T MISS ON THESE AWESOME ITEMS / DON'T MISS ON OUR TABLE DECORATION SYSTEM,2,1,Pressured Selling,0
+116,fanstastic deals,FANSTASTIC DEALS,2,1,Pressured Selling,0
+115,for the ultimate experience can select more than one,FOR THE ULTIMATE EXPERIENCE: (Can select more than one),2,1,Pressured Selling,0
+114,get <num> off your <num> nd case or a canopy screen protector a <num> off discount will be automatically applied to the lowest priced item in your cart when you check out with more than one item excludes clearance items click to choose another item,*** Get 50% Off Your 2nd Case OR a Canopy Screen Protector *** A 50% OFF discount will be automatically applied to the lowest priced item in your cart when you check out with more than one item! (excludes Clearance items) Click to Choose Another Item,2,1,Pressured Selling,0
+113,glassguard warranty do not fear breaking your glass add our glassguard warranty policy for just <num> and we ll insure this purchase,GlassGuard Warranty Do not fear breaking your glass! Add our GlassGuard warranty policy for just $3.85 and we'll insure this purchase.,2,1,Pressured Selling,0
+111,how about one of these hot sellers,How about one of these hot sellers?,2,1,Pressured Selling,0
+104,no thanks i ll still want to pay full price,"No thanks, I'll still want to pay full price",2,1,Confirmshaming,0
+110,let s make sure you have everything else you need,Let's make sure you have everything else you need,2,1,Pressured Selling,0
+109,customers also bought,Customers also bought,2,1,Pressured Selling,0
+108,your purchase entitles you to the following special,"""Your purchase entitles you to the following special""",2,1,Pressured Selling,0
+107,no thanks i d rather not win,"No thanks, I’d rather not win.",2,1,Confirmshaming,0
+106,protect your sofa your humblebum sofa in thatch house fabric will look wicked why not add castelan fabric protection to cover your new squish machine against wine spillages messy tv dinners and other disasters for just just <num>,"PROTECT YOUR SOFA! Your Humblebum Sofa in Thatch house fabric will look wicked! Why not add Castelan Fabric Protection to cover your new squish machine against wine spillages, messy TV dinners, and other disasters for just just £80?",2,1,Pressured Selling,0
+105,no thanks i despise coupons,"No thanks, I despise coupons!",2,1,Confirmshaming,0
+85,no thanks i hate cool stuff,"No thanks, I hate cool stuff",2,1,Confirmshaming,0
+83,no thanks i don t want to save up to <num>,"No thanks, I don't want to save up to 75%",2,1,Confirmshaming,0
+120,continue to claim your free gift auto-applies at checkout,Continue to claim your free gift (auto-applies at checkout).,2,1,Pressured Selling,0
+82,no thanks i ve got too much cool glock stuff,"No thanks, I've got too much cool Glock stuff!",2,1,Confirmshaming,0
+63,no thanks i don t like savings,"No thanks, I don't like savings",2,1,Confirmshaming,0
+62,no thanks i don t like fun and games,"No thanks, I don’t like fun and games.",2,1,Confirmshaming,0
+61,no thanks,NO THANKS,2,1,Confirmshaming,0
+60,no thank you i prefer to pay the full price,"No, thank you. I prefer to pay the full price",2,1,Confirmshaming,0
+59,i do not want to protect my item,I do not want to protect my item,2,1,Confirmshaming,0
+58,i don t like free gifts no thanks,"I DON'T LIKE FREE GIFTS, NO THANKS",2,1,Confirmshaming,0
+57,no i ll rather pay full price,"No, I'll rather pay full price.",2,1,Confirmshaming,0
+56,no i don t want great deals,"No, I don't want great deals.",2,1,Confirmshaming,0
+55,no i d rather not hear about exclusive offers and discounts,No I'd rather not hear about exclusive offers and discounts.,2,1,Confirmshaming,0
+54,no i d rather do it the hard way,"No, I'd rather do it the hard way...",2,1,Confirmshaming,0
+53,no thanks i don t like getting free stuff,"No thanks, I don't like getting free stuff.",2,1,Confirmshaming,0
+52,nah i ll pay full price,"Nah, I'll pay full price",2,1,Confirmshaming,0
+51,nah i like paying full price,"Nah, I like paying full price",2,1,Confirmshaming,0
+50,i ll shop without a discount,I'll Shop Without A Discount,2,1,Confirmshaming,0
+49,i don t like to save money,I Don't Like to Save Money,2,1,Confirmshaming,0
+64,no thanks i will pay full price,"No thanks, I will pay full price.",2,1,Confirmshaming,0
+65,no thanks i don t like promotions and exclusive content,"No thanks, I don't like promotions and exclusive content.",2,1,Confirmshaming,0
+66,no thank you i prefer to pay for shipping,"No thank you, I prefer to pay for shipping.",2,1,Confirmshaming,0
+75,no thanks i don t want discount,"No thanks, I don't want discount",2,1,Confirmshaming,0
+81,no thanks i want to pay full price,"No thanks, I want to pay full price",2,1,Confirmshaming,0
+80,no thanks i don t want any deals,"No thanks, I don't want any deals",2,1,Confirmshaming,0
+79,no thanks i want to pay the full price,"No thanks, I want to pay the full price.",2,1,Confirmshaming,0
+193,<num> person are eyeing this item,33 people are eyeing this item!,2,1,Activity Notifications,0
+77,no thanks i don t want to build one i d rather kick rocks,"No thanks, I don't want to build one.. I'd rather kick rocks!",2,1,Confirmshaming,0
+76,no thanks i don t want official software at the best price,"No Thanks, I don't want official software at the best price.",2,1,Confirmshaming,0
+74,no thanks i don t want deals,No thanks. I don’t want deals.,2,1,Confirmshaming,0
+67,no thanks i don t want <num> off my order,"NO THANKS, I DON'T WANT 20% OFF MY ORDER",2,1,Confirmshaming,0
+73,no thanks i like full price,"No thanks, I like full price",2,1,Confirmshaming,0
+72,no thanks i m not interested,"No thanks, I'm not interested",2,1,Confirmshaming,0
+71,no thanks i don t mind missing out,"NO THANKS, I DON’T MIND MISSING OUT",2,1,Confirmshaming,0
+70,no thank you i prefer to pay full price,"No thank you, I prefer to pay full price",2,1,Confirmshaming,0
+69,no thanks i don t like good deals,"No thanks, I don't like good deals.",2,1,Confirmshaming,0
+68,no thanks i don t like great deals,"No, thanks. I don't like great deals.",2,1,Confirmshaming,0
+119,did you know that shaver heads need replacing every <num> - <num> months get the shaver guard cleaning spray to extend its life for up to another <num> months,Did you know that Shaver heads need replacing every 12 - 18 months? Get the Shaver Guard cleaning spray to extend its life for up to another 6 months!,2,1,Pressured Selling,0
+78,no thanks i don t want to look my best,"No thanks, I don't want to look my best",2,1,Confirmshaming,0
+121,customer also shopped for,Customer also shopped for,2,1,Pressured Selling,0
+158,no thanks free stuff isn t for me,"No thanks, free stuff isn't for me.",2,1,Confirmshaming,0
+174,nice choice did you know you re missing out on these deals with the item in your cart suit shirt tie now <num> - shop suits shirts and ties or get <num> suit packages for <num>,"Nice choice. Did you know you’re missing out on these deals with the item in your cart. Suit + Shirt + Tie now $599.99* - Shop Suits, Shirts and Ties Or Get 2 Suit Packages for $1100*",2,1,Pressured Selling,0
+173,this offer is only valid if you add to cart now,This offer is only VALID if you add to cart now!,2,1,Pressured Selling,0
+172,limited time offer grab a matching pair save up <num>,LIMITED TIME OFFER : Grab a Matching Pair & save up 60%!,2,1,Pressured Selling,0
+171,limited-time offer bundle a base and get <num> off,Limited-time Offer: Bundle a base and get 20% off,2,1,Pressured Selling,0
+170,add and save,Add and save!,2,1,Pressured Selling,0
+169,add for better results,ADD FOR BETTER RESULTS,2,1,Pressured Selling,0
+168,add on something to make it extra special,Add on something to make it extra special!,2,1,Pressured Selling,0
+167,add to your gift and we ll ship it for free,Add to Your Gift and We'll Ship it For Free!,2,1,Pressured Selling,0
+166,add world s most comfortable chairs,ADD WORLD'S MOST COMFORTABLE CHAIRS,2,1,Pressured Selling,0
+165,two free pillows and <num> off with promo code,TWO FREE PILLOWS AND 30% OFF WITH PROMO CODE,2,1,Pressured Selling,0
+164,the competition <num> <num>,"THE COMPETITION $1,299.99",2,1,Pressured Selling,0
+163,no thanks i definitely measured correctly,No thanks I definitely measured correctly,2,1,Confirmshaming,0
+162,professional color tool kit addons,Professional Color Tool Kit / Addons,2,1,Pressured Selling,0
+161,no thanks i d rather join the pay full price for things club,"No thanks! I'd rather join the """"Pay Full Price for Things"""" club.",2,1,Confirmshaming,0
+160,no thanks i d prefer not to save,"No, thanks. I'd prefer not to save.",2,1,Confirmshaming,0
+175,your exclusive access is ready press continue to proceed,Your exclusive access is ready—press 'Continue' to proceed.,2,1,Pressured Selling,0
+176,yes upgrade my purchase,Yes! Upgrade my purchase,2,1,Pressured Selling,0
+177,would you like to purchase an extended protection plan,Would you like to purchase an Extended Protection Plan?,2,1,Pressured Selling,0
+187,abbie in calwell australia purchase shark bite socks about <num> hour ago,"Abbie in Calwell, Australia purchased Shark Bite Socks about 1 hour ago",2,1,Activity Notifications,0
+122,necessary protection,Necessary Protection..,2,1,Pressured Selling,0
+192,<num> person are looking at this artwork,8 people are looking at this artwork,2,1,Activity Notifications,0
+191,<num> person are looking at this item right now,3 people are looking at this item right now,2,1,Activity Notifications,0
+190,<num> items sold this hour,994 items sold this hour.,2,1,Activity Notifications,0
+189,<num> person view this product per day,19 people viewed this product per day,2,1,Activity Notifications,0
+188,william in pago pago united states purchase a,"William in Pago Pago, United States purchased a",2,1,Activity Notifications,0
+186,ashley in auburn united states purchase a check plz iphone x xs case about <num> minutes ago,"Ashley in Auburn, United States purchased a Check Plz iPhone X/Xs Case about 24 minutes ago",2,1,Activity Notifications,0
+179,with <num> -year care subscription <num> days history,With 1-year Care Subscription 10 days history,2,1,Pressured Selling,0
+185,<num> currently viewing,89 currently viewing,2,1,Activity Notifications,0
+184,your extra coupon is ready press continue to proceed,Your extra coupon is ready—press 'Continue' to proceed.,2,1,Trick Questions,0
+183,tick here if you do not want to receive promotional offers by post tick here if you do wish to receive promotional offers by email and or sms tick here if you would like to receive offers from selected third parties,Tick here if you do not want to receive Promotional Offers by Post Tick here if you do wish to receive Promotional Offers by email and/or SMS Tick here if you would like to receive Offers from selected third parties,2,1,Trick Questions,0
+182,score you ve qualified for a checkout bonus,Score! You've Qualified for a Checkout Bonus,2,1,Pressured Selling,0
+181,want a special deal bundle and save upto <num>,Want a special deal? Bundle and SAVE UPTO30%,2,1,Pressured Selling,0
+180,want to add one of these,Want to add one of these?,2,1,Pressured Selling,0
+159,no thanks i d like <num> off,"No thanks, I'd like 0% off",2,1,Confirmshaming,0
+178,would you like to buy more and save more,Would you like to buy more and save more?,2,1,Pressured Selling,0
+157,no thanks i don t like exclusive deals,"No Thanks, I don't like exclusive deals.",2,1,Confirmshaming,0
+139,we d like to keep you informed via email about product updates upgrades special offers and pricing if you do not wish to be contacted via email please ensure that the box is not checked,"We'd like to keep you informed via email about product updates, upgrades, special offers and pricing. If you do not wish to be contacted via email, please ensure that the box is not checked.",2,1,Trick Questions,0
+137,uncheck the box if you prefer not to receive email updates,Uncheck the box if you prefer not to receive email updates.,2,1,Trick Questions,0
+136,spin to unlock your mystery offer,Spin to unlock your mystery offer,2,1,Trick Questions,0
+135,personalize your doll,Personalize your doll,2,1,Trick Questions,0
+134,lenscap damage only,Lenscap: Damage Only,2,1,Trick Questions,0
+133,continue to claim your bonus points auto-applies at checkout,Continue to claim your bonus points (auto-applies at checkout).,2,1,Pressured Selling,0
+132,if you click continue below we will be happy to tell you about discounts money off and new products from very by e-mail and text unless you tell us you do not want to hear about them by ticking here if you would like to receive offers from carefully selected <num> rd parties please tick here,"If you click continue below we will be happy to tell you about discounts, money off and new products from Very by e-mail and text,
+unless you tell us you DO NOT want to hear about them, by ticking here.
+If you would like to receive offers from carefully selected 3rd parties, please tick here",2,1,Trick Questions,0
+131,i wish to start shopping but i don t want to receive daily email alerts about your amazing discounts on luxury brands,I wish to Start Shopping but I don't want to receive daily email alerts about your amazing discounts on luxury brands.,2,1,Trick Questions,0
+129,i don t like discounts,I don't like discounts,2,1,Trick Questions,0
+128,i already have this item do not add this to cart,I already have this item. Do not add this to cart,2,1,Trick Questions,0
+127,how about these,How about these?,2,1,Trick Questions,0
+126,you choose just one box or a madison reed membership,"You choose: just one box, or a  Madison Reed Membership?",2,1,Trick Questions,0
+125,your bonus points is ready press continue to proceed,Your bonus points is ready—press 'Continue' to proceed.,2,1,Trick Questions,0
+124,your discount is applied additional handling fee may appear at checkout,Your discount is applied.*  *Additional handling fee may appear at checkout.,2,1,Trick Questions,0
+156,yes i want to save money no thanks,"Yes, I Want To Save Money!No Thanks",2,1,Confirmshaming,0
+123,your discount is applied additional processing fee may appear at checkout,Your discount is applied.*  *Additional processing fee may appear at checkout.,2,1,Trick Questions,0
+138,want free shipping,Want Free Shipping?,2,1,Trick Questions,0
+130,i want to pay more later,I WANT TO PAY MORE LATER ;),2,1,Trick Questions,0
+140,we d like to send you weekly emails packed full of our lovely products clearance goodies and cool stuff to win you can unsubscribe at any time if you don t want to receive these emails please tick this box we d like to send you the occasional brochure so you can get a regular fix of our lovely product you can unsubscribe at any time if you don t want to receive these brochures please tick this box we d like to introduce you to other brands you might love who will post you the occasional brochure you can opt out of this at any time if you don t want to receive these brochures please tick this box,"We'd like to send you weekly emails packed full of our lovely products, clearance goodies and cool stuff to win. You can unsubscribe at any time. If you DON'T want to receive these emails, please tick this box. We'd like to send you the occasional brochure so you can get a regular fix of our lovely product! You can unsubscribe at any time. If you DON'T want to receive these brochures, please tick this box. We'd like to introduce you to other brands you might love who will post you the occasional brochure. You can opt out of this at any time. If you DON'T want to receive these brochures, please tick this box.",2,1,Trick Questions,0
+148,people also buy this with,People also buy this with,2,1,Pressured Selling,0
+155,protect your gear,Protect Your Gear,2,1,Pressured Selling,0
+154,<num> <num>,$132.90 $99.00,2,1,Pressured Selling,0
+153,subscribe save,Subscribe & Save,2,1,Pressured Selling,0
+152,our best selling goggle,OUR BEST SELLING GOGGLE,2,1,Pressured Selling,0
+150,order without free membership <num>,Order without free membership $69.95,2,1,Pressured Selling,0
+149,no usb or y-adapter our usb sound card is highly recommended for pc mac linux windows and works with current gen consoles the y adapter is recommended for console gaming phone or other trrs jacks,"No USB or Y-Adapter!? Our USB Sound Card is highly recommended for PC (Mac/Linux/Windows) and works with current gen consoles. The Y adapter is recommended for console gaming, phone, or other TRRS jacks.",2,1,Pressured Selling,0
+151,other items on special offer,Other Items On Special Offer:,2,1,Pressured Selling,0
+142,login register,LOGIN/REGISTER,2,1,Trick Questions,0
+146,subscribe save <num> <num>,Subscribe & Save (15%): $ 16.99,2,1,Pressured Selling,0
+145,before you check out can we tempt you,"Before you check out, can we tempt you?",2,1,Pressured Selling,0
+144,competitor price <num>,Competitor Price: $172.00,2,1,Pressured Selling,0
+143,congratulations you qualify to receive rechargeable <num> -function bullet vibe for free,Congratulations! You qualify to receive Rechargeable 10-Function Bullet Vibe for FREE!,2,1,Pressured Selling,0
+141,we d love to send you emails with offers and new products from new balance athletics inc but if you do not wish to receive these updates please tick this box,"""We'd love to send you emails with offers and new products from New Balance Athletics, Inc. but if you do not wish to receive these updates, please tick this box.",2,1,Trick Questions,0
+147,save <num> aud <num> off,Save $148.98AUD – 49% Off,2,1,Pressured Selling,0
+404,sharmeen atif from karachi just bought stylish metal glasses frames for kids-assorted-na <num>,Sharmeen Atif From Karachi just bought Stylish Metal Glasses Frames For Kids-Assorted-NA7157,1,1,Activity Notifications,0
+397,annie in cheras malaysia just bought an abundance of flowers - van-go paint-by-number kit,"Annie in Cheras, Malaysia just bought: An Abundance of Flowers - Van-Go Paint-By-Number Kit",1,1,Activity Notifications,0
+398,someone in city just added radiance - nebulizing diffuser to their cart,Someone in city just added Radiance - Nebulizing Diffuser® to their cart,1,1,Activity Notifications,0
+399,jamie from eloy united states purchase a cbd oil vape additives <num> pack about <num> hours ago,Jamie from Eloy United States purchased a CBD Oil Vape Additives 4 Pack About 7 hours ago,1,1,Activity Notifications,0
+402,someone in paris france just purchase a kanpeki knife set,"Someone in Paris, France just purchased a Kanpeki Knife Set",1,1,Activity Notifications,0
+400,someone in mount louisa bought a coleman folding table bench set <num> minutes ago,Someone in Mount Louisa bought a Coleman Folding Table & Bench Set 2 minutes ago,1,1,Activity Notifications,0
+401,israël in metz france purchase a more advanced chord substitutions,"Israël in Metz, France purchased a More ADVANCED Chord Substitutions",1,1,Activity Notifications,0
+403,someone in castle hill bought a philips essential led downlight kit <num> w <num> k few hours ago,Someone in Castle Hill bought a Philips Essential LED Downlight Kit | 5W 4000K few hours ago.,1,1,Activity Notifications,0
+395,someone in dover united states just bought crew <num> mins ago,"Someone in DOVER, United States just bought Crew 15 mins ago",1,1,Activity Notifications,0
+396,someone in louisville kentucky united states purchase gold presidential bracelet with watch buckle <num> hours ago,Someone in Louisville Kentucky United States Purchased Gold Presidential Bracelet With Watch Buckle 9 hours ago,1,1,Activity Notifications,0
+389,<num> person have looked at this part recently,22 people have looked at this part recently,1,1,Activity Notifications,0
+394,rose in portland united states purchase green eco-friendly iphone xr case about <num> minutes ago,"Rose in Portland, United States purchased Green Eco-Friendly iPhone XR Case about 54 minutes ago",1,1,Activity Notifications,0
+393,<num> person are view this right now,251 people are viewing this right now,1,1,Activity Notifications,0
+392,<num> person have this in their bag now,8 people have this in their bag right now.,1,1,Activity Notifications,0
+391,debby in harpers ferry united states just bought icing pen decorating tool,"Debby in Harpers Ferry, United States just bought: Icing Pen Decorating Tool",1,1,Activity Notifications,0
+390,sabrina in paraparaumu new zealand purchase a scho-ka-kola schokakola energy chocolate caffeine snack food mre caffeinated,"Sabrina in Paraparaumu, New Zealand purchased a SCHO-KA-KOLA Schokakola energy Chocolate caffeine snack food MRE caffeinated ",1,1,Activity Notifications,0
+386,<num> person view this in the last hour,5338 people viewed this in the last hour,1,1,Activity Notifications,0
+388,sayeeganesh in chennai india just bought dhoni the finisher t-shirt an hour ago,"Sayeeganesh in Chennai, India just bought Dhoni the Finisher T-Shirt an hour ago",1,1,Activity Notifications,0
+387,selling fast add to bag <num> times in the last <num> hours,Selling fast! Add to bag 7 times in the last 48 hours.,1,1,Activity Notifications,0
+406,sierra in cypress california bought beauty in all dress dusty blue about <num> minutes ago,"Sierra in Cypress, California bought Beauty In All Dress, Dusty Blue about 46 minutes ago",1,1,Activity Notifications,0
+405,shopper from saint john nb view lenovo thinkcentre m <num> t <num> m <num> rus desktop computer <num> minutes ago,"Shopper from Saint John, NB viewed Lenovo ThinkCentre M710t 10M9000RUS Desktop Computer 3 minutes ago!",1,1,Activity Notifications,0
+422,john in toowoomba city australia purchase a resin tank <num> hours ago,"JOHN in Toowoomba City, Australia purchased a Resin Tank 7 hours ago",1,1,Activity Notifications,0
+407,julie in oak brook united states purchase a watercolor brush pens <num> refillable colors with travel case about <num> hours ago,"JULIE in Oak Brook, United States purchased a Watercolor Brush Pens 24 Refillable Colors with Travel Case about 10 hours ago",1,1,Activity Notifications,0
+418,marc in newton united states purchasedktm stand plate large ktm,"Marc in Newton, United States purchasedKTM Stand Plate Large KTM...",1,1,Activity Notifications,0
+384,<num> person recent purchase this,146 people recently purchased this.,1,1,Activity Notifications,0
+426,<num> person bought this,5338 people bought this,1,1,Activity Notifications,0
+425,someone from menlo park california just purchase electric skateboard motor <num> <num> kv,"Someone from Menlo Park, California just purchased Electric Skateboard Motor 6374 190KV.",1,1,Activity Notifications,0
+424,someone from norway purchase a super fg grater - <num> x faster - <num> off,Someone from Norway purchased a Super FG Grater - 12x Faster - 15% OFF,1,1,Activity Notifications,0
+423,someone from osijek croatia just bought tmc cp style single pistol pouch,"Someone from Osijek, Croatia just bought TMC CP Style Single Pistol Pouch",1,1,Activity Notifications,0
+421,<num> view per hour,2 viewed per hour,1,1,Activity Notifications,0
+420,<num> person have added this product to bag in the last <num> hours,52 people have added this product to bag in the last 72 hours,1,1,Activity Notifications,0
+419,jessica in orange united states purchase a black <num> s sequin maxi flapper dress <num> minutes ago,"Jessica in Orange, United States purchased a Black 1920s Sequin Maxi Flapper Dress 12 minutes ago",1,1,Activity Notifications,0
+417,ken in oakland united states purchase a dreamville hoodie a month ago,"Ken in Oakland, United States purchased a Dreamville Hoodie a month ago",1,1,Activity Notifications,0
+408,mitchell h purchase a dimplex ignitexl <num> linear built in electric fireplace,"Mitchell H. Purchased a Dimplex IgniteXL 100"" Linear Built in Electric Fireplace",1,1,Activity Notifications,0
+416,someone in egypt bought,Someone in Egypt bought,1,1,Activity Notifications,0
+415,<num> sold in the last <num> hours,7 sold in the last 48 hours,1,1,Activity Notifications,0
+414,<num> person have view recently,"6,743 people have viewed recently",1,1,Activity Notifications,0
+413,natalie in graham united states purchase a free bts answer magic pillow about <num> hour ago,"Natalie in Graham, United States purchased a FREE BTS Answer Magic Pillow about 1 hour ago",1,1,Activity Notifications,0
+412,<num> person view this product recent,104 people viewed this product recently!,1,1,Activity Notifications,0
+411,<num> person view this product this week,127 People viewed this product this week,1,1,Activity Notifications,0
+410,michael in pontiac united states purchase a,"Michael in Pontiac, United States purchased a  ",1,1,Activity Notifications,0
+409,<num> person view this product,23 People viewing this product,1,1,Activity Notifications,0
+385,<num> person view item in the last <num> hours,88 PEOPLE VIEWED ITEM IN THE LAST 24 HOURS,1,1,Activity Notifications,0
+348,<num> person are view this offer,232 people are viewing this offer!,1,1,Activity Notifications,0
+383,<num> of our customers added surefit protection this year,65% of our customers added Surefit protection this year.,1,1,Activity Notifications,0
+351,<num> person have view this item in the last <num> days,117 people have viewed this item in the last 7 days.,1,1,Activity Notifications,0
+359,limited edition honeycomb necklace bee inspired someone purchase a limited edition honeycomb necklace bee inspired,Limited Edition Honeycomb Necklace (Bee Inspired) Someone purchased a Limited Edition Honeycomb Necklace (Bee Inspired),1,1,Activity Notifications,0
+358,leslie in usa just purchase special design exclusive handmade silver ring,Leslie in USA just Purchased Special Design Exclusive Handmade Silver Ring,1,1,Activity Notifications,0
+357,oscar from cajamarca peru purchased,"Oscar from Cajamarca, Peru purchased",1,1,Activity Notifications,0
+356,other <num> customers have it in their cart,Other 2 customers have it in their cart.,1,1,Activity Notifications,0
+355,our most recent customers are from new rochelle roseville and brooksville,"Our most recent customers are from New Rochelle, Roseville, and Brooksville",1,1,Activity Notifications,0
+354,over <num> bought,Over 38 bought,1,1,Activity Notifications,0
+353,<num> person have view today,660 people have viewed today,1,1,Activity Notifications,0
+352,<num> person have view this product today,8 people have viewed this product today!,1,1,Activity Notifications,0
+350,viewed <num> times today,Viewed 744 times today,1,1,Activity Notifications,0
+361,<num> person looked at this during the last <num> hours,21 people looked at this during the last 24 hours,1,1,Activity Notifications,0
+349,mark in richmond hill united states purchase a fugoo tough <num> minutes ago,"mark in richmond hill, United States purchased a Fugoo Tough 11 minutes ago",1,1,Activity Notifications,0
+347,<num> person are currently view this product,9 people are currently viewing this product,1,1,Activity Notifications,0
+346,someone in sasebo japan just bought,"Someone in Sasebo, Japan just bought",1,1,Activity Notifications,0
+345,alyssa in san antonio united states purchase a itunes japan gift card <num> jpy about <num> minutes ago,"Alyssa in San Antonio, United States purchased a iTunes Japan Gift Card 10000 JPY about 35 minutes ago",1,1,Activity Notifications,0
+344,someone in flemington united states purchase anti-aging eyelid tape contains <num> strips just now,"Someone in Flemington, United States purchased Anti-Aging Eyelid Tape (Contains 100 Strips) Just now",1,1,Activity Notifications,0
+343,someone in faizabad just bought pretty love penis sleeve <num> inch an hour <num> minutes ago,Someone in Faizabad just bought: Pretty Love Penis Sleeve 7 inch an hour 2 minutes ago,1,1,Activity Notifications,0
+342,continue to claim your exclusive access auto-applies at checkout,Continue to claim your exclusive access (auto-applies at checkout).,1,1,Pressured Selling,0
+341,continue to claim your extra coupon auto-applies at checkout,Continue to claim your extra coupon (auto-applies at checkout).,1,1,Pressured Selling,0
+360,purchased <num> times this week,Purchased 6 times this week.,1,1,Activity Notifications,0
+362,someone in tornado united states just bought fresh melon menthol <num> hours ago,"Someone in Tornado, United States just bought Fresh Melon Menthol 2 hours ago",1,1,Activity Notifications,0
+382,sudha rana from jaipur bought this product <num> mins ago,"Sudha rana from Jaipur bought this product, 23 Mins ago.",1,1,Activity Notifications,0
+373,chirag in anoopshahr just got the jays - a-jays one about <num> minutes ago,Chirag in Anoopshahr just got the JAYS - a-JAYS One+ about 17 minutes ago,1,1,Activity Notifications,0
+381,favored by <num> person,Favored By: 400 people!,1,1,Activity Notifications,0
+380,tambria in hattiesburg just bought peruvian virgin natural wave hair <num> bundles with lace frontal <num> human virgin hair,"Tambria in Hattiesburg just bought Peruvian Virgin Natural Wave Hair 3 Bundles with Lace Frontal, 100% Human Virgin Hair ",1,1,Activity Notifications,0
+379,theresa from botkins just bought panoply <num> a-line lace formal dress,Theresa from Botkins just bought Panoply 14918 A-line Lace Formal Dress,1,1,Activity Notifications,0
+378,fast mover <num> person added this to cart today,Fast Mover: 35 PEOPLE added this to cart today!,1,1,Activity Notifications,0
+377,faith in glendale united states purchase a choose your flavors <num> bag sample pack whole bean about <num> hour ago,"Faith in Glendale, United States purchased a Choose Your Flavors 5 Bag Sample Pack (Whole Bean) about 1 hour ago",1,1,Activity Notifications,0
+376,edwin in woodland park nj just bought,"Edwin in Woodland Park, NJ just bought",1,1,Activity Notifications,0
+375,<num> bought in the last <num> hours,4 bought in the last 24 hours.,1,1,Activity Notifications,0
+374,trey in columbia united states purchase leather cord capsule,"Trey in Columbia, United States purchased Leather Cord Capsule",1,1,Activity Notifications,0
+372,<num> bestseller in rugs this item was view <num> times in the last day,#6 Bestseller in Rugs This item was viewed 92 times in the last day.,1,1,Activity Notifications,0
+363,<num> person looking for this product,78 Persons looking for this product,1,1,Activity Notifications,0
+371,tuvia eisenberg systematics in tel aviv israel purchase a,"tuvia eisenberg Systematics in Tel Aviv, Israel purchased a",1,1,Activity Notifications,0
+370,tyler in norwalk united states purchase a,"Tyler in Norwalk, United States purchased a",1,1,Activity Notifications,0
+369,<num> pawrents are buy for their furkids now,105 pawrents are buying for their furkids now!,1,1,Activity Notifications,0
+368,ida in tangerang selatan indonesia purchase iseya vg <num> g-series <num> layer damascus japanese chef s santoku knife <num> mm about <num> hour ago,"Ida in Tangerang Selatan, Indonesia purchased Iseya VG10 G-Series 33 layer Damascus Japanese Chef's Santoku Knife , 180mm about 1 hour ago",1,1,Activity Notifications,0
+367,someone in pittsworth bought a ultimate colt anal training kit <num> hours ago,Someone in Pittsworth bought a Ultimate COLT Anal Training Kit 2 hours ago,1,1,Activity Notifications,0
+366,<num> person are looking at this product,3 people are looking at this product,1,1,Activity Notifications,0
+365,carol in st louis missouri bought original usb charging anti-theft backpack,"Carol in St. Louis, Missouri bought Original USB Charging Anti-Theft Backpack",1,1,Activity Notifications,0
+364,hot product over <num> person are looking at this item,HOT PRODUCT Over 250 people are looking at this item.,1,1,Activity Notifications,0
+427,jennifer just bought rainbow moonstone healing heartabout <num> hours ago,jennifer just bought Rainbow Moonstone Healing Heartabout 6 hours ago,1,1,Activity Notifications,0

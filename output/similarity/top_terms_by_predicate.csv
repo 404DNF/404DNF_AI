@@ -1,0 +1,81 @@
+Predicate,rank,term,weight_sum
+Activity Notifications,1,um> ,9.88565936804673
+Activity Notifications,2,num> ,9.88565936804673
+Activity Notifications,3,m> ,9.88565936804673
+Activity Notifications,4,num,9.747361525408834
+Activity Notifications,5,num>,9.745030549144289
+Activity Notifications,6,um>,9.745030549144289
+Activity Notifications,7,<nu,9.745030549144289
+Activity Notifications,8,<num,9.745030549144289
+Activity Notifications,9,<num>,9.745030549144289
+Activity Notifications,10, <n,6.727900726892375
+Activity Notifications,11, <nu,6.727900726892375
+Activity Notifications,12, <num,6.727900726892375
+Activity Notifications,13,in ,6.5081977636724355
+Activity Notifications,14, in,6.268538787119833
+Activity Notifications,15, in ,6.145660172526066
+Activity Notifications,16,ers,5.9921961653363
+Activity Notifications,17, pe,5.8887039991884995
+Activity Notifications,18, per,5.812349941971034
+Activity Notifications,19,per,5.805776995473629
+Activity Notifications,20, th,5.559874159327131
+Confirmshaming,1,no ,5.875018539011899
+Confirmshaming,2, i ,5.811253901989866
+Confirmshaming,3,no th,5.691478286261639
+Confirmshaming,4,thank,5.691478286261639
+Confirmshaming,5,hank,5.691478286261639
+Confirmshaming,6,o tha,5.691478286261639
+Confirmshaming,7,no t,5.663818749881436
+Confirmshaming,8,ank,5.636525575760334
+Confirmshaming,9, than,5.609589185385404
+Confirmshaming,10,nks,5.594247258101344
+Confirmshaming,11,hanks,5.594247258101344
+Confirmshaming,12,anks,5.594247258101344
+Confirmshaming,13,than,5.583000371045852
+Confirmshaming,14,o th,5.505232480585104
+Confirmshaming,15, tha,5.505232480585104
+Confirmshaming,16,han,5.454971342006758
+Confirmshaming,17,tha,5.454971342006758
+Confirmshaming,18,o t,5.3818060992511585
+Confirmshaming,19,nks ,5.273867262897394
+Confirmshaming,20,anks ,5.273867262897394
+Pressured Selling,1,you,1.7934452761260629
+Pressured Selling,2, you,1.717248987692451
+Pressured Selling,3, yo,1.7042386063571011
+Pressured Selling,4, <n,1.1544925473346526
+Pressured Selling,5, <nu,1.1544925473346526
+Pressured Selling,6, <num,1.1544925473346526
+Pressured Selling,7,to ,1.0922843032445413
+Pressured Selling,8,your,1.0725953697379185
+Pressured Selling,9,or ,1.0613192684717823
+Pressured Selling,10, to ,1.0422179018038649
+Pressured Selling,11,<num,1.0325419954455324
+Pressured Selling,12,<num>,1.0325419954455324
+Pressured Selling,13,um>,1.0325419954455324
+Pressured Selling,14,num>,1.0325419954455324
+Pressured Selling,15,<nu,1.0325419954455324
+Pressured Selling,16,num,1.0297421194280663
+Pressured Selling,17,our ,1.0294093280301293
+Pressured Selling,18,ur ,1.0142791323705114
+Pressured Selling,19, to,1.0089811297452926
+Pressured Selling,20, you ,0.999553174167101
+Trick Questions,1,you,1.1205851689125186
+Trick Questions,2, to ,0.8313278825425693
+Trick Questions,3,to ,0.8272528862643486
+Trick Questions,4, you,0.7890530966766407
+Trick Questions,5, yo,0.783074999292291
+Trick Questions,6, to,0.7524323525223826
+Trick Questions,7, re,0.7296326856119787
+Trick Questions,8,ou ,0.728401268138894
+Trick Questions,9,you ,0.728401268138894
+Trick Questions,10, do,0.6248394201265937
+Trick Questions,11,your ,0.6177497317078067
+Trick Questions,12,your,0.6110609061883271
+Trick Questions,13, you ,0.5869351499797756
+Trick Questions,14,our ,0.5578142785749085
+Trick Questions,15,ur ,0.5496155582536952
+Trick Questions,16,re ,0.5220153151057566
+Trick Questions,17,e t,0.5144317905263205
+Trick Questions,18,onal,0.5089009550252833
+Trick Questions,19,ona,0.4968809214519025
+Trick Questions,20,t t,0.4871369189361827
