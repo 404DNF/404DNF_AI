@@ -1,0 +1,424 @@
+﻿sentence,true_label,true_label_enc,pred_label_enc
+"Nope, I'd prefer not to take up this opportunity",0,0,0
+I'd rather not accept this offer,0,0,0
+"No, thanks; I'm not interested in this proposal",0,0,0
+I'm not keen on accepting this offer,0,0,0
+I'm inclined to decline this particular offer,0,0,0
+"No, I'd like to pass on this offer",0,0,0
+I'm not looking to accept this offer right now,0,0,0
+I'd rather not go for this particular deal,0,0,0
+I'm not interested in taking up this offer,0,0,0
+I'm leaning towards rejecting this opportunity,0,0,0
+"No, I'd rather not proceed with this offer",0,0,0
+I'm not feeling enthusiastic about accepting this deal,0,0,0
+I'd rather turn down this particular offer,0,0,0
+I'm not inclined to accept this offer at the moment,0,0,0
+"No, I'm not interested in pursuing this opportunity",0,0,0
+I'm thinking of declining this offer,0,0,0
+I'd prefer to let go of this particular opportunity,0,0,0
+I'm not too excited about accepting this deal,0,0,0
+"No, I'm not interested in going ahead with this offer",0,0,0
+I'd rather not entertain this particular proposal,0,0,1
+I'm not looking to commit to this offer right now,0,0,0
+I'm more inclined to reject this particular opportunity,0,0,0
+"No, I don't think I want to take up this offer",0,0,0
+I'd rather steer clear of this particular deal,0,0,0
+I'm not too eager to accept this opportunity,0,0,0
+"No, I don't think I'll be accepting this offer",0,0,0
+I'm leaning towards saying no to this deal,0,0,0
+I'm not interested in moving forward with this offer,0,0,0
+I'd prefer to decline this particular proposal,0,0,1
+I'm not feeling tempted to accept this opportunity,0,0,0
+"No, I'd rather not go through with this offer",0,0,0
+I'm not enthusiastic about accepting this particular deal,0,0,0
+I'd rather pass on this opportunity,0,0,0
+I'm not interested in taking up this offer,0,0,0
+"No, I don't think I want to accept this deal",0,0,0
+I'd rather not commit to this particular opportunity,0,0,0
+I'm not looking to move forward with this offer,0,0,0
+I'm leaning towards rejecting this particular proposal,0,0,1
+"No, I'd prefer not to entertain this offer",0,0,0
+I'm not too excited about accepting this opportunity,0,0,0
+I'd rather not take up this particular deal,0,0,0
+I'm not inclined to accept this offer right now,0,0,0
+"No, I'm not interested in pursuing this opportunity",0,0,0
+I'd rather turn down this offer,0,0,0
+I'm not too enthusiastic about accepting this deal,0,0,0
+"No, I'm not interested in going ahead with this offer",0,0,0
+I'd prefer to let go of this particular opportunity,0,0,0
+I'm not looking to commit to this offer right now,0,0,0
+I'd rather not entertain this particular proposal,0,0,1
+I'm not feeling inclined to accept this opportunity,0,0,0
+"No, I don't think I want to take up this offer",0,0,0
+I'd rather steer clear of this particular deal,0,0,0
+I'm not too eager to accept this opportunity,0,0,0
+"No, I don't think I'll be accepting this offer",0,0,0
+I'm leaning towards saying no to this deal,0,0,0
+I'm not interested in moving forward with this offer,0,0,0
+I'd prefer to decline this particular proposal,0,0,1
+I'm not feeling tempted to accept this opportunity,0,0,0
+"No, I'd rather not go through with this offer",0,0,0
+I'm not enthusiastic about accepting this particular deal,0,0,0
+I'd rather pass on this opportunity,0,0,0
+I'm not interested in taking up this offer,0,0,0
+"No, I don't think I want to accept this deal",0,0,0
+I'd rather not commit to this particular opportunity,0,0,0
+I'm not looking to move forward with this offer,0,0,0
+I'm leaning towards rejecting this particular proposal,0,0,1
+"No, I'd prefer not to entertain this offer",0,0,0
+I'm not too excited about accepting this opportunity,0,0,0
+I'd rather not take up this particular deal,0,0,0
+I'm not inclined to accept this offer right now,0,0,0
+"No, I'm not interested in pursuing this opportunity",0,0,0
+I'd rather turn down this offer,0,0,0
+I'm not too enthusiastic about accepting this deal,0,0,0
+"No, I'm not interested in going ahead with this offer",0,0,0
+I'd prefer to let go of this particular opportunity,0,0,0
+I'm not looking to commit to this offer right now,0,0,0
+I'd rather not entertain this particular proposal,0,0,1
+I'm not feeling inclined to accept this opportunity,0,0,0
+"No, I don't think I want to take up this offer",0,0,0
+I'd rather steer clear of this particular deal,0,0,0
+I'm not too eager to accept this opportunity,0,0,0
+"No, I don't think I'll be accepting this offer",0,0,0
+I'm leaning towards saying no to this deal,0,0,0
+I'm not interested in moving forward with this offer,0,0,0
+I'd prefer to decline this particular proposal,0,0,1
+I'm not feeling tempted to accept this opportunity,0,0,0
+"No, I'd rather not go through with this offer",0,0,0
+I'm not enthusiastic about accepting this particular deal,0,0,0
+I'd rather pass on this opportunity,0,0,0
+I'm not interested in taking up this offer,0,0,0
+"No, I don't think I want to accept this deal",0,0,0
+I'd rather not commit to this particular opportunity,0,0,0
+I'm not looking to move forward with this offer,0,0,0
+I'm leaning towards rejecting this particular proposal,0,0,1
+"No, I'd prefer not to entertain this offer",0,0,0
+I'm not too excited about accepting this opportunity,0,0,0
+I'd rather not take up this particular deal,0,0,0
+I'm not inclined to accept this offer right now,0,0,0
+"No, I'm not interested in pursuing this opportunity",0,0,0
+I'd rather turn down this offer,0,0,0
+"Hurry, only few left,",0,0,0
+"Nope, I'd prefer not to take up this opportunity,",0,0,0
+"I'd rather not accept this offer,",0,0,0
+"No, thanks; I'm not interested in this proposal,",0,0,0
+"I'm not keen on accepting this offer,",0,0,0
+"I'm inclined to decline this particular offer,",0,0,0
+"No, I'd like to pass on this offer,",0,0,0
+"I'm not looking to accept this offer right now,",0,0,0
+"I'd rather not go for this particular deal,",0,0,0
+"I'm not interested in taking up this offer,",0,0,0
+"I'm leaning towards rejecting this opportunity,",0,0,0
+"No, I'd rather not proceed with this offer,",0,0,0
+"I'm not feeling enthusiastic about accepting this deal,",0,0,0
+"I'd rather turn down this particular offer,",0,0,0
+"I'm not inclined to accept this offer at the moment,",0,0,0
+"No, I'm not interested in pursuing this opportunity,",0,0,0
+"I'm thinking of declining this offer,",0,0,0
+"I'd prefer to let go of this particular opportunity,",0,0,0
+"I'm not too excited about accepting this deal,",0,0,0
+"No, I'm not interested in going ahead with this offer,",0,0,0
+"I'd rather not entertain this particular proposal,",0,0,1
+"I'm not looking to commit to this offer right now,",0,0,0
+"I'm more inclined to reject this particular opportunity,",0,0,0
+"No, I don't think I want to take up this offer,",0,0,0
+"I'd rather steer clear of this particular deal,",0,0,0
+"I'm not too eager to accept this opportunity,",0,0,0
+"No, I don't think I'll be accepting this offer,",0,0,0
+"I'm leaning towards saying no to this deal,",0,0,0
+"I'm not interested in moving forward with this offer,",0,0,0
+"I'd prefer to decline this particular proposal,",0,0,1
+"I'm not feeling tempted to accept this opportunity,",0,0,0
+"No, I'd rather not go through with this offer,",0,0,0
+"I'm not enthusiastic about accepting this particular deal,",0,0,0
+"I'd rather pass on this opportunity,",0,0,0
+"I'm not interested in taking up this offer,",0,0,0
+"No, I don't think I want to accept this deal,",0,0,0
+"I'd rather not commit to this particular opportunity,",0,0,0
+"I'm not looking to move forward with this offer,",0,0,0
+"I'm leaning towards rejecting this particular proposal,",0,0,1
+"No, I'd prefer not to entertain this offer,",0,0,0
+"I'm not too excited about accepting this opportunity,",0,0,0
+"I'd rather not take up this particular deal,",0,0,0
+"I'm not inclined to accept this offer right now,",0,0,0
+"No, I'm not interested in pursuing this opportunity,",0,0,0
+"I'd rather turn down this offer,",0,0,0
+"Act quickly, just a few remaining,",0,0,0
+"Move fast, only a couple left,",0,0,0
+"Don't wait, limited stock available,",0,0,0
+"Act now, only a handful left,",0,0,0
+"Hurry up, just a few more available,",0,0,0
+"Grab it fast, limited quantity remaining,",0,0,0
+"Act promptly, only a few in stock,",0,0,0
+"Quick, only a few left in inventory,",0,0,0
+"Rush, limited supply remaining,",0,0,0
+"Move swiftly, only a few left,",0,0,0
+"Act immediately, limited quantity remaining,",0,0,0
+"Hurry, just a few available,",0,0,0
+"Don't delay, only a couple left,",0,0,0
+"Act fast, limited stock remaining,",0,0,0
+"Grab yours now, only a few left,",0,0,0
+"Move quickly, just a few remaining,",0,0,0
+"Don't miss out, only a handful left,",0,0,0
+"Act now, limited quantity available,",0,0,0
+"Hurry up, only a few more in stock,",0,0,0
+"Move fast, limited supply remaining,",0,0,0
+"Grab it now, only a few left,",0,0,0
+"Act promptly, just a few remaining,",0,0,0
+"Quick, only a couple left,",0,0,0
+"Rush, limited quantity in stock,",0,0,0
+"Hurry, only a few left in inventory,",0,0,0
+"Act swiftly, limited stock available,",0,0,0
+"Move now, only a few remaining,",0,0,0
+"Don't wait, just a few more available,",0,0,0
+"Grab yours quickly, limited quantity remaining,",0,0,0
+"Act immediately, only a few left,",0,0,0
+"Hurry up, limited stock remaining,",0,0,0
+"Move fast, just a few available,",0,0,0
+"Act now, only a handful left,",0,0,0
+"Grab it fast, limited quantity available,",0,0,0
+"Rush, only a few more in stock,",0,0,0
+"Move quickly, only a couple left,",0,0,0
+"Don't delay, limited supply remaining,",0,0,0
+"Hurry, just a few remaining,",0,0,0
+"Act fast, only a few left in inventory,",0,0,0
+"Grab yours now, limited stock available,",0,0,0
+"Move promptly, only a few left,",0,0,0
+"Quick, only a handful left,",0,0,0
+"Rush, limited quantity remaining,",0,0,0
+"Hurry, only a few more available,",0,0,0
+"Act now, just a few remaining,",0,0,0
+"Move swiftly, limited stock remaining,",0,0,0
+"Grab it now, only a couple left,",0,0,0
+"Act immediately, limited supply remaining,",0,0,0
+"Hurry up, only a few left,",0,0,0
+"Move fast, just a few remaining,",0,0,0
+"Don't miss out, only a handful left,",0,0,0
+"Act promptly, limited quantity available,",0,0,0
+"Quick, only a few more in stock,",0,0,0
+"Rush, limited stock available,",0,0,0
+"Act swiftly, only a few left,",0,0,0
+"Hurry, just a few remaining,",0,0,0
+"Grab yours quickly, limited quantity remaining,",0,0,0
+"Act now, only a few left,",0,0,0
+"Move fast, limited stock remaining,",0,0,0
+"Hurry up, just a few available,",0,0,0
+"Don't wait, limited supply remaining,",0,0,0
+"Act immediately, only a few more in stock,",0,0,0
+"Move quickly, only a handful left,",0,0,0
+"Grab it fast, limited quantity remaining,",0,0,0
+"Rush, only a few left in inventory,",0,0,0
+"Act now, just a few remaining,",0,0,0
+"Hurry, limited stock available,",0,0,0
+"Move fast, only a couple left,",0,0,0
+"Grab yours quickly, only a few left,",0,0,0
+"Act promptly, limited quantity available,",0,0,0
+"Quick, only a few remaining,",0,0,0
+"Rush, limited stock remaining,",0,0,0
+"Hurry, just a few more available,",0,0,0
+"Act immediately, only a few left,",0,0,0
+"Move swiftly, limited quantity remaining,",0,0,0
+"Grab it now, only a handful left,",0,0,0
+"Act now, only a few left in inventory,",0,0,0
+"Hurry up, limited supply remaining,",0,0,0
+"Move fast, just a few remaining,",0,0,0
+"Don't wait, only a few available,",0,0,0
+"Grab yours quickly, limited stock remaining,",0,0,0
+"Act promptly, only a few left,",0,0,0
+"Quick, limited quantity available,",0,0,0
+"Hurry, only a couple left,",0,0,0
+"Rush, only a few more in stock,",0,0,0
+"Move now, limited stock available,",0,0,0
+"Act immediately, only a few remaining,",0,0,0
+"Hurry up, just a few available,",0,0,0
+"Grab it fast, limited quantity remaining,",0,0,0
+"Act now, only a handful left,",0,0,0
+"Move quickly, limited stock remaining,",0,0,0
+"Don't miss out, only a few left,",0,0,0
+"Act promptly, just a few remaining,",0,0,0
+"Quick, limited quantity available,",0,0,0
+"Rush, only a few more available,",0,0,0
+"Hurry, limited stock remaining,",0,0,0
+"Move fast, only a couple left,",0,0,0
+"Grab it now, only a few left in inventory,",0,0,0
+"Act now, limited supply remaining,",0,0,0
+"Hurry up, just a few remaining",0,0,0
+"I'm considering declining this proposal,",1,1,1
+"I prefer to turn down this particular offer,",1,1,0
+"I am inclined to refuse this opportunity,",1,1,0
+"I'm leaning towards rejecting this deal,",1,1,0
+"I would rather not accept this particular proposal,",1,1,1
+"I'm contemplating saying no to this offer,",1,1,0
+"I'm not interested in pursuing this opportunity,",1,1,0
+"I'm inclined to decline this particular deal,",1,1,0
+"I would rather pass on this offer,",1,1,0
+"I'm considering turning away from this proposal,",1,1,1
+"I'm leaning towards refusing this opportunity,",1,1,0
+"I'm not inclined to accept this particular offer,",1,1,0
+"I'm contemplating rejecting this proposal,",1,1,1
+"I'm leaning towards saying no to this opportunity,",1,1,0
+"I'm thinking of declining this particular deal,",1,1,0
+"I'm not interested in going ahead with this offer,",1,1,0
+"I would prefer to let go of this opportunity,",1,1,0
+"I'm considering turning down this proposal,",1,1,1
+"I'm leaning towards rejecting this particular offer,",1,1,0
+"I'm contemplating refusing this opportunity,",1,1,0
+"I'm not too eager to accept this deal,",1,1,0
+"I'm thinking of saying no to this particular proposal,",1,1,1
+"I'm inclined to decline this opportunity,",1,1,0
+"I would rather not entertain this offer,",1,1,0
+"I'm leaning towards turning down this proposal,",1,1,1
+"I'm considering rejecting this particular deal,",1,1,0
+"I'm not inclined to accept this opportunity,",1,1,0
+"I'm thinking of declining this offer,",1,1,0
+"I'm not interested in moving forward with this opportunity,",1,1,0
+"I would prefer to decline this particular proposal,",1,1,1
+"I'm considering turning away from this offer,",1,1,0
+"I'm leaning towards refusing this opportunity,",1,1,0
+"I'm not too excited about accepting this particular deal,",1,1,0
+"I'm contemplating saying no to this particular offer,",1,1,0
+"I'm not interested in pursuing this opportunity,",1,1,0
+"I would rather pass on this proposal,",1,1,1
+"I'm considering rejecting this particular opportunity,",1,1,0
+"I'm leaning towards declining this offer,",1,1,0
+"I'm not inclined to accept this particular deal,",1,1,0
+"I'm thinking of turning down this opportunity,",1,1,1
+"I'm contemplating refusing this particular proposal,",1,1,1
+"I'm not interested in going ahead with this particular offer,",1,1,0
+"I would prefer not to entertain this offer,",1,1,0
+"I'm considering declining this particular opportunity,",1,1,0
+"I'm leaning towards rejecting this proposal,",1,1,1
+"I'm not too keen on accepting this offer,",1,1,0
+"I'm thinking of saying no to this particular deal,",1,1,0
+"I'm not interested in moving forward with this particular opportunity,",1,1,0
+"I would rather decline this opportunity,",1,1,0
+"I'm considering turning away from this particular proposal,",1,1,1
+"I'm leaning towards refusing this offer,",1,1,0
+"I'm not too eager to accept this particular offer,",1,1,0
+"I'm contemplating saying no to this opportunity,",1,1,0
+"I'm not inclined to accept this particular proposal,",1,1,1
+"I'm thinking of declining this opportunity,",1,1,0
+"I'm not interested in pursuing this particular deal,",1,1,0
+"I would prefer to let go of this particular offer,",1,1,0
+"I'm considering rejecting this offer,",1,1,0
+"I'm leaning towards turning down this opportunity,",1,1,1
+"I'm not too excited about accepting this deal,",1,1,0
+"I'm thinking of saying no to this particular proposal,",1,1,1
+"I'm not interested in going ahead with this offer,",1,1,0
+"I'm contemplating refusing this particular opportunity,",1,1,0
+"I'm not inclined to accept this deal,",1,1,0
+"I'm considering declining this particular proposal,",1,1,1
+"I'm leaning towards rejecting this particular deal,",1,1,0
+"I'm not too keen on accepting this particular offer,",1,1,0
+"I'm thinking of turning down this offer,",1,1,0
+"I'm not interested in moving forward with this proposal,",1,1,0
+"I'm not too eager to accept this opportunity,",1,1,0
+"I would prefer not to entertain this particular offer,",1,1,0
+"I'm considering saying no to this particular opportunity,",1,1,0
+"I'm leaning towards refusing this proposal,",1,1,1
+"I'm not inclined to accept this opportunity,",1,1,0
+"I'm thinking of declining this particular offer,",1,1,0
+"I'm not interested in pursuing this proposal,",1,1,0
+"I would rather pass on this particular opportunity,",1,1,0
+"I'm considering turning away from this deal,",1,1,0
+"I'm leaning towards rejecting this offer,",1,1,0
+"I'm not too excited about accepting this particular offer,",1,1,0
+"I'm contemplating saying no to this particular deal,",1,1,0
+"I'm thinking of refusing this opportunity,",1,1,0
+"I'm not interested in going ahead with this particular proposal,",1,1,1
+"I would prefer to decline this offer,",1,1,0
+"I'm considering turning down this particular opportunity,",1,1,1
+"I'm leaning towards rejecting this particular proposal,",1,1,1
+"I'm not too keen on accepting this deal,",1,1,0
+"I'm not inclined to accept this particular opportunity,",1,1,0
+I'm thinking of saying no to this offer,1,1,0
+Let me know at a later time,1,1,1
+I'll revisit this later,1,1,1
+Delay this for a bit,1,1,1
+I'll get back to this later,1,1,1
+Remind me at a more convenient time,1,1,1
+Postpone this reminder,1,1,1
+I'll address this later on,1,1,1
+Put a pin in it for now,1,1,1
+Remind me at a later date,1,1,1
+I'll circle back to this later,1,1,1
+Postpone this notification,1,1,1
+I'll deal with this at a later time,1,1,1
+Delay this for now,1,1,1
+Remind me when I have more time,1,1,1
+I'll revisit this reminder later,1,1,1
+Push this back to a later time,1,1,1
+I'll come back to this later on,1,1,1
+Remind me in a while,1,1,1
+I'll handle this at a later date,1,1,1
+Defer this for now,1,1,1
+I'll address this reminder later,1,1,1
+Remind me when it's more convenient,1,1,1
+Put this off for a bit,1,1,1
+I'll get to this later on,1,1,1
+Remind me when I'm free,1,1,1
+Delay this notification for now,1,1,1
+I'll revisit this at a later date,1,1,1
+Remind me when I'm available,1,1,1
+I'll deal with this reminder later,1,1,1
+Push this back to a more suitable time,1,1,1
+I'll come back to this later,1,1,1
+Remind me at a later time,1,1,1
+Postpone this for a while,1,1,1
+I'll handle this later on,1,1,1
+Defer this reminder for now,1,1,1
+I'll address this at a more convenient time,1,1,1
+Remind me when I have some time,1,1,1
+Put a pin in this notification for now,1,1,1
+I'll get back to this reminder later,1,1,1
+Remind me at a more suitable time,1,1,1
+Delay this for a bit,1,1,1
+I'll revisit this later on,1,1,1
+Remind me when it's more convenient,1,1,1
+I'll deal with this at a later time,1,1,1
+Push this back to a later date,1,1,1
+I'll come back to this reminder later on,1,1,1
+Remind me when I'm available,1,1,1
+I'll handle this at a later time,1,1,1
+Defer this notification for now,1,1,1
+I'll address this at a more suitable time,1,1,1
+Remind me when I have some free time,1,1,1
+Put a pin in this for now,1,1,1
+I'll get back to this at a later date,1,1,1
+Remind me when I'm free,1,1,1
+Delay this reminder for a while,1,1,1
+I'll revisit this when I have more time,1,1,1
+Remind me at a later date,1,1,1
+I'll deal with this later on,1,1,1
+Postpone this for a bit,1,1,1
+I'll come back to this reminder later,1,1,1
+Remind me in a while,1,1,1
+I'll address this at a more convenient time,1,1,1
+Put this off for now,1,1,1
+I'll handle this later,1,1,1
+Remind me when I'm available,1,1,1
+Push this back to a more suitable time,1,1,1
+I'll get to this later on,1,1,1
+Remind me at a later time,1,1,1
+Postpone this notification for a while,1,1,1
+I'll revisit this at a later date,1,1,1
+Remind me when I'm free,1,1,1
+I'll deal with this reminder later on,1,1,1
+Defer this for now,1,1,1
+I'll come back to this when I have more time,1,1,1
+Remind me at a more convenient time,1,1,1
+Put a pin in this reminder for now,1,1,1
+I'll address this later on,1,1,1
+Remind me when I have some time,1,1,1
+I'll get back to this at a later time,1,1,1
+Delay this for a bit,1,1,1
+I'll revisit this later,1,1,1
+Remind me when it's more convenient,1,1,1
+I'll handle this at a later date,1,1,1
+Push this back to a later time,1,1,1
+I'll come back to this reminder later on,1,1,1
+Remind me when I'm available,1,1,1
+I'll address this at a more suitable time,1,1,1
+Put this off for now,1,1,1
+I'll get to this later on,1,1,1

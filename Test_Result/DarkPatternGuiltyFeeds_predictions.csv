@@ -1,0 +1,424 @@
+﻿sentence,true_label,pred_label
+"Nope, I'd prefer not to take up this opportunity",0,Confirmshaming
+I'd rather not accept this offer,0,Confirmshaming
+"No, thanks; I'm not interested in this proposal",0,Confirmshaming
+I'm not keen on accepting this offer,0,Trick Questions
+I'm inclined to decline this particular offer,0,Trick Questions
+"No, I'd like to pass on this offer",0,Confirmshaming
+I'm not looking to accept this offer right now,0,Trick Questions
+I'd rather not go for this particular deal,0,Confirmshaming
+I'm not interested in taking up this offer,0,Trick Questions
+I'm leaning towards rejecting this opportunity,0,Trick Questions
+"No, I'd rather not proceed with this offer",0,Confirmshaming
+I'm not feeling enthusiastic about accepting this deal,0,Trick Questions
+I'd rather turn down this particular offer,0,Trick Questions
+I'm not inclined to accept this offer at the moment,0,Trick Questions
+"No, I'm not interested in pursuing this opportunity",0,Confirmshaming
+I'm thinking of declining this offer,0,Trick Questions
+I'd prefer to let go of this particular opportunity,0,Trick Questions
+I'm not too excited about accepting this deal,0,Trick Questions
+"No, I'm not interested in going ahead with this offer",0,Confirmshaming
+I'd rather not entertain this particular proposal,0,Trick Questions
+I'm not looking to commit to this offer right now,0,Trick Questions
+I'm more inclined to reject this particular opportunity,0,Trick Questions
+"No, I don't think I want to take up this offer",0,Confirmshaming
+I'd rather steer clear of this particular deal,0,Trick Questions
+I'm not too eager to accept this opportunity,0,Trick Questions
+"No, I don't think I'll be accepting this offer",0,Confirmshaming
+I'm leaning towards saying no to this deal,0,Confirmshaming
+I'm not interested in moving forward with this offer,0,Trick Questions
+I'd prefer to decline this particular proposal,0,Trick Questions
+I'm not feeling tempted to accept this opportunity,0,Trick Questions
+"No, I'd rather not go through with this offer",0,Confirmshaming
+I'm not enthusiastic about accepting this particular deal,0,Trick Questions
+I'd rather pass on this opportunity,0,Confirmshaming
+I'm not interested in taking up this offer,0,Trick Questions
+"No, I don't think I want to accept this deal",0,Confirmshaming
+I'd rather not commit to this particular opportunity,0,Trick Questions
+I'm not looking to move forward with this offer,0,Trick Questions
+I'm leaning towards rejecting this particular proposal,0,Trick Questions
+"No, I'd prefer not to entertain this offer",0,Confirmshaming
+I'm not too excited about accepting this opportunity,0,Trick Questions
+I'd rather not take up this particular deal,0,Confirmshaming
+I'm not inclined to accept this offer right now,0,Trick Questions
+"No, I'm not interested in pursuing this opportunity",0,Confirmshaming
+I'd rather turn down this offer,0,Confirmshaming
+I'm not too enthusiastic about accepting this deal,0,Trick Questions
+"No, I'm not interested in going ahead with this offer",0,Confirmshaming
+I'd prefer to let go of this particular opportunity,0,Trick Questions
+I'm not looking to commit to this offer right now,0,Trick Questions
+I'd rather not entertain this particular proposal,0,Trick Questions
+I'm not feeling inclined to accept this opportunity,0,Trick Questions
+"No, I don't think I want to take up this offer",0,Confirmshaming
+I'd rather steer clear of this particular deal,0,Trick Questions
+I'm not too eager to accept this opportunity,0,Trick Questions
+"No, I don't think I'll be accepting this offer",0,Confirmshaming
+I'm leaning towards saying no to this deal,0,Confirmshaming
+I'm not interested in moving forward with this offer,0,Trick Questions
+I'd prefer to decline this particular proposal,0,Trick Questions
+I'm not feeling tempted to accept this opportunity,0,Trick Questions
+"No, I'd rather not go through with this offer",0,Confirmshaming
+I'm not enthusiastic about accepting this particular deal,0,Trick Questions
+I'd rather pass on this opportunity,0,Confirmshaming
+I'm not interested in taking up this offer,0,Trick Questions
+"No, I don't think I want to accept this deal",0,Confirmshaming
+I'd rather not commit to this particular opportunity,0,Trick Questions
+I'm not looking to move forward with this offer,0,Trick Questions
+I'm leaning towards rejecting this particular proposal,0,Trick Questions
+"No, I'd prefer not to entertain this offer",0,Confirmshaming
+I'm not too excited about accepting this opportunity,0,Trick Questions
+I'd rather not take up this particular deal,0,Confirmshaming
+I'm not inclined to accept this offer right now,0,Trick Questions
+"No, I'm not interested in pursuing this opportunity",0,Confirmshaming
+I'd rather turn down this offer,0,Confirmshaming
+I'm not too enthusiastic about accepting this deal,0,Trick Questions
+"No, I'm not interested in going ahead with this offer",0,Confirmshaming
+I'd prefer to let go of this particular opportunity,0,Trick Questions
+I'm not looking to commit to this offer right now,0,Trick Questions
+I'd rather not entertain this particular proposal,0,Trick Questions
+I'm not feeling inclined to accept this opportunity,0,Trick Questions
+"No, I don't think I want to take up this offer",0,Confirmshaming
+I'd rather steer clear of this particular deal,0,Trick Questions
+I'm not too eager to accept this opportunity,0,Trick Questions
+"No, I don't think I'll be accepting this offer",0,Confirmshaming
+I'm leaning towards saying no to this deal,0,Confirmshaming
+I'm not interested in moving forward with this offer,0,Trick Questions
+I'd prefer to decline this particular proposal,0,Trick Questions
+I'm not feeling tempted to accept this opportunity,0,Trick Questions
+"No, I'd rather not go through with this offer",0,Confirmshaming
+I'm not enthusiastic about accepting this particular deal,0,Trick Questions
+I'd rather pass on this opportunity,0,Confirmshaming
+I'm not interested in taking up this offer,0,Trick Questions
+"No, I don't think I want to accept this deal",0,Confirmshaming
+I'd rather not commit to this particular opportunity,0,Trick Questions
+I'm not looking to move forward with this offer,0,Trick Questions
+I'm leaning towards rejecting this particular proposal,0,Trick Questions
+"No, I'd prefer not to entertain this offer",0,Confirmshaming
+I'm not too excited about accepting this opportunity,0,Trick Questions
+I'd rather not take up this particular deal,0,Confirmshaming
+I'm not inclined to accept this offer right now,0,Trick Questions
+"No, I'm not interested in pursuing this opportunity",0,Confirmshaming
+I'd rather turn down this offer,0,Confirmshaming
+"Hurry, only few left,",0,Low-stock Messages
+"Nope, I'd prefer not to take up this opportunity,",0,Confirmshaming
+"I'd rather not accept this offer,",0,Trick Questions
+"No, thanks; I'm not interested in this proposal,",0,Confirmshaming
+"I'm not keen on accepting this offer,",0,Trick Questions
+"I'm inclined to decline this particular offer,",0,Trick Questions
+"No, I'd like to pass on this offer,",0,Confirmshaming
+"I'm not looking to accept this offer right now,",0,Trick Questions
+"I'd rather not go for this particular deal,",0,Trick Questions
+"I'm not interested in taking up this offer,",0,Trick Questions
+"I'm leaning towards rejecting this opportunity,",0,Trick Questions
+"No, I'd rather not proceed with this offer,",0,Confirmshaming
+"I'm not feeling enthusiastic about accepting this deal,",0,Trick Questions
+"I'd rather turn down this particular offer,",0,Trick Questions
+"I'm not inclined to accept this offer at the moment,",0,Trick Questions
+"No, I'm not interested in pursuing this opportunity,",0,Confirmshaming
+"I'm thinking of declining this offer,",0,Trick Questions
+"I'd prefer to let go of this particular opportunity,",0,Trick Questions
+"I'm not too excited about accepting this deal,",0,Trick Questions
+"No, I'm not interested in going ahead with this offer,",0,Confirmshaming
+"I'd rather not entertain this particular proposal,",0,Trick Questions
+"I'm not looking to commit to this offer right now,",0,Trick Questions
+"I'm more inclined to reject this particular opportunity,",0,Trick Questions
+"No, I don't think I want to take up this offer,",0,Confirmshaming
+"I'd rather steer clear of this particular deal,",0,Trick Questions
+"I'm not too eager to accept this opportunity,",0,Trick Questions
+"No, I don't think I'll be accepting this offer,",0,Confirmshaming
+"I'm leaning towards saying no to this deal,",0,Confirmshaming
+"I'm not interested in moving forward with this offer,",0,Trick Questions
+"I'd prefer to decline this particular proposal,",0,Trick Questions
+"I'm not feeling tempted to accept this opportunity,",0,Trick Questions
+"No, I'd rather not go through with this offer,",0,Confirmshaming
+"I'm not enthusiastic about accepting this particular deal,",0,Trick Questions
+"I'd rather pass on this opportunity,",0,Trick Questions
+"I'm not interested in taking up this offer,",0,Trick Questions
+"No, I don't think I want to accept this deal,",0,Confirmshaming
+"I'd rather not commit to this particular opportunity,",0,Trick Questions
+"I'm not looking to move forward with this offer,",0,Trick Questions
+"I'm leaning towards rejecting this particular proposal,",0,Trick Questions
+"No, I'd prefer not to entertain this offer,",0,Confirmshaming
+"I'm not too excited about accepting this opportunity,",0,Trick Questions
+"I'd rather not take up this particular deal,",0,Trick Questions
+"I'm not inclined to accept this offer right now,",0,Trick Questions
+"No, I'm not interested in pursuing this opportunity,",0,Confirmshaming
+"I'd rather turn down this offer,",0,Trick Questions
+"Act quickly, just a few remaining,",0,Low-stock Messages
+"Move fast, only a couple left,",0,Low-stock Messages
+"Don't wait, limited stock available,",0,Low-stock Messages
+"Act now, only a handful left,",0,Low-stock Messages
+"Hurry up, just a few more available,",0,Low-stock Messages
+"Grab it fast, limited quantity remaining,",0,Low-stock Messages
+"Act promptly, only a few in stock,",0,Low-stock Messages
+"Quick, only a few left in inventory,",0,Low-stock Messages
+"Rush, limited supply remaining,",0,Low-stock Messages
+"Move swiftly, only a few left,",0,Low-stock Messages
+"Act immediately, limited quantity remaining,",0,Low-stock Messages
+"Hurry, just a few available,",0,Low-stock Messages
+"Don't delay, only a couple left,",0,Low-stock Messages
+"Act fast, limited stock remaining,",0,Low-stock Messages
+"Grab yours now, only a few left,",0,Low-stock Messages
+"Move quickly, just a few remaining,",0,Low-stock Messages
+"Don't miss out, only a handful left,",0,Low-stock Messages
+"Act now, limited quantity available,",0,Low-stock Messages
+"Hurry up, only a few more in stock,",0,Low-stock Messages
+"Move fast, limited supply remaining,",0,Low-stock Messages
+"Grab it now, only a few left,",0,Low-stock Messages
+"Act promptly, just a few remaining,",0,Low-stock Messages
+"Quick, only a couple left,",0,Low-stock Messages
+"Rush, limited quantity in stock,",0,Low-stock Messages
+"Hurry, only a few left in inventory,",0,Low-stock Messages
+"Act swiftly, limited stock available,",0,Low-stock Messages
+"Move now, only a few remaining,",0,Low-stock Messages
+"Don't wait, just a few more available,",0,Low-stock Messages
+"Grab yours quickly, limited quantity remaining,",0,Low-stock Messages
+"Act immediately, only a few left,",0,Low-stock Messages
+"Hurry up, limited stock remaining,",0,Low-stock Messages
+"Move fast, just a few available,",0,Low-stock Messages
+"Act now, only a handful left,",0,Low-stock Messages
+"Grab it fast, limited quantity available,",0,Low-stock Messages
+"Rush, only a few more in stock,",0,Low-stock Messages
+"Move quickly, only a couple left,",0,Low-stock Messages
+"Don't delay, limited supply remaining,",0,Low-stock Messages
+"Hurry, just a few remaining,",0,Low-stock Messages
+"Act fast, only a few left in inventory,",0,Low-stock Messages
+"Grab yours now, limited stock available,",0,Low-stock Messages
+"Move promptly, only a few left,",0,Low-stock Messages
+"Quick, only a handful left,",0,Low-stock Messages
+"Rush, limited quantity remaining,",0,Low-stock Messages
+"Hurry, only a few more available,",0,Low-stock Messages
+"Act now, just a few remaining,",0,Low-stock Messages
+"Move swiftly, limited stock remaining,",0,Low-stock Messages
+"Grab it now, only a couple left,",0,Low-stock Messages
+"Act immediately, limited supply remaining,",0,Low-stock Messages
+"Hurry up, only a few left,",0,Low-stock Messages
+"Move fast, just a few remaining,",0,Low-stock Messages
+"Don't miss out, only a handful left,",0,Low-stock Messages
+"Act promptly, limited quantity available,",0,Low-stock Messages
+"Quick, only a few more in stock,",0,Low-stock Messages
+"Rush, limited stock available,",0,Low-stock Messages
+"Act swiftly, only a few left,",0,Low-stock Messages
+"Hurry, just a few remaining,",0,Low-stock Messages
+"Grab yours quickly, limited quantity remaining,",0,Low-stock Messages
+"Act now, only a few left,",0,Low-stock Messages
+"Move fast, limited stock remaining,",0,Low-stock Messages
+"Hurry up, just a few available,",0,Low-stock Messages
+"Don't wait, limited supply remaining,",0,Low-stock Messages
+"Act immediately, only a few more in stock,",0,Low-stock Messages
+"Move quickly, only a handful left,",0,Low-stock Messages
+"Grab it fast, limited quantity remaining,",0,Low-stock Messages
+"Rush, only a few left in inventory,",0,Low-stock Messages
+"Act now, just a few remaining,",0,Low-stock Messages
+"Hurry, limited stock available,",0,Low-stock Messages
+"Move fast, only a couple left,",0,Low-stock Messages
+"Grab yours quickly, only a few left,",0,Low-stock Messages
+"Act promptly, limited quantity available,",0,Low-stock Messages
+"Quick, only a few remaining,",0,Low-stock Messages
+"Rush, limited stock remaining,",0,Low-stock Messages
+"Hurry, just a few more available,",0,Low-stock Messages
+"Act immediately, only a few left,",0,Low-stock Messages
+"Move swiftly, limited quantity remaining,",0,Low-stock Messages
+"Grab it now, only a handful left,",0,Low-stock Messages
+"Act now, only a few left in inventory,",0,Low-stock Messages
+"Hurry up, limited supply remaining,",0,Low-stock Messages
+"Move fast, just a few remaining,",0,Low-stock Messages
+"Don't wait, only a few available,",0,Low-stock Messages
+"Grab yours quickly, limited stock remaining,",0,Low-stock Messages
+"Act promptly, only a few left,",0,Low-stock Messages
+"Quick, limited quantity available,",0,Low-stock Messages
+"Hurry, only a couple left,",0,Low-stock Messages
+"Rush, only a few more in stock,",0,Low-stock Messages
+"Move now, limited stock available,",0,Low-stock Messages
+"Act immediately, only a few remaining,",0,Low-stock Messages
+"Hurry up, just a few available,",0,Low-stock Messages
+"Grab it fast, limited quantity remaining,",0,Low-stock Messages
+"Act now, only a handful left,",0,Low-stock Messages
+"Move quickly, limited stock remaining,",0,Low-stock Messages
+"Don't miss out, only a few left,",0,Low-stock Messages
+"Act promptly, just a few remaining,",0,Low-stock Messages
+"Quick, limited quantity available,",0,Low-stock Messages
+"Rush, only a few more available,",0,Low-stock Messages
+"Hurry, limited stock remaining,",0,Low-stock Messages
+"Move fast, only a couple left,",0,Low-stock Messages
+"Grab it now, only a few left in inventory,",0,Low-stock Messages
+"Act now, limited supply remaining,",0,Low-stock Messages
+"Hurry up, just a few remaining",0,Low-stock Messages
+"I'm considering declining this proposal,",1,Trick Questions
+"I prefer to turn down this particular offer,",1,Trick Questions
+"I am inclined to refuse this opportunity,",1,Trick Questions
+"I'm leaning towards rejecting this deal,",1,Trick Questions
+"I would rather not accept this particular proposal,",1,Trick Questions
+"I'm contemplating saying no to this offer,",1,Confirmshaming
+"I'm not interested in pursuing this opportunity,",1,Trick Questions
+"I'm inclined to decline this particular deal,",1,Trick Questions
+"I would rather pass on this offer,",1,Trick Questions
+"I'm considering turning away from this proposal,",1,Trick Questions
+"I'm leaning towards refusing this opportunity,",1,Trick Questions
+"I'm not inclined to accept this particular offer,",1,Trick Questions
+"I'm contemplating rejecting this proposal,",1,Trick Questions
+"I'm leaning towards saying no to this opportunity,",1,Confirmshaming
+"I'm thinking of declining this particular deal,",1,Trick Questions
+"I'm not interested in going ahead with this offer,",1,Trick Questions
+"I would prefer to let go of this opportunity,",1,Confirmshaming
+"I'm considering turning down this proposal,",1,Trick Questions
+"I'm leaning towards rejecting this particular offer,",1,Trick Questions
+"I'm contemplating refusing this opportunity,",1,Trick Questions
+"I'm not too eager to accept this deal,",1,Trick Questions
+"I'm thinking of saying no to this particular proposal,",1,Confirmshaming
+"I'm inclined to decline this opportunity,",1,Trick Questions
+"I would rather not entertain this offer,",1,Trick Questions
+"I'm leaning towards turning down this proposal,",1,Trick Questions
+"I'm considering rejecting this particular deal,",1,Trick Questions
+"I'm not inclined to accept this opportunity,",1,Trick Questions
+"I'm thinking of declining this offer,",1,Trick Questions
+"I'm not interested in moving forward with this opportunity,",1,Trick Questions
+"I would prefer to decline this particular proposal,",1,Trick Questions
+"I'm considering turning away from this offer,",1,Trick Questions
+"I'm leaning towards refusing this opportunity,",1,Trick Questions
+"I'm not too excited about accepting this particular deal,",1,Trick Questions
+"I'm contemplating saying no to this particular offer,",1,Confirmshaming
+"I'm not interested in pursuing this opportunity,",1,Trick Questions
+"I would rather pass on this proposal,",1,Trick Questions
+"I'm considering rejecting this particular opportunity,",1,Trick Questions
+"I'm leaning towards declining this offer,",1,Trick Questions
+"I'm not inclined to accept this particular deal,",1,Trick Questions
+"I'm thinking of turning down this opportunity,",1,Trick Questions
+"I'm contemplating refusing this particular proposal,",1,Trick Questions
+"I'm not interested in going ahead with this particular offer,",1,Trick Questions
+"I would prefer not to entertain this offer,",1,Trick Questions
+"I'm considering declining this particular opportunity,",1,Trick Questions
+"I'm leaning towards rejecting this proposal,",1,Trick Questions
+"I'm not too keen on accepting this offer,",1,Trick Questions
+"I'm thinking of saying no to this particular deal,",1,Confirmshaming
+"I'm not interested in moving forward with this particular opportunity,",1,Trick Questions
+"I would rather decline this opportunity,",1,Trick Questions
+"I'm considering turning away from this particular proposal,",1,Trick Questions
+"I'm leaning towards refusing this offer,",1,Trick Questions
+"I'm not too eager to accept this particular offer,",1,Trick Questions
+"I'm contemplating saying no to this opportunity,",1,Confirmshaming
+"I'm not inclined to accept this particular proposal,",1,Trick Questions
+"I'm thinking of declining this opportunity,",1,Trick Questions
+"I'm not interested in pursuing this particular deal,",1,Trick Questions
+"I would prefer to let go of this particular offer,",1,Trick Questions
+"I'm considering rejecting this offer,",1,Trick Questions
+"I'm leaning towards turning down this opportunity,",1,Trick Questions
+"I'm not too excited about accepting this deal,",1,Trick Questions
+"I'm thinking of saying no to this particular proposal,",1,Confirmshaming
+"I'm not interested in going ahead with this offer,",1,Trick Questions
+"I'm contemplating refusing this particular opportunity,",1,Trick Questions
+"I'm not inclined to accept this deal,",1,Trick Questions
+"I'm considering declining this particular proposal,",1,Trick Questions
+"I'm leaning towards rejecting this particular deal,",1,Trick Questions
+"I'm not too keen on accepting this particular offer,",1,Trick Questions
+"I'm thinking of turning down this offer,",1,Trick Questions
+"I'm not interested in moving forward with this proposal,",1,Trick Questions
+"I'm not too eager to accept this opportunity,",1,Trick Questions
+"I would prefer not to entertain this particular offer,",1,Trick Questions
+"I'm considering saying no to this particular opportunity,",1,Confirmshaming
+"I'm leaning towards refusing this proposal,",1,Trick Questions
+"I'm not inclined to accept this opportunity,",1,Trick Questions
+"I'm thinking of declining this particular offer,",1,Trick Questions
+"I'm not interested in pursuing this proposal,",1,Trick Questions
+"I would rather pass on this particular opportunity,",1,Trick Questions
+"I'm considering turning away from this deal,",1,Confirmshaming
+"I'm leaning towards rejecting this offer,",1,Trick Questions
+"I'm not too excited about accepting this particular offer,",1,Trick Questions
+"I'm contemplating saying no to this particular deal,",1,Confirmshaming
+"I'm thinking of refusing this opportunity,",1,Trick Questions
+"I'm not interested in going ahead with this particular proposal,",1,Trick Questions
+"I would prefer to decline this offer,",1,Trick Questions
+"I'm considering turning down this particular opportunity,",1,Trick Questions
+"I'm leaning towards rejecting this particular proposal,",1,Trick Questions
+"I'm not too keen on accepting this deal,",1,Trick Questions
+"I'm not inclined to accept this particular opportunity,",1,Trick Questions
+I'm thinking of saying no to this offer,1,Confirmshaming
+Let me know at a later time,1,Trick Questions
+I'll revisit this later,1,Trick Questions
+Delay this for a bit,1,Limited-time Messages
+I'll get back to this later,1,Trick Questions
+Remind me at a more convenient time,1,Not Dark Pattern
+Postpone this reminder,1,Not Dark Pattern
+I'll address this later on,1,Trick Questions
+Put a pin in it for now,1,Pressured Selling
+Remind me at a later date,1,Trick Questions
+I'll circle back to this later,1,Trick Questions
+Postpone this notification,1,Not Dark Pattern
+I'll deal with this at a later time,1,Confirmshaming
+Delay this for now,1,Limited-time Messages
+Remind me when I have more time,1,Not Dark Pattern
+I'll revisit this reminder later,1,Trick Questions
+Push this back to a later time,1,Limited-time Messages
+I'll come back to this later on,1,Trick Questions
+Remind me in a while,1,Activity Notifications
+I'll handle this at a later date,1,Confirmshaming
+Defer this for now,1,Pressured Selling
+I'll address this reminder later,1,Trick Questions
+Remind me when it's more convenient,1,Not Dark Pattern
+Put this off for a bit,1,Limited-time Messages
+I'll get to this later on,1,Trick Questions
+Remind me when I'm free,1,Trick Questions
+Delay this notification for now,1,Limited-time Messages
+I'll revisit this at a later date,1,Trick Questions
+Remind me when I'm available,1,Not Dark Pattern
+I'll deal with this reminder later,1,Trick Questions
+Push this back to a more suitable time,1,Not Dark Pattern
+I'll come back to this later,1,Trick Questions
+Remind me at a later time,1,Trick Questions
+Postpone this for a while,1,Limited-time Messages
+I'll handle this later on,1,Confirmshaming
+Defer this reminder for now,1,Pressured Selling
+I'll address this at a more convenient time,1,Trick Questions
+Remind me when I have some time,1,Not Dark Pattern
+Put a pin in this notification for now,1,Not Dark Pattern
+I'll get back to this reminder later,1,Trick Questions
+Remind me at a more suitable time,1,Not Dark Pattern
+Delay this for a bit,1,Limited-time Messages
+I'll revisit this later on,1,Trick Questions
+Remind me when it's more convenient,1,Not Dark Pattern
+I'll deal with this at a later time,1,Confirmshaming
+Push this back to a later date,1,Trick Questions
+I'll come back to this reminder later on,1,Trick Questions
+Remind me when I'm available,1,Not Dark Pattern
+I'll handle this at a later time,1,Confirmshaming
+Defer this notification for now,1,Trick Questions
+I'll address this at a more suitable time,1,Trick Questions
+Remind me when I have some free time,1,Confirmshaming
+Put a pin in this for now,1,Pressured Selling
+I'll get back to this at a later date,1,Confirmshaming
+Remind me when I'm free,1,Trick Questions
+Delay this reminder for a while,1,Limited-time Messages
+I'll revisit this when I have more time,1,Trick Questions
+Remind me at a later date,1,Trick Questions
+I'll deal with this later on,1,Confirmshaming
+Postpone this for a bit,1,Limited-time Messages
+I'll come back to this reminder later,1,Trick Questions
+Remind me in a while,1,Activity Notifications
+I'll address this at a more convenient time,1,Trick Questions
+Put this off for now,1,Limited-time Messages
+I'll handle this later,1,Trick Questions
+Remind me when I'm available,1,Not Dark Pattern
+Push this back to a more suitable time,1,Not Dark Pattern
+I'll get to this later on,1,Trick Questions
+Remind me at a later time,1,Trick Questions
+Postpone this notification for a while,1,Limited-time Messages
+I'll revisit this at a later date,1,Trick Questions
+Remind me when I'm free,1,Trick Questions
+I'll deal with this reminder later on,1,Trick Questions
+Defer this for now,1,Pressured Selling
+I'll come back to this when I have more time,1,Trick Questions
+Remind me at a more convenient time,1,Not Dark Pattern
+Put a pin in this reminder for now,1,Pressured Selling
+I'll address this later on,1,Trick Questions
+Remind me when I have some time,1,Not Dark Pattern
+I'll get back to this at a later time,1,Confirmshaming
+Delay this for a bit,1,Limited-time Messages
+I'll revisit this later,1,Trick Questions
+Remind me when it's more convenient,1,Not Dark Pattern
+I'll handle this at a later date,1,Confirmshaming
+Push this back to a later time,1,Limited-time Messages
+I'll come back to this reminder later on,1,Trick Questions
+Remind me when I'm available,1,Not Dark Pattern
+I'll address this at a more suitable time,1,Trick Questions
+Put this off for now,1,Limited-time Messages
+I'll get to this later on,1,Trick Questions
