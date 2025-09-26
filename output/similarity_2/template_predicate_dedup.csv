@@ -1,0 +1,655 @@
+predicate,cluster_id,canonical_norm,canonical_example,collapsed_count,num_variations,Type
+Activity Notifications,0,<num> sold in last <num> hours,9 sold in last 4 hours,6,1,Social Proof
+Activity Notifications,1,<num> person have purchase this item,"2,221 people have purchased this item",6,1,Social Proof
+Activity Notifications,2,<num> person have view this item,161 people have viewed this item,6,1,Social Proof
+Activity Notifications,3,<num> person have added this item to cart,17 people have added this item to cart,5,1,Social Proof
+Activity Notifications,4,<num> person are view this,9 people are viewing this.,5,1,Social Proof
+Activity Notifications,26,<num> users are currently active on our website,339 users are currently active on our website,4,2,Social Proof
+Activity Notifications,5,popular choice <num> users selected this today,Popular choice 71 users selected this today,3,1,Social Proof
+Activity Notifications,6,<num> bought,3642 BOUGHT,3,1,Social Proof
+Activity Notifications,7,<num> recent purchase it,12 recently purchased it.,3,1,Social Proof
+Activity Notifications,8,high demand <num> views in <num> hours,High demand 19 views in 6 hours,3,1,Social Proof
+Activity Notifications,9,trending now <num> customers are view this item,Trending now 50 customers are viewing this item,3,1,Social Proof
+Activity Notifications,10,currently <num> person have this in their carts,Currently 46 people have this in their carts,3,1,Social Proof
+Activity Notifications,11,hurry up <num> person other than you have this product in their cart,Hurry up! 6 people other than you have this product in their cart,2,1,Social Proof
+Activity Notifications,12,<num> person are looking at this now,52 people are looking at this right now.,2,1,Social Proof
+Activity Notifications,13,<num> person are looking right now,2 people are looking right now,2,1,Social Proof
+Activity Notifications,14,real time <num> view this online course now,Real time 36 viewing this online course now,2,1,Social Proof
+Activity Notifications,15,frequently bought together by <num> plus customers,Frequently bought together by 30 plus customers,2,1,Social Proof
+Activity Notifications,16,<num> person have this in their cart,135 people have this in their cart,2,1,Social Proof
+Activity Notifications,17,purchased <num> times in the last few days,Purchased 8 times in the last few days.,2,1,Social Proof
+Activity Notifications,18,popular badge earned from <num> plus purchases,Popular badge earned from 95 plus purchases,2,1,Social Proof
+Activity Notifications,19,grace from orlando united states bought camouflage jumpsuit <num> minutes ago,"GRACE from ORLANDO, United States bought Camouflage Jumpsuit 31 minutes ago",2,1,Social Proof
+Activity Notifications,20,<num> person is view this,🔥👁️ 1 person is viewing this.,2,1,Social Proof
+Activity Notifications,21,sabrina in paraparaumu new zealand purchase a scho-ka-kola schokakola energy chocolate caffeine snack food mre caffeinated,"Sabrina in Paraparaumu, New Zealand purchased a SCHO-KA-KOLA Schokakola energy Chocolate caffeine snack food MRE caffeinated",2,1,Social Proof
+Activity Notifications,22,popular <num> others checked this out in the last few hours,POPULAR 64 others checked this out in the last few hours.,2,1,Social Proof
+Activity Notifications,23,<num> customers have this in their basket,7 customers have this in their basket,2,1,Social Proof
+Activity Notifications,24,seen on product page <num> clicks today,Seen on product page 79 clicks today,2,1,Social Proof
+Activity Notifications,25,michael in pontiac united states purchase a,"Michael in Pontiac, United States purchased a",2,1,Social Proof
+Activity Notifications,27,trending now added to basket <num> times today,Trending now! Added to basket 490 times today,2,1,Social Proof
+Activity Notifications,28,<num> have it in their cart,85 have it in their cart,2,1,Social Proof
+Activity Notifications,29,<num> person seeing this product right now,31 people seeing this product right now,2,1,Social Proof
+Activity Notifications,30,join over <num> person who already purchase this,Join over 17 people who already purchased this,2,1,Social Proof
+Activity Notifications,31,<num> view this product,5 Viewing This Product,2,1,Social Proof
+Activity Notifications,32,tambria in hattiesburg just bought peruvian virgin natural wave hair <num> bundles with lace frontal <num> human virgin hair,"Tambria in Hattiesburg just bought Peruvian Virgin Natural Wave Hair 3 Bundles with Lace Frontal, 100% Human Virgin Hair",2,1,Social Proof
+Activity Notifications,33,<num> plus verified purchase this week,18 plus verified purchases this week,2,1,Social Proof
+Activity Notifications,34,seen on checkout <num> clicks today,Seen on checkout 88 clicks today,2,1,Social Proof
+Activity Notifications,171,<num> person have looked at this in the last couple of hrs,2 people have looked at this in the last couple of hrs.,2,2,Social Proof
+Activity Notifications,35,selected by <num> users in the last <num> hours,Selected by 69 users in the last 6 hours,1,1,Social Proof
+Activity Notifications,36,popular item <num> person recent purchase this,Popular item! 🔥 27 people recently purchased this.,1,1,Social Proof
+Activity Notifications,37,selected by <num> users in the last this weekend,Selected by 49 users in the last this weekend,1,1,Social Proof
+Activity Notifications,38,popular item <num> person are view this and <num> recent purchase it,Popular Item! 🔥 16 people are viewing this and 18 recently purchased it.,1,1,Social Proof
+Activity Notifications,39,selling fast add to bag <num> times in the last <num> hours,Selling fast! Add to bag 7 times in the last 48 hours.,1,1,Social Proof
+Activity Notifications,40,selected by <num> users in the last <num> minutes,Selected by 73 users in the last 30 minutes,1,1,Social Proof
+Activity Notifications,41,sara from philadelphia just saved <num> on her order,Sara from Philadelphia just saved $68 on her order.,1,1,Social Proof
+Activity Notifications,42,real time <num> visitor right now,Real time 30 Visitor right now,1,1,Social Proof
+Activity Notifications,43,rebecca in buffalo just bought sateen twill swatchabout <num> hour ago,Rebecca in Buffalo just bought Sateen Twill Swatchabout 1 hour ago,1,1,Social Proof
+Activity Notifications,44,recently view <num> others view this in the last few hours,RECENTLY VIEWED 2 others viewed this in the last few hours,1,1,Social Proof
+Activity Notifications,45,rick in columbia united states purchase a,"Rick in Columbia, United States purchased a",1,1,Social Proof
+Activity Notifications,46,rose in portland united states purchase green eco-friendly iphone xr case about <num> minutes ago,"Rose in Portland, United States purchased Green Eco-Friendly iPhone XR Case about 54 minutes ago",1,1,Social Proof
+Activity Notifications,47,sayeeganesh in chennai india just bought dhoni the finisher t-shirt an hour ago,"Sayeeganesh in Chennai, India just bought Dhoni the Finisher T-Shirt an hour ago",1,1,Social Proof
+Activity Notifications,48,samuel in minneapolis united states purchase a pod juice jewel mint cool nicotine salt e-liquid <num> <num> ml <num> hours ago,"Samuel in Minneapolis, United States purchased a Pod Juice Jewel Mint Cool ❄️Nicotine Salt e-Liquid 15/30ml 7 hours ago",1,1,Social Proof
+Activity Notifications,49,sandeep in hawthorne california bought sadie ponte pants - black just now,"Sandeep in Hawthorne, California bought Sadie Ponte Pants - Black Just Now",1,1,Social Proof
+Activity Notifications,50,purchased <num> times this week,Purchased 6 times this week.,1,1,Social Proof
+Activity Notifications,51,seen on pop up <num> clicks today,Seen on pop up 42 clicks today,1,1,Social Proof
+Activity Notifications,52,<num> added to bag in the last <num> hrs,43 added to bag in the last 48hrs,1,1,Social Proof
+Activity Notifications,53,over <num> views in <num> hrs,Over 200 views in 24 hrs,1,1,Social Proof
+Activity Notifications,54,mher from san angelo tx recent made a purchase with crossrope,"Mher from San Angelo, TX Recently made a purchase with Crossrope",1,1,Social Proof
+Activity Notifications,55,matthew in charleston south carolina just purchase the puffy lux mattress,"Matthew in Charleston, South Carolina just purchased The Puffy Lux Mattress",1,1,Social Proof
+Activity Notifications,56,mark in richmond hill united states purchase a fugoo tough <num> minutes ago,"mark in richmond hill, United States purchased a Fugoo Tough 11 minutes ago",1,1,Social Proof
+Activity Notifications,57,marc in newton united states purchasedktm stand plate large ktm,"Marc in Newton, United States purchasedKTM Stand Plate Large KTM...",1,1,Social Proof
+Activity Notifications,58,limited edition honeycomb necklace bee inspired someone purchase a limited edition honeycomb necklace bee inspired,Limited Edition Honeycomb Necklace (Bee Inspired) Someone purchased a Limited Edition Honeycomb Necklace (Bee Inspired),1,1,Social Proof
+Activity Notifications,59,leslie in usa just purchase special design exclusive handmade silver ring,Leslie in USA just Purchased Special Design Exclusive Handmade Silver Ring,1,1,Social Proof
+Activity Notifications,60,michael m from lacey wa just bought a cal king,"Michael M. from Lacey, WA just bought a Cal King",1,1,Social Proof
+Activity Notifications,61,leah rich in louisville united states purchase a,"Leah Rich in Louisville, United States purchased a",1,1,Social Proof
+Activity Notifications,62,last purchase was <num> minutes ago by someone from dublin,Last purchase was 18 minutes ago by someone from Dublin,1,1,Social Proof
+Activity Notifications,63,last purchase at <num> <num> am today,Last purchased at 11:19am today.,1,1,Social Proof
+Activity Notifications,64,ken in three bridges united states purchase all zebrawood olive ash,"Ken in Three Bridges, United States purchased All Zebrawood + Olive Ash",1,1,Social Proof
+Activity Notifications,65,ken in oakland united states purchase a dreamville hoodie a month ago,"Ken in Oakland, United States purchased a Dreamville Hoodie a month ago",1,1,Social Proof
+Activity Notifications,66,keith in champaign illinois bought mini usb audio cassette to mp <num> converterabout <num> minutes ago,"Keith in Champaign, Illinois bought Mini USB Audio Cassette to MP3 Converterabout 56 minutes ago",1,1,Social Proof
+Activity Notifications,67,kamal in lathrop united states purchase a father sons super slim stretch feather print long sleeve - fs <num> <num> hours ago,"Kamal in Lathrop, United States purchased a Father Sons Super Slim Stretch Feather Print Long Sleeve - FS429 4 hours ago",1,1,Social Proof
+Activity Notifications,68,laurie in urraween queensland bought no brainer usb charging anti-theft backpack,"Laurie in Urraween, Queensland bought No Brainer USB Charging Anti-Theft Backpack",1,1,Social Proof
+Activity Notifications,69,mitchell h purchase a dimplex ignitexl <num> linear built in electric fireplace,"Mitchell H. Purchased a Dimplex IgniteXL 100"" Linear Built in Electric Fireplace",1,1,Social Proof
+Activity Notifications,70,monira in doha qatar purchase a lilyvanity velvet box,"Monira in Doha, Qatar purchased a LilyVanity™ Velvet Box",1,1,Social Proof
+Activity Notifications,71,more than <num> users are adding shapewear to their cart is your size left,More than 752 users are adding shapewear to their cart. Is your size left?,1,1,Social Proof
+Activity Notifications,72,over <num> person have bought this product,Over 238 people have bought this product,1,1,Social Proof
+Activity Notifications,73,over <num> bought,Over 38 bought,1,1,Social Proof
+Activity Notifications,74,our most recent customers are from new rochelle roseville and brooksville,"Our most recent customers are from New Rochelle, Roseville, and Brooksville",1,1,Social Proof
+Activity Notifications,75,other person want this <num> person have this in their cart now,Other people want this. 10 people have this in their cart right now.,1,1,Social Proof
+Activity Notifications,76,other <num> customers have it in their cart,Other 2 customers have it in their cart.,1,1,Social Proof
+Activity Notifications,77,one customer bought this article in the last <num> min,One customer bought this article in the last 53 min.,1,1,Social Proof
+Activity Notifications,78,oliver in rotterdam netherlands purchase a england away soccer shorts <num> about <num> hours ago,"Oliver in Rotterdam, Netherlands purchased a England Away Soccer Shorts 2018 About 9 hours ago",1,1,Social Proof
+Activity Notifications,79,oh so popular <num> bought in the last <num> days,OH SO POPULAR! 21 bought in the last 7 days.,1,1,Social Proof
+Activity Notifications,80,natalie in graham united states purchase a free bts answer magic pillow about <num> hour ago,"Natalie in Graham, United States purchased a FREE BTS Answer Magic Pillow about 1 hour ago",1,1,Social Proof
+Activity Notifications,81,nancy in pennsylvania purchase <num> italian sterling silver milano twist adjustable chain,"Nancy in Pennsylvania purchased 24"" Italian Sterling Silver Milano Twist Adjustable Chain",1,1,Social Proof
+Activity Notifications,82,mounif in pittsburgh united states purchased,"Mounif in Pittsburgh, United States purchased",1,1,Social Proof
+Activity Notifications,83,most picked in the last next monday,Most picked in the last next Monday,1,1,Social Proof
+Activity Notifications,84,most picked in the last <num> minutes,Most picked in the last 45 minutes,1,1,Social Proof
+Activity Notifications,85,most picked in the last <num> hours,Most picked in the last 3 hours,1,1,Social Proof
+Activity Notifications,86,most added to cart this this week,Most added to cart this this week,1,1,Social Proof
+Activity Notifications,87,people like you are buy this do not miss out,People like you are buying this do not miss out,1,1,Social Proof
+Activity Notifications,88,oscar from cajamarca peru purchased,"Oscar from Cajamarca, Peru purchased",1,1,Social Proof
+Activity Notifications,89,someone from cape town western cape south africa just started buy packable travel duffel bag <num> minutes ago,"Someone from Cape Town, Western Cape, South Africa just started buying Packable Travel Duffel Bag! 5 minutes ago",1,1,Social Proof
+Activity Notifications,90,shopper from saint john nb view lenovo thinkcentre m <num> t <num> m <num> rus desktop computer <num> minutes ago,"Shopper from Saint John, NB viewed Lenovo ThinkCentre M710t 10M9000RUS Desktop Computer 3 minutes ago!",1,1,Social Proof
+Activity Notifications,91,someone purchase a forward revive women s red white hustle t-shirt <num> minutes ago,Someone purchased a FORWARD REVIVE WOMEN'S RED WHITE HUSTLE T-SHIRT 32 minutes ago,1,1,Social Proof
+Activity Notifications,92,someone in yanchep bought a <num> mm mechanical performance boost gauge - blue white <num> seconds ago,Someone in Yanchep bought a 52mm Mechanical 'Performance' Boost Gauge - Blue/White 9 seconds ago,1,1,Social Proof
+Activity Notifications,93,someone in vancouver washington purchase a orthofeet men s orthotic insoles about <num> minutes,"Someone in Vancouver, Washington purchased a Orthofeet Men's Orthotic Insoles about 38 minutes",1,1,Social Proof
+Activity Notifications,94,someone in united states just purchase a,Someone in United States just purchased a,1,1,Social Proof
+Activity Notifications,95,someone in tornado united states just bought fresh melon menthol <num> hours ago,"Someone in Tornado, United States just bought Fresh Melon Menthol 2 hours ago",1,1,Social Proof
+Activity Notifications,96,someone in spain purchased,Someone in Spain purchased,1,1,Social Proof
+Activity Notifications,97,son in suisun city united states purchase commander lex,"Son in Suisun City, United States purchased Commander Lex",1,1,Social Proof
+Activity Notifications,98,someone in shelby twp united states just bought galaxy note <num> <num> mah zeroshock battery case <num> days ago,"Someone in Shelby twp, United States just bought Galaxy Note 8 10000mAh ZeroShock Battery Case 3 days ago",1,1,Social Proof
+Activity Notifications,99,someone in san diego united states just bought gemfield watch <num> days ago,"Someone in San diego, United States just bought Gemfield Watch 15 days ago",1,1,Social Proof
+Activity Notifications,100,someone in saint kilda victoria purchase frank queen size bed base,"Someone in Saint Kilda, Victoria purchased Frank Queen Size Bed Base",1,1,Social Proof
+Activity Notifications,101,someone in red cliffs bought a rhk yamaha yz yzf wrf <num> - <num> blue pursuit footpegs <num> minutes ago,Someone in Red Cliffs bought a RHK Yamaha YZ/YZF/WRF 99-16 Blue Pursuit Footpegs 3 minutes ago,1,1,Social Proof
+Activity Notifications,102,someone in pittsworth bought a ultimate colt anal training kit <num> hours ago,Someone in Pittsworth bought a Ultimate COLT Anal Training Kit 2 hours ago,1,1,Social Proof
+Activity Notifications,103,someone in petaling jaya malaysia just bought sneakerguard midsole paint marker - boost white,"Someone in Petaling Jaya, Malaysia just bought SNEAKERGUARD Midsole Paint Marker - BOOST White",1,1,Social Proof
+Activity Notifications,104,someone in paris france just purchase a kanpeki knife set,"Someone in Paris, France just purchased a Kanpeki Knife Set",1,1,Social Proof
+Activity Notifications,105,someone in sasebo japan just bought,"Someone in Sasebo, Japan just bought",1,1,Social Proof
+Activity Notifications,106,someone in new lynn bought a kogan a <num> earphones with inline control for ios android <num> hour ago,Someone in New Lynn bought a Kogan A1 Earphones with Inline Control for IOS/Android 1 hour ago.,1,1,Social Proof
+Activity Notifications,107,stacey in saint marys united states purchase extra long <num> ft fiber cloth sync charge usb android cable - assorted colors about <num> minutes ago,"Stacey in Saint Marys, United States purchased Extra Long (10 Ft) Fiber Cloth Sync & Charge USB Android Cable - Assorted Colors about 30 minutes ago",1,1,Social Proof
+Activity Notifications,108,synne kristine in halden bought classic bokksu subscription billed every <num> month ships every <num> months about <num> minutes ago,"Synne Kristine in Halden, bought Classic Bokksu Subscription (Billed Every 1 Month) (Ships every 1 Months) about 45 minutes ago",1,1,Social Proof
+Activity Notifications,109,your neighbors in korea just ordered this,Your neighbors in Korea just ordered this,1,1,Social Proof
+Activity Notifications,110,william in pago pago united states purchase a,"William in Pago Pago, United States purchased a",1,1,Social Proof
+Activity Notifications,111,viewed <num> times today,Viewed 744 times today,1,1,Social Proof
+Activity Notifications,112,viewed <num> times in the last <num> days,Viewed 1040 times in the last 7 days,1,1,Social Proof
+Activity Notifications,113,tyler in norwalk united states purchase a,"Tyler in Norwalk, United States purchased a",1,1,Social Proof
+Activity Notifications,114,tuvia eisenberg systematics in tel aviv israel purchase a,"tuvia eisenberg Systematics in Tel Aviv, Israel purchased a",1,1,Social Proof
+Activity Notifications,115,sudha rana from jaipur bought this product <num> mins ago,"Sudha rana from Jaipur bought this product, 23 Mins ago.",1,1,Social Proof
+Activity Notifications,116,tristan in markham canada purchase a dragon baseball jersey,"Tristan in Markham, Canada purchased a Dragon Baseball Jersey",1,1,Social Proof
+Activity Notifications,117,trey in columbia united states purchase leather cord capsule,"Trey in Columbia, United States purchased Leather Cord Capsule",1,1,Social Proof
+Activity Notifications,118,trending style sold <num> times today,Trending Style! Sold 4 times today,1,1,Social Proof
+Activity Notifications,119,this product was view <num> seconds ago by someone from princeton,This product was viewed 26 seconds ago by someone from Princeton,1,1,Social Proof
+Activity Notifications,120,this product has been view <num> times in the last <num> hours,THIS PRODUCT HAS BEEN VIEWED 480 TIMES IN THE LAST 48 HOURS,1,1,Social Proof
+Activity Notifications,121,this is in <num> other carts,This is in 5 other carts.,1,1,Social Proof
+Activity Notifications,122,theresa from botkins just bought panoply <num> a-line lace formal dress,Theresa from Botkins just bought Panoply 14918 A-line Lace Formal Dress,1,1,Social Proof
+Activity Notifications,123,trey in sparta united states purchase stealth angel ultra lightweight portable sleeping bag about <num> minutes ago,"Trey in Sparta, United States purchased Stealth Angel Ultra Lightweight & Portable Sleeping Bag about 45 minutes ago",1,1,Social Proof
+Activity Notifications,124,sharmeen atif from karachi just bought stylish metal glasses frames for kids-assorted-na <num>,Sharmeen Atif From Karachi just bought Stylish Metal Glasses Frames For Kids-Assorted-NA7157,1,1,Social Proof
+Activity Notifications,125,someone in mount louisa bought a coleman folding table bench set <num> minutes ago,Someone in Mount Louisa bought a Coleman Folding Table & Bench Set 2 minutes ago,1,1,Social Proof
+Activity Notifications,126,someone in louisville kentucky united states purchase gold presidential bracelet with watch buckle <num> hours ago,Someone in Louisville Kentucky United States Purchased Gold Presidential Bracelet With Watch Buckle 9 hours ago,1,1,Social Proof
+Activity Notifications,127,someone in ampang malaysia just bought,"Someone in Ampang, Malaysia just bought",1,1,Social Proof
+Activity Notifications,128,someone in alexandria united states just bought ttdeye queen green colored contact lenses,"Someone in Alexandria, United States just bought TTDeye Queen Green Colored Contact Lenses",1,1,Social Proof
+Activity Notifications,129,someone from south gate california just purchase the admiral jr spektrum servo connector plug set male and female - <num> pairs,"Someone from South Gate, California just purchased the Admiral JR / Spektrum Servo Connector Plug Set (Male and Female - 2 Pairs)",1,1,Social Proof
+Activity Notifications,130,someone from rochedale queensland australia started buy this,"Someone from Rochedale, Queensland, Australia started buying this!",1,1,Social Proof
+Activity Notifications,131,someone from purchase a holees original ladies ii - navy about <num> hours ago,Someone from purchased a HOLEES Original Ladies II - Navy About 9 hours ago,1,1,Social Proof
+Activity Notifications,132,someone from portland united states us purchase modalert recent,"Someone from Portland, United States (US) purchased MODALERT recently.",1,1,Social Proof
+Activity Notifications,133,someone in arden hills united states purchase <num> ml young napoleon best strawberry shortcake ejuice vaporham lincoln eliquid about <num> minutes ago,"Someone in Arden Hills, United States purchased 120ml Young Napoleon | Best Strawberry Shortcake eJuice | Vaporham Lincoln eLiquid about 42 minutes ago",1,1,Social Proof
+Activity Notifications,134,someone from osijek croatia just bought tmc cp style single pistol pouch,"Someone from Osijek, Croatia just bought TMC CP Style Single Pistol Pouch",1,1,Social Proof
+Activity Notifications,135,someone from menlo park california just purchase electric skateboard motor <num> <num> kv,"Someone from Menlo Park, California just purchased Electric Skateboard Motor 6374 190KV.",1,1,Social Proof
+Activity Notifications,136,someone from huntingtown maryland united states purchase topcoat f <num> polish sealer - web special kits just now,"Someone from Huntingtown, Maryland, United States purchased TopCoat® F11® Polish & Sealer - Web Special Kits Just Now",1,1,Social Proof
+Activity Notifications,137,someone from airdrie <num> others bought this item recent,Someone from Airdrie & 10820 others bought this item recently.,1,1,Social Proof
+Activity Notifications,138,someone bought hype blue large splat kids leggings,Someone bought: HYPE BLUE LARGE SPLAT KIDS LEGGINGS,1,1,Social Proof
+Activity Notifications,139,someone added <num> pc <num> ocean natural stone beads beaded bracelet men boho handmade to their cart right now,Someone added 1pc 4ocean natural stone beads beaded bracelet men boho handmade to their cart RIGHT NOW,1,1,Social Proof
+Activity Notifications,140,sierra in cypress california bought beauty in all dress dusty blue about <num> minutes ago,"Sierra in Cypress, California bought Beauty In All Dress, Dusty Blue about 46 minutes ago",1,1,Social Proof
+Activity Notifications,141,someone from norway purchase a super fg grater - <num> x faster - <num> off,Someone from Norway purchased a Super FG Grater - 12x Faster - 15% OFF,1,1,Social Proof
+Activity Notifications,142,someone in madrid spain just bought,"Someone in Madrid, Spain just bought",1,1,Social Proof
+Activity Notifications,143,someone in bacchus marsh bought a noosa basics deodorant stick - sensitive <num> g <num> seconds ago,Someone in Bacchus Marsh bought a Noosa Basics Deodorant Stick - Sensitive (60g) 27 seconds ago,1,1,Social Proof
+Activity Notifications,144,someone in byron bay nsw just bought,"Someone in Byron Bay, NSW just bought",1,1,Social Proof
+Activity Notifications,145,someone in kilwinning united kingdom just bought cuban link chain bracelet,"Someone in Kilwinning, United Kingdom just bought Cuban Link Chain Bracelet",1,1,Social Proof
+Activity Notifications,146,someone in keilor east bought a piranta-edge skinning knife - blaze - havalon knives <num> minutes ago,Someone in Keilor East bought a Piranta-Edge Skinning Knife - Blaze - Havalon Knives54 minutes ago,1,1,Social Proof
+Activity Notifications,147,someone in joliet illinois purchase a yocan evolve plus xl vaporizer,"Someone in Joliet, Illinois purchased a Yocan Evolve Plus XL Vaporizer",1,1,Social Proof
+Activity Notifications,148,someone in flemington united states purchase anti-aging eyelid tape contains <num> strips just now,"Someone in Flemington, United States purchased Anti-Aging Eyelid Tape (Contains 100 Strips) Just now",1,1,Social Proof
+Activity Notifications,149,someone in faizabad just bought pretty love penis sleeve <num> inch an hour <num> minutes ago,Someone in Faizabad just bought: Pretty Love Penis Sleeve 7 inch an hour 2 minutes ago,1,1,Social Proof
+Activity Notifications,150,someone in egypt bought,Someone in Egypt bought,1,1,Social Proof
+Activity Notifications,151,someone in boling iago texas united states purchase seek discomfort sketch white iphone case <num> hours ago,Someone in Boling Iago Texas United States Purchased Seek Discomfort Sketch White iPhone Case 5 hours ago,1,1,Social Proof
+Activity Notifications,152,someone in dover united states just bought crew <num> mins ago,"Someone in DOVER, United States just bought Crew 15 mins ago",1,1,Social Proof
+Activity Notifications,153,someone in city just added radiance - nebulizing diffuser to their cart,Someone in city just added Radiance - Nebulizing Diffuser® to their cart,1,1,Social Proof
+Activity Notifications,154,someone in chambersburg pennsylvania purchased,"Someone in Chambersburg, Pennsylvania purchased",1,1,Social Proof
+Activity Notifications,155,someone in cedarhurst united states purchase a sproet and sprout shell violet stripe bloomers,"Someone in Cedarhurst, United States purchased a Sproet and Sprout Shell/Violet Stripe Bloomers",1,1,Social Proof
+Activity Notifications,156,someone in castle hill bought a philips essential led downlight kit <num> w <num> k few hours ago,Someone in Castle Hill bought a Philips Essential LED Downlight Kit | 5W 4000K few hours ago.,1,1,Social Proof
+Activity Notifications,157,someone in cashmere bought a rcm cosworth timing belt kit <num> - <num> my ej <num> <num> <num> hour ago,"Someone in Cashmere bought a 
+RCM Cosworth Timing Belt Kit 99-02MY EJ20/22/251 hour ago",1,1,Social Proof
+Activity Notifications,158,someone in canberra purchase nadv <num> austracantha about <num> minutes ago,Someone in Canberra purchased\nADV.2 (Austracantha) about 41 minutes ago,1,1,Social Proof
+Activity Notifications,159,someone in culgoa australia purchase savelli epic mens comfortable leather lace up boots made in brazil,"Someone in Culgoa, Australia purchased Savelli Epic Mens Comfortable Leather Lace Up Boots Made In Brazil",1,1,Social Proof
+Activity Notifications,160,julie in oak brook united states purchase a watercolor brush pens <num> refillable colors with travel case about <num> hours ago,"JULIE in Oak Brook, United States purchased a Watercolor Brush Pens 24 Refillable Colors with Travel Case about 10 hours ago",1,1,Social Proof
+Activity Notifications,161,jennifer just bought rainbow moonstone healing heartabout <num> hours ago,jennifer just bought Rainbow Moonstone Healing Heartabout 6 hours ago,1,1,Social Proof
+Activity Notifications,162,join <num> plus subscribers enjoying extra storage,Join 87 plus subscribers enjoying extra storage,1,1,Social Proof
+Activity Notifications,163,<num> person currently interested,24 people currently interested,1,1,Social Proof
+Activity Notifications,164,<num> person have added this item to their cart today,2 PEOPLE HAVE ADDED THIS ITEM TO THEIR CART TODAY,1,1,Social Proof
+Activity Notifications,165,<num> person have added this product to bag in the last <num> hours,52 people have added this product to bag in the last 72 hours,1,1,Social Proof
+Activity Notifications,166,<num> person have added this to their cart,13 people have added this to their cart,1,1,Social Proof
+Activity Notifications,167,<num> person have added to cart recently,"1,142 people have added to cart recently",1,1,Social Proof
+Activity Notifications,168,<num> person have already bought that product today with <num> discount,61 people have already bought that product today with 50% discount,1,1,Social Proof
+Activity Notifications,169,<num> person have bought this product today,93 PEOPLE HAVE BOUGHT THIS PRODUCT TODAY,1,1,Social Proof
+Activity Notifications,170,<num> person have it in their cart,7 people have it in their cart,1,1,Social Proof
+Activity Notifications,172,<num> person have looked at this in the last few hrs,6 people have looked at this in the last few hrs.,1,1,Social Proof
+Activity Notifications,173,<num> person have looked at this item in the last few hours,62 people have looked at this item in the last few hours.,1,1,Social Proof
+Activity Notifications,174,<num> person have looked at this part recently,22 people have looked at this part recently,1,1,Social Proof
+Activity Notifications,175,<num> person have looked at this today,57 PEOPLE HAVE LOOKED AT THIS TODAY,1,1,Social Proof
+Activity Notifications,176,<num> person bought this item last week,3 people bought this item last week.,1,1,Social Proof
+Activity Notifications,177,<num> person have purchase this wine today,24 people have purchased this wine today,1,1,Social Proof
+Activity Notifications,178,<num> person have view in the last <num> hrs,113 people have viewed in the last 24hrs,1,1,Social Proof
+Activity Notifications,179,<num> person have view recently,"6,743 people have viewed recently",1,1,Social Proof
+Activity Notifications,180,<num> person have view this item in the last <num> days,117 people have viewed this item in the last 7 days.,1,1,Social Proof
+Activity Notifications,181,<num> person have view this product recent,228 People Have Viewed This Product Recently!,1,1,Social Proof
+Activity Notifications,182,<num> person have view this product today,8 people have viewed this product today!,1,1,Social Proof
+Activity Notifications,183,<num> person have view this wine today,17 people have viewed this wine today,1,1,Social Proof
+Activity Notifications,184,<num> person have view today,660 people have viewed today,1,1,Social Proof
+Activity Notifications,185,<num> person is looking at this item,1 person is looking at this item.,1,1,Social Proof
+Activity Notifications,186,<num> person just view this product,2+ people just viewed this product,1,1,Social Proof
+Activity Notifications,187,<num> person like this,77 PEOPLE LIKE THIS,1,1,Social Proof
+Activity Notifications,188,<num> person looked at this during the last <num> hours,21 people looked at this during the last 24 hours,1,1,Social Proof
+Activity Notifications,189,<num> person looked at this product in the last <num> hours,7 people looked at this product in the last 24 hours.,1,1,Social Proof
+Activity Notifications,190,<num> person looking for this product,78 Persons looking for this product,1,1,Social Proof
+Activity Notifications,191,<num> person recent purchase this,146 people recently purchased this.,1,1,Social Proof
+Activity Notifications,192,<num> person have this in their bag now,8 people have this in their bag right now.,1,1,Social Proof
+Activity Notifications,193,<num> person bought this,5338 people bought this,1,1,Social Proof
+Activity Notifications,194,<num> person bought jotter to do refill in the last few hours,1 people bought Jotter To Do Refill in the last few hours,1,1,Social Proof
+Activity Notifications,195,<num> person are view this right now,251 people are viewing this right now,1,1,Social Proof
+Activity Notifications,196,<num> added to bag in the past <num> hours,45 ADDED TO BAG IN THE PAST 24 HOURS,1,1,Social Proof
+Activity Notifications,197,<num> bestseller in rugs this item was view <num> times in the last day,#6 Bestseller in Rugs This item was viewed 92 times in the last day.,1,1,Social Proof
+Activity Notifications,198,<num> bought already,227 Bought Already,1,1,Social Proof
+Activity Notifications,199,<num> bought in the last <num> hours,4 bought in the last 24 hours.,1,1,Social Proof
+Activity Notifications,200,<num> currently viewing,89 currently viewing,1,1,Social Proof
+Activity Notifications,201,<num> customers are considering this product now,80 Customers are considering this product right now.,1,1,Social Proof
+Activity Notifications,202,<num> customers bought this in the last <num> hours,92 customers bought this in the last 48 hours,1,1,Social Proof
+Activity Notifications,203,<num> customers have bought today,8 customers have bought today,1,1,Social Proof
+Activity Notifications,204,<num> customers have view this item recently,407 customers have viewed this item recently,1,1,Social Proof
+Activity Notifications,205,<num> customers recent bought it,2 customers recently bought it,1,1,Social Proof
+Activity Notifications,206,<num> customers view this product today,12 customers viewed this product today!,1,1,Social Proof
+Activity Notifications,207,<num> items sold this hour,994 items sold this hour.,1,1,Social Proof
+Activity Notifications,208,<num> orders,404 Orders,1,1,Social Proof
+Activity Notifications,209,<num> other customers have this item in their shopping cart,1 other customers have this item in their shopping cart,1,1,Social Proof
+Activity Notifications,210,<num> other person are currently view this item,3 other people are currently viewing this item.,1,1,Social Proof
+Activity Notifications,211,<num> other person looking at this item,6 other people looking at this item,1,1,Social Proof
+Activity Notifications,212,<num> others checked out this option in the past <num> hours,43 others checked out this option in the past 3 hours,1,1,Social Proof
+Activity Notifications,213,<num> person are view this offer,232 people are viewing this offer!,1,1,Social Proof
+Activity Notifications,214,<num> person are view this currently,1 people are viewing this currently,1,1,Social Proof
+Activity Notifications,215,<num> person are looking at this right now,99 people are looking at this right now,1,1,Social Proof
+Activity Notifications,216,<num> person are looking at this product right now,5 people are looking at this product right now,1,1,Social Proof
+Activity Notifications,217,<num> person are looking at this product,3 people are looking at this product,1,1,Social Proof
+Activity Notifications,218,<num> person are looking at this listing now,2 people are looking at this listing now,1,1,Social Proof
+Activity Notifications,219,<num> person view item in the last <num> hours,88 PEOPLE VIEWED ITEM IN THE LAST 24 HOURS,1,1,Social Proof
+Activity Notifications,220,<num> person are looking at this item right now,3 people are looking at this item right now,1,1,Social Proof
+Activity Notifications,221,<num> person are eyeing this item,33 people are eyeing this item!,1,1,Social Proof
+Activity Notifications,222,<num> person are currently view this product,9 people are currently viewing this product,1,1,Social Proof
+Activity Notifications,223,<num> pawrents are buy for their furkids now,105 pawrents are buying for their furkids now!,1,1,Social Proof
+Activity Notifications,224,<num> others have already bought this deal today,6 others have already bought this deal today!,1,1,Social Proof
+Activity Notifications,225,<num> others checked out this option today,44 others checked out this option today,1,1,Social Proof
+Activity Notifications,226,<num> others checked out this option over the weekend,31 others checked out this option over the weekend,1,1,Social Proof
+Activity Notifications,227,<num> person are looking at this artwork,8 people are looking at this artwork,1,1,Social Proof
+Activity Notifications,228,<num> person view this in the last hour,5338 people viewed this in the last hour,1,1,Social Proof
+Activity Notifications,229,<num> person view this product,23 People viewing this product,1,1,Social Proof
+Activity Notifications,230,<num> person view this product per day,19 people viewed this product per day,1,1,Social Proof
+Activity Notifications,231,don t miss out we ve sold <num> in the last few days,Don't miss out! We've sold 38 in the last few days.,1,1,Social Proof
+Activity Notifications,232,edwin in woodland park nj just bought,"Edwin in Woodland Park, NJ just bought",1,1,Social Proof
+Activity Notifications,233,estiven in deer park united states purchase prewash <num> oz,"estiven in Deer Park, United States purchased PreWash™ 4 oz",1,1,Social Proof
+Activity Notifications,234,faith in glendale united states purchase a choose your flavors <num> bag sample pack whole bean about <num> hour ago,"Faith in Glendale, United States purchased a Choose Your Flavors 5 Bag Sample Pack (Whole Bean) about 1 hour ago",1,1,Social Proof
+Activity Notifications,235,fast mover <num> person added this to cart today,Fast Mover: 35 PEOPLE added this to cart today!,1,1,Social Proof
+Activity Notifications,236,friends near you bought this in the last <num> minutes,Friends near you bought this in the last 10 minutes,1,1,Social Proof
+Activity Notifications,237,get it fast <num> added to bag today,Get it fast! 14 added to bag today,1,1,Social Proof
+Activity Notifications,238,hayden near princeton just bought cbd vegan gummies,Hayden near Princeton just bought!!!: CBD VEGAN GUMMIES,1,1,Social Proof
+Activity Notifications,239,hot now purchase in the past <num> hours,Hot right now purchased in the past 3 hours,1,1,Social Proof
+Activity Notifications,240,hot now purchase over the weekend,Hot right now purchased over the weekend,1,1,Social Proof
+Activity Notifications,241,hot now purchase today,Hot right now purchased today,1,1,Social Proof
+Activity Notifications,242,hot product over <num> person are looking at this item,HOT PRODUCT Over 250 people are looking at this item.,1,1,Social Proof
+Activity Notifications,243,ibkul solid mock neck half zip pullover purchase from clinton md us <num> minute ago,"IBKUL Solid Mock Neck Half Zip Pullover purchased from Clinton, MD, US 1 minute ago",1,1,Social Proof
+Activity Notifications,244,ida in tangerang selatan indonesia purchase iseya vg <num> g-series <num> layer damascus japanese chef s santoku knife <num> mm about <num> hour ago,"Ida in Tangerang Selatan, Indonesia purchased Iseya VG10 G-Series 33 layer Damascus Japanese Chef's Santoku Knife , 180mm about 1 hour ago",1,1,Social Proof
+Activity Notifications,245,in <num> person s shopping bag,IN 43 PEOPLE'S SHOPPING BAG,1,1,Social Proof
+Activity Notifications,246,in other users carts <num>,In other users' carts 59,1,1,Social Proof
+Activity Notifications,247,israël in metz france purchase a more advanced chord substitutions,"Israël in Metz, France purchased a More ADVANCED Chord Substitutions",1,1,Social Proof
+Activity Notifications,248,join <num> plus subscribers enjoying data export,Join 38 plus subscribers enjoying data export,1,1,Social Proof
+Activity Notifications,249,join <num> plus subscribers enjoying ad free experience,Join 52 plus subscribers enjoying ad free experience,1,1,Social Proof
+Activity Notifications,250,john in toowoomba city australia purchase a resin tank <num> hours ago,"JOHN in Toowoomba City, Australia purchased a Resin Tank 7 hours ago",1,1,Social Proof
+Activity Notifications,251,joe m from bought a cartoon caterpillar rigged <num> d model recently,"Joe M from , Bought a Cartoon Caterpillar Rigged 3D Model Recently",1,1,Social Proof
+Activity Notifications,252,jim in houston usa purchase pure ratios hemp oil cbd patch <num> mg cbd,"Jim in Houston, USA purchased Pure Ratios: Hemp Oil CBD Patch (40mg CBD)",1,1,Social Proof
+Activity Notifications,253,jessica in orange united states purchase a black <num> s sequin maxi flapper dress <num> minutes ago,"Jessica in Orange, United States purchased a Black 1920s Sequin Maxi Flapper Dress 12 minutes ago",1,1,Social Proof
+Activity Notifications,254,don t let em get away several person have recent view this item,DON'T LET 'EM GET AWAY Several people have recently viewed this item.,1,1,Social Proof
+Activity Notifications,255,jeremy in warroad united states purchase a,"Jeremy in Warroad, United States purchased a",1,1,Social Proof
+Activity Notifications,256,your neighbors in your city just ordered this,Your neighbors in your city just ordered this,1,1,Social Proof
+Activity Notifications,257,jamie in nashville united states purchased,"Jamie in Nashville, United States purchased",1,1,Social Proof
+Activity Notifications,258,jamie from eloy united states purchase a cbd oil vape additives <num> pack about <num> hours ago,Jamie from Eloy United States purchased a CBD Oil Vape Additives 4 Pack About 7 hours ago,1,1,Social Proof
+Activity Notifications,259,james in cashion oklahoma just bought glossy black brick geode amber gradient fast lanes,"James in Cashion, Oklahoma just bought Glossy Black Brick Geode / Amber Gradient Fast Lanes",1,1,Social Proof
+Activity Notifications,260,james from colonia purchase a,James from Colonia purchased a,1,1,Social Proof
+Activity Notifications,261,jacob in seymour wisconsin united states purchase a bass xl just now,"Jacob in Seymour, Wisconsin, United States purchased a Bass XL just now!",1,1,Social Proof
+Activity Notifications,262,jeremy in stockton united states purchase a,"Jeremy in Stockton, United States purchased a",1,1,Social Proof
+Activity Notifications,263,jonathan in syracuse united states just bought electric skateboard battery pack <num> v <num> s <num> p <num> hours ago,"Jonathan in Syracuse, United States just bought Electric Skateboard Battery Pack 36V 10S2P 4 hours ago",1,1,Social Proof
+Activity Notifications,264,denise in saluda virginia bought terani couture - <num> e <num> embroidered asymmetric neck mermaid gown,"Denise in Saluda, Virginia bought Terani Couture - 1911E9095 Embroidered Asymmetric Neck Mermaid Gown",1,1,Social Proof
+Activity Notifications,265,currently trending on checkout,Currently trending on checkout,1,1,Social Proof
+Activity Notifications,266,<num> person view this product recent,104 people viewed this product recently!,1,1,Social Proof
+Activity Notifications,267,<num> person view this product this week,127 People viewed this product this week,1,1,Social Proof
+Activity Notifications,268,<num> person view this today,11 people viewed this today!,1,1,Social Proof
+Activity Notifications,269,<num> person viewing,3 PEOPLE VIEWING,1,1,Social Proof
+Activity Notifications,270,<num> plus verified purchase over the weekend,41 plus verified purchases over the weekend,1,1,Social Proof
+Activity Notifications,271,<num> sold in past <num> months,1044 sold in past 12 months,1,1,Social Proof
+Activity Notifications,272,<num> sold in the last <num> days,2049 sold in the last 7 days,1,1,Social Proof
+Activity Notifications,273,<num> sold in the last <num> hours,7 sold in the last 48 hours,1,1,Social Proof
+Activity Notifications,274,<num> units sold in the last <num> days,273 units sold in the last 30 days,1,1,Social Proof
+Activity Notifications,275,<num> users bought this product touch the set - touch xl touchup makeup mirror bundle,64 users bought this product Touch: The Set - Touch XL & TouchUp Makeup Mirror Bundle,1,1,Social Proof
+Activity Notifications,276,<num> users have looked at this product in the past <num> minutes,7 users have looked at this product in the past 6 minutes,1,1,Social Proof
+Activity Notifications,277,<num> view per day,308 viewed per day,1,1,Social Proof
+Activity Notifications,278,<num> view per hour,2 viewed per hour,1,1,Social Proof
+Activity Notifications,279,abbie in calwell australia purchase shark bite socks about <num> hour ago,"Abbie in Calwell, Australia purchased Shark Bite Socks about 1 hour ago",1,1,Social Proof
+Activity Notifications,280,add to wish list <num> person have added,Add to Wish List(13 People Have Added),1,1,Social Proof
+Activity Notifications,281,alyssa in san antonio united states purchase a itunes japan gift card <num> jpy about <num> minutes ago,"Alyssa in San Antonio, United States purchased a iTunes Japan Gift Card 10000 JPY about 35 minutes ago",1,1,Social Proof
+Activity Notifications,282,annie in cheras malaysia just bought an abundance of flowers - van-go paint-by-number kit,"Annie in Cheras, Malaysia just bought: An Abundance of Flowers - Van-Go Paint-By-Number Kit",1,1,Social Proof
+Activity Notifications,283,crystal li in flushing united states purchase a,"Crystal Li in Flushing, United States purchased a",1,1,Social Proof
+Activity Notifications,284,collin p from grandview missouri just bought burgundy two button suit about <num> seconds ago,Collin P. from Grandview Missouri just bought BURGUNDY TWO BUTTON SUIT ABOUT 5 SECONDS AGO,1,1,Social Proof
+Activity Notifications,285,chirag in anoopshahr just got the jays - a-jays one about <num> minutes ago,Chirag in Anoopshahr just got the JAYS - a-JAYS One+ about 17 minutes ago,1,1,Social Proof
+Activity Notifications,286,cheryl in ontario bought <num> organic reishi mushroom powder <num> g about <num> minutes ago,Cheryl in Ontario bought 100% Organic Reishi Mushroom Powder 100g about 16 minutes ago,1,1,Social Proof
+Activity Notifications,287,chelsea in burlington wisconsin bought take out the boat jumpsuit blackabout <num> minutes ago,"Chelsea in Burlington, Wisconsin bought Take Out The Boat Jumpsuit, Blackabout 13 minutes ago",1,1,Social Proof
+Activity Notifications,288,carol in st louis missouri bought original usb charging anti-theft backpack,"Carol in St. Louis, Missouri bought Original USB Charging Anti-Theft Backpack",1,1,Social Proof
+Activity Notifications,289,debby in harpers ferry united states just bought icing pen decorating tool,"Debby in Harpers Ferry, United States just bought: Icing Pen Decorating Tool",1,1,Social Proof
+Activity Notifications,290,carl f from fort ann ny bought a king,"Carl F. from Fort Ann, NY bought a King",1,1,Social Proof
+Activity Notifications,291,bobby in decatur united states just purchased,"Bobby in Decatur, United States just purchased",1,1,Social Proof
+Activity Notifications,292,bernard in philadelphia united states purchase a,"BERNARD in Philadelphia, United States purchased a",1,1,Social Proof
+Activity Notifications,293,awhi from hicks bay gisborne new zealand just bought,"Awhi from Hicks Bay, Gisborne, New Zealand just bought",1,1,Social Proof
+Activity Notifications,294,ashley in auburn united states purchase a check plz iphone x xs case about <num> minutes ago,"Ashley in Auburn, United States purchased a Check Plz iPhone X/Xs Case about 24 minutes ago",1,1,Social Proof
+Activity Notifications,295,armin dinovic bought <num> m runescape <num> gold order total <num> about <num> seconds ago,"Armin Dinovic bought 10M Runescape 3 Gold Order total: 3,70€ About 10 seconds ago",1,1,Social Proof
+Activity Notifications,296,another babe in alexandria united states just ordered flat tummy tea,"Another babe in Alexandria, United States just ordered Flat Tummy Tea",1,1,Social Proof
+Activity Notifications,297,bought by <num> person in last few hours hot seller,Bought by 39 people in last few hours! HOT SELLER!,1,1,Social Proof
+Activity Notifications,298,your neighbors in your region just ordered this,Your neighbors in your region just ordered this,1,1,Social Proof
+Confirmshaming,299,no thanks i d rather pay full price,No thanks. I'd rather pay full price.,11,3,Misdirection
+Confirmshaming,302,no thanks i ll pay full price,"No Thanks, I'll Pay Full Price",5,2,Misdirection
+Confirmshaming,308,no thanks i don t like discounts,"NO, THANKS. I DON'T LIKE DISCOUNTS",5,3,Misdirection
+Confirmshaming,300,no thanks i prefer paying full price,"No Thanks, I Prefer Paying Full Price.",4,1,Misdirection
+Confirmshaming,301,no thanks i don t like free stuff,"NO THANKS, I DON'T LIKE FREE STUFF",4,1,Misdirection
+Confirmshaming,306,no i don t feel lucky,"NO, I DON'T FEEL LUCKY",4,2,Misdirection
+Confirmshaming,315,no thanks i don t want a discount,"No Thanks, I Don't Want a Discount",4,3,Misdirection
+Confirmshaming,303,no thanks i don t like saving money,"No Thanks, I Don't Like Saving Money.",3,1,Misdirection
+Confirmshaming,304,no thanks i don t want to save,"NO THANKS, I DON'T WANT TO SAVE",3,1,Misdirection
+Confirmshaming,305,no thanks i like paying full price,"No Thanks, I like paying full price.",3,1,Misdirection
+Confirmshaming,307,no thanks i d rather pay more,"No thanks, I'd rather pay more",3,1,Misdirection
+Confirmshaming,311,no thanks i don t want to save money,No thanks. I don’t want to save money.,3,2,Misdirection
+Confirmshaming,309,no thanks i don t like to save,"no thanks, I don't like to save",2,1,Misdirection
+Confirmshaming,310,no thanks i don t like winning,"No thanks, I don't like winning.",2,1,Misdirection
+Confirmshaming,312,no thanks i don t like deals,"No thanks, I don't like deals.",2,1,Misdirection
+Confirmshaming,313,no thanks i don t like exclusive offers,"No thanks, I don't like exclusive offers",2,1,Misdirection
+Confirmshaming,314,no thanks i don t want a free gift,"No thanks, I don't want a free gift.",2,1,Misdirection
+Confirmshaming,316,no thanks i don t want <num> off,"NO THANKS, I DON’T WANT 15% OFF",2,1,Misdirection
+Confirmshaming,317,no thanks i don t want discount,"No thanks, I don't want discount",1,1,Misdirection
+Confirmshaming,318,no thanks i don t want official software at the best price,"No Thanks, I don't want official software at the best price.",1,1,Misdirection
+Confirmshaming,319,no thanks i don t want any deals,"No thanks, I don't want any deals",1,1,Misdirection
+Confirmshaming,320,no thanks i don t want <num> off my order,"NO THANKS, I DON'T WANT 20% OFF MY ORDER",1,1,Misdirection
+Confirmshaming,321,no thanks i don t want the free gift,"No thanks, I don't want the free gift.",1,1,Misdirection
+Confirmshaming,322,no thanks i don t want to build one i d rather kick rocks,"No thanks, I don't want to build one.. I'd rather kick rocks!",1,1,Misdirection
+Confirmshaming,323,no thanks i don t want to look my best,"No thanks, I don't want to look my best",1,1,Misdirection
+Confirmshaming,324,no thanks i don t mind missing out,"NO THANKS, I DON’T MIND MISSING OUT",1,1,Misdirection
+Confirmshaming,325,no thanks i don t want deals,No thanks. I don’t want deals.,1,1,Misdirection
+Confirmshaming,326,no thanks i don t want to save up to <num>,"No thanks, I don't want to save up to 75%",1,1,Misdirection
+Confirmshaming,327,don t miss on these awesome items don t miss on our table decoration system,DON'T MISS ON THESE AWESOME ITEMS / DON'T MISS ON OUR TABLE DECORATION SYSTEM,1,1,Misdirection
+Confirmshaming,328,no thanks i hate cool stuff,"No thanks, I hate cool stuff",1,1,Misdirection
+Confirmshaming,329,no thanks i will pay full price,"No thanks, I will pay full price.",1,1,Misdirection
+Confirmshaming,330,no thanks i want to pay the full price,"No thanks, I want to pay the full price.",1,1,Misdirection
+Confirmshaming,331,no thanks i want to pay full price,"No thanks, I want to pay full price",1,1,Misdirection
+Confirmshaming,332,no thanks i ve got too much cool glock stuff,"No thanks, I've got too much cool Glock stuff!",1,1,Misdirection
+Confirmshaming,333,no thanks i rather pay full price,"No Thanks, I rather pay full price",1,1,Misdirection
+Confirmshaming,334,no thanks i prefer to pay more for shoes,"No thanks, I prefer to pay more for shoes!",1,1,Misdirection
+Confirmshaming,335,no thanks i prefer to pay full price,"No thanks, I prefer to pay full price.",1,1,Misdirection
+Confirmshaming,336,no thanks i prefer not to have a protection plan,"No Thanks, I prefer not to have a protection plan",1,1,Misdirection
+Confirmshaming,337,no thanks i m not interested in saving money,"No thanks, I'm not interested in saving money.",1,1,Misdirection
+Confirmshaming,338,no thanks i m not interested,"No thanks, I'm not interested",1,1,Misdirection
+Confirmshaming,339,no thanks i love chaos,No thanks. I love chaos!,1,1,Misdirection
+Confirmshaming,340,no thanks i ll still want to pay full price,"No thanks, I'll still want to pay full price",1,1,Misdirection
+Confirmshaming,341,no thanks i ll skip this amazing super-saver deal i don t need so many beautiful textures,"No thanks, I’ll skip this amazing super-saver deal. I don’t need so many beautiful textures",1,1,Misdirection
+Confirmshaming,342,no thanks i ll save money another day,"no thanks, I'll save money another day",1,1,Misdirection
+Confirmshaming,343,no thanks i ll let this offer sail away,"No Thanks, I'll let this offer sail away",1,1,Misdirection
+Confirmshaming,344,no thanks i ll just walk,"[NO THANKS, I'LL JUST WALK]",1,1,Misdirection
+Confirmshaming,345,no thanks i ll just pay full price,"No thanks, I'll just pay full price.",1,1,Misdirection
+Confirmshaming,346,no thanks i ll be the last to know,"No thanks, I'll be the last to know.",1,1,Misdirection
+Confirmshaming,347,no thanks i like full price,"No thanks, I like full price",1,1,Misdirection
+Confirmshaming,348,no thanks i just want the item,"No thanks, I just want the item",1,1,Misdirection
+Confirmshaming,349,no thanks i hate fun games,"no thanks, I hate fun & games",1,1,Misdirection
+Confirmshaming,350,no thanks i dont want a discount,"No thanks, I dont want a discount",1,1,Misdirection
+Confirmshaming,351,no thanks i hate saving money,"No thanks, I hate saving money",1,1,Misdirection
+Confirmshaming,352,no thanks i don t like good deals,"No thanks, I don't like good deals.",1,1,Misdirection
+Confirmshaming,353,no thanks i don t like promotions and exclusive content,"No thanks, I don't like promotions and exclusive content.",1,1,Misdirection
+Confirmshaming,354,no i d rather not hear about exclusive offers and discounts,No I'd rather not hear about exclusive offers and discounts.,1,1,Misdirection
+Confirmshaming,355,no i d rather do it the hard way,"No, I'd rather do it the hard way...",1,1,Misdirection
+Confirmshaming,356,nah i ll pay full price,"Nah, I'll pay full price",1,1,Misdirection
+Confirmshaming,357,nah i like paying full price,"Nah, I like paying full price",1,1,Misdirection
+Confirmshaming,358,keep loyalty bonus active by clicking sign up,Keep loyalty bonus active by clicking Sign up,1,1,Misdirection
+Confirmshaming,359,keep loyalty bonus active by clicking get deal,Keep loyalty bonus active by clicking Get deal,1,1,Misdirection
+Confirmshaming,360,keep cashback reward active by clicking join now,Keep cashback reward active by clicking Join now,1,1,Misdirection
+Confirmshaming,361,keep bonus points active by clicking get deal,Keep bonus points active by clicking Get deal,1,1,Misdirection
+Confirmshaming,362,i want to pay more later,I WANT TO PAY MORE LATER ;),1,1,Misdirection
+Confirmshaming,363,i don t like to save money,I Don't Like to Save Money,1,1,Misdirection
+Confirmshaming,364,i don t like free gifts no thanks,"I DON'T LIKE FREE GIFTS, NO THANKS",1,1,Misdirection
+Confirmshaming,365,i d rather not save,I'd rather not save,1,1,Misdirection
+Confirmshaming,366,i ll shop without a discount,I'll Shop Without A Discount,1,1,Misdirection
+Confirmshaming,367,no i don t want great deals,"No, I don't want great deals.",1,1,Misdirection
+Confirmshaming,368,no i ll pay full price,"NO, I'LL PAY FULL PRICE",1,1,Misdirection
+Confirmshaming,369,no thanks i don t like great deals,"No, thanks. I don't like great deals.",1,1,Misdirection
+Confirmshaming,370,personalize your doll,Personalize your doll,1,1,Misdirection
+Confirmshaming,371,no thanks i don t like getting free stuff,"No thanks, I don't like getting free stuff.",1,1,Misdirection
+Confirmshaming,372,no thanks i don t like fun and games,"No thanks, I don’t like fun and games.",1,1,Misdirection
+Confirmshaming,373,no thanks i don t like free things,No thanks. I don't like free things...,1,1,Misdirection
+Confirmshaming,374,no thanks i don t like exclusive deals,"No Thanks, I don't like exclusive deals.",1,1,Misdirection
+Confirmshaming,375,no thanks i despise coupons,"No thanks, I despise coupons!",1,1,Misdirection
+Confirmshaming,376,no thanks i definitely measured correctly,No thanks I definitely measured correctly,1,1,Misdirection
+Confirmshaming,377,no thanks i d rather not win,"No thanks, I’d rather not win.",1,1,Misdirection
+Confirmshaming,378,no thanks i d rather join the pay full price for things club,"No thanks! I'd rather join the """"Pay Full Price for Things"""" club.",1,1,Misdirection
+Confirmshaming,379,no thanks i d prefer not to save,"No, thanks. I'd prefer not to save.",1,1,Misdirection
+Confirmshaming,380,no thanks i d like <num> off,"No thanks, I'd like 0% off",1,1,Misdirection
+Confirmshaming,381,no thanks free stuff isn t for me,"No thanks, free stuff isn't for me.",1,1,Misdirection
+Confirmshaming,382,no thanks - i don t want to save money,No thanks - I don't want to save money,1,1,Misdirection
+Confirmshaming,383,no thanks,NO THANKS,1,1,Misdirection
+Confirmshaming,384,no thank you i prefer to pay the full price,"No, thank you. I prefer to pay the full price",1,1,Misdirection
+Confirmshaming,385,no thank you i prefer to pay full price,"No thank you, I prefer to pay full price",1,1,Misdirection
+Confirmshaming,386,no thank you i prefer to pay for shipping,"No thank you, I prefer to pay for shipping.",1,1,Misdirection
+Confirmshaming,387,no i ll rather pay full price,"No, I'll rather pay full price.",1,1,Misdirection
+Confirmshaming,388,no thanks i don t like savings,"No thanks, I don't like savings",1,1,Misdirection
+Confirmshaming,389,yes i want to save money no thanks,"Yes, I Want To Save Money!No Thanks",1,1,Misdirection
+Pressured Selling,390,<num> <num>,$132.90 $99.00,1,1,Misdirection
+Pressured Selling,391,subscribe save,Subscribe & Save,1,1,Misdirection
+Pressured Selling,392,subscribe save <num> <num>,Subscribe & Save (15%): $ 16.99,1,1,Misdirection
+Pressured Selling,393,the annual plan is our most popular pre chosen to save you time,The Annual plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,394,the basic plan is our most popular pre chosen to save you time,The Basic plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,395,the business plan is our most popular pre chosen to save you time,The Business plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,396,the competition <num> <num>,"THE COMPETITION $1,299.99",1,1,Misdirection
+Pressured Selling,397,the enterprise plan is our most popular pre chosen to save you time,The Enterprise plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,398,the family plan is our most popular pre chosen to save you time,The Family plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,399,the fastest route is pre checked for your convenience,The fastest route is pre checked for your convenience,1,1,Misdirection
+Pressured Selling,400,the monthly plan is our most popular pre chosen to save you time,The Monthly plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,401,the plus plan is our most popular pre chosen to save you time,The Plus plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,402,the standard plan is our most popular pre chosen to save you time,The Standard plan is our most popular pre chosen to save you time,1,1,Misdirection
+Pressured Selling,403,this offer is only valid if you add to cart now,This offer is only VALID if you add to cart now!,1,1,Misdirection
+Pressured Selling,404,to finish sign up accept optional terms pre ticked,To finish sign up accept optional terms pre ticked,1,1,Misdirection
+Pressured Selling,405,to keep exclusive access proceed with the recommended annual plan,To keep exclusive access proceed with the recommended Annual plan,1,1,Misdirection
+Pressured Selling,406,smart picks enabled some options are selected for you,Smart picks enabled some options are selected for you,1,1,Misdirection
+Pressured Selling,407,skip step appears after you click get deal,Skip step appears after you click Get deal,1,1,Misdirection
+Pressured Selling,408,skip step appears after you click checkout,Skip step appears after you click Checkout,1,1,Misdirection
+Pressured Selling,409,score you ve qualified for a checkout bonus,Score! You've Qualified for a Checkout Bonus,1,1,Misdirection
+Pressured Selling,410,order without free membership <num>,Order without free membership $69.95,1,1,Misdirection
+Pressured Selling,411,other items on special offer,Other Items On Special Offer:,1,1,Misdirection
+Pressured Selling,412,our best selling goggle,OUR BEST SELLING GOGGLE,1,1,Misdirection
+Pressured Selling,413,people also buy this with,People also buy this with,1,1,Misdirection
+Pressured Selling,414,pre checked newsletter keeps you updated opt out anytime,Pre checked newsletter keeps you updated opt out anytime,1,1,Misdirection
+Pressured Selling,415,priority support is included pre selected,Priority support is included pre selected,1,1,Misdirection
+Pressured Selling,416,processing will be faster with express checkout selected,Processing will be faster with Express Checkout selected,1,1,Misdirection
+Pressured Selling,417,to keep exclusive access proceed with the recommended business plan,To keep exclusive access proceed with the recommended Business plan,1,1,Misdirection
+Pressured Selling,418,professional color tool kit addons,Professional Color Tool Kit / Addons,1,1,Misdirection
+Pressured Selling,419,promo applied taxes and membership fee may be shown at checkout,Promo applied Taxes and membership fee may be shown at checkout,1,1,Misdirection
+Pressured Selling,420,protect your gear,Protect Your Gear,1,1,Misdirection
+Pressured Selling,421,protect your sofa your humblebum sofa in thatch house fabric will look wicked why not add castelan fabric protection to cover your new squish machine against wine spillages messy tv dinners and other disasters for just just <num>,"PROTECT YOUR SOFA! Your Humblebum Sofa in Thatch house fabric will look wicked! Why not add Castelan Fabric Protection to cover your new squish machine against wine spillages, messy TV dinners, and other disasters for just just £80?",1,1,Misdirection
+Pressured Selling,422,recommended option selected you can modify later,Recommended option selected you can modify later,1,1,Misdirection
+Pressured Selling,423,save <num> aud <num> off,Save $148.98AUD – 49% Off,1,1,Misdirection
+Pressured Selling,424,savings applied at pop up buy now to finalize,Savings applied at pop up Buy now to finalize,1,1,Misdirection
+Pressured Selling,425,savings applied at product page join now to finalize,Savings applied at product page Join now to finalize,1,1,Misdirection
+Pressured Selling,426,promo applied taxes and activation fee may be shown at checkout,Promo applied Taxes and activation fee may be shown at checkout,1,1,Misdirection
+Pressured Selling,427,to keep free gift proceed with the recommended enterprise plan,To keep free gift proceed with the recommended Enterprise plan,1,1,Misdirection
+Pressured Selling,428,to keep vip access proceed with the recommended pro plan,To keep VIP access proceed with the recommended Pro plan,1,1,Misdirection
+Pressured Selling,429,to keep welcome credit proceed with the recommended standard plan,To keep welcome credit proceed with the recommended Standard plan,1,1,Misdirection
+Pressured Selling,430,your cart includes gift wrap free to remove later,Your cart includes gift wrap free to remove later,1,1,Misdirection
+Pressured Selling,431,your cart includes priority support free to remove later,Your cart includes priority support free to remove later,1,1,Misdirection
+Pressured Selling,432,your cloud storage includes extra storage unless removed,Your cloud storage includes extra storage unless removed,1,1,Misdirection
+Pressured Selling,433,your discount is applied additional administration fee may appear at checkout,Your discount is applied Additional administration fee may appear at checkout,1,1,Misdirection
+Pressured Selling,434,your discount is applied additional booking fee may appear at checkout,Your discount is applied Additional booking fee may appear at checkout,1,1,Misdirection
+Pressured Selling,435,your discount is applied additional handling fee may appear at checkout,Your discount is applied Additional handling fee may appear at checkout,1,1,Misdirection
+Pressured Selling,436,your discount is applied additional membership fee may appear at checkout,Your discount is applied Additional membership fee may appear at checkout,1,1,Misdirection
+Pressured Selling,437,your cart includes extra storage free to remove later,Your cart includes extra storage free to remove later,1,1,Misdirection
+Pressured Selling,438,your discount is applied additional processing fee may appear at checkout,Your discount is applied Additional processing fee may appear at checkout,1,1,Misdirection
+Pressured Selling,439,your discount is applied additional transaction fee may appear at checkout,Your discount is applied Additional transaction fee may appear at checkout,1,1,Misdirection
+Pressured Selling,440,your family discount applies if you proceed now,Your Family discount applies if you proceed now,1,1,Misdirection
+Pressured Selling,441,your fitness app includes gift wrap unless removed,Your fitness app includes gift wrap unless removed,1,1,Misdirection
+Pressured Selling,442,your luggage set includes data export unless removed,Your luggage set includes data export unless removed,1,1,Misdirection
+Pressured Selling,443,your plus discount applies if you proceed now,Your Plus discount applies if you proceed now,1,1,Misdirection
+Pressured Selling,444,your premium discount applies if you proceed now,Your Premium discount applies if you proceed now,1,1,Misdirection
+Pressured Selling,445,your purchase entitles you to the following special,"""Your purchase entitles you to the following special""",1,1,Misdirection
+Pressured Selling,446,your discount is applied additional service fee may appear at checkout,Your discount is applied Additional service fee may appear at checkout,1,1,Misdirection
+Pressured Selling,447,optional priority support is included remove to proceed without it,Optional priority support is included remove to proceed without it,1,1,Misdirection
+Pressured Selling,448,your cart includes extended warranty free to remove later,Your cart includes extended warranty free to remove later,1,1,Misdirection
+Pressured Selling,449,your cart includes cloud backup free to remove later,Your cart includes cloud backup free to remove later,1,1,Misdirection
+Pressured Selling,450,to retain discounts proceed with the recommended bundle,To retain discounts proceed with the recommended bundle,1,1,Misdirection
+Pressured Selling,451,trial upgrade unlocked selection is already chosen for you,trial upgrade unlocked selection is already chosen for you,1,1,Misdirection
+Pressured Selling,452,two free pillows and <num> off with promo code,TWO FREE PILLOWS AND 30% OFF WITH PROMO CODE,1,1,Misdirection
+Pressured Selling,453,unchecking extras may reduce your benefits,Unchecking extras may reduce your benefits,1,1,Misdirection
+Pressured Selling,454,vip access unlocked selection is already chosen for you,VIP access unlocked selection is already chosen for you,1,1,Misdirection
+Pressured Selling,455,want a special deal bundle and save upto <num>,Want a special deal? Bundle and SAVE UPTO30%,1,1,Misdirection
+Pressured Selling,456,want to add one of these,Want to add one of these?,1,1,Misdirection
+Pressured Selling,457,your cart includes data export free to remove later,Your cart includes data export free to remove later,1,1,Misdirection
+Pressured Selling,458,we have applied the optimal settings automatically,We have applied the optimal settings automatically,1,1,Misdirection
+Pressured Selling,459,we have set recommended extras you can remove later,We have set recommended extras you can remove later,1,1,Misdirection
+Pressured Selling,460,with <num> -year care subscription <num> days history,With 1-year Care Subscription 10 days history,1,1,Misdirection
+Pressured Selling,461,yes upgrade my purchase,Yes! Upgrade my purchase,1,1,Misdirection
+Pressured Selling,462,you choose just one box or a madison reed membership,"You choose: just one box, or a  Madison Reed Membership?",1,1,Misdirection
+Pressured Selling,463,your ai credits includes extra storage unless removed,Your AI credits includes extra storage unless removed,1,1,Misdirection
+Pressured Selling,464,your camera lens includes priority support unless removed,Your camera lens includes priority support unless removed,1,1,Misdirection
+Pressured Selling,465,your cart includes ad free experience free to remove later,Your cart includes ad free experience free to remove later,1,1,Misdirection
+Pressured Selling,466,we have selected the safest defaults adjust later,We have selected the safest defaults adjust later,1,1,Misdirection
+Pressured Selling,467,your standing desk includes ad free experience unless removed,Your standing desk includes ad free experience unless removed,1,1,Misdirection
+Pressured Selling,468,optional extra storage is included remove to proceed without it,Optional extra storage is included remove to proceed without it,1,1,Misdirection
+Pressured Selling,469,optional add on is selected to maximize your savings,Optional add on is selected to maximize your savings,1,1,Misdirection
+Pressured Selling,470,best seller highlighted already added to your bundle,Best seller highlighted already added to your bundle,1,1,Misdirection
+Pressured Selling,471,best value pre selected for you change anytime,Best value pre selected for you change anytime,1,1,Misdirection
+Pressured Selling,472,by proceeding you will keep the current promotional rate,By proceeding you will keep the current promotional rate,1,1,Misdirection
+Pressured Selling,473,cashback reward unlocked selection is already chosen for you,cashback reward unlocked selection is already chosen for you,1,1,Misdirection
+Pressured Selling,474,compare at,Compare at,1,1,Misdirection
+Pressured Selling,475,competitor price <num>,Competitor Price: $172.00,1,1,Misdirection
+Pressured Selling,476,congratulations you qualify to receive rechargeable <num> -function bullet vibe for free,Congratulations! You qualify to receive Rechargeable 10-Function Bullet Vibe for FREE!,1,1,Misdirection
+Pressured Selling,477,continue to claim your discount voucher auto applies at checkout,Continue to claim your discount voucher auto applies at checkout,1,1,Misdirection
+Pressured Selling,478,continue to claim your extra coupon auto applies at checkout,Continue to claim your extra coupon auto applies at checkout,1,1,Misdirection
+Pressured Selling,479,continue to claim your loyalty bonus auto applies at checkout,Continue to claim your loyalty bonus auto applies at checkout,1,1,Misdirection
+Pressured Selling,480,continue to claim your trial upgrade auto applies at checkout,Continue to claim your trial upgrade auto applies at checkout,1,1,Misdirection
+Pressured Selling,481,continue to confirm your business plan you can downgrade later,Continue to confirm your Business plan you can downgrade later,1,1,Misdirection
+Pressured Selling,482,continue to confirm your family plan you can downgrade later,Continue to confirm your Family plan you can downgrade later,1,1,Misdirection
+Pressured Selling,483,continue to confirm your monthly plan you can downgrade later,Continue to confirm your Monthly plan you can downgrade later,1,1,Misdirection
+Pressured Selling,484,continue to confirm your plus plan you can downgrade later,Continue to confirm your Plus plan you can downgrade later,1,1,Misdirection
+Pressured Selling,485,best experience priority support is enabled for you,Best experience priority support is enabled for you,1,1,Misdirection
+Pressured Selling,486,best experience extra storage is enabled for you,Best experience extra storage is enabled for you,1,1,Misdirection
+Pressured Selling,487,best experience extended warranty is enabled for you,Best experience extended warranty is enabled for you,1,1,Misdirection
+Pressured Selling,488,best experience cloud backup is enabled for you,Best experience cloud backup is enabled for you,1,1,Misdirection
+Pressured Selling,489,add ad free experience for the full experience pre selected,Add ad free experience for the full experience pre selected,1,1,Misdirection
+Pressured Selling,490,add and save,Add and save!,1,1,Misdirection
+Pressured Selling,491,add cloud backup for the full experience pre selected,Add cloud backup for the full experience pre selected,1,1,Misdirection
+Pressured Selling,492,add data export for the full experience pre selected,Add data export for the full experience pre selected,1,1,Misdirection
+Pressured Selling,493,add extended warranty for the full experience pre selected,Add extended warranty for the full experience pre selected,1,1,Misdirection
+Pressured Selling,494,add extra storage for the full experience pre selected,Add extra storage for the full experience pre selected,1,1,Misdirection
+Pressured Selling,495,add for better results,ADD FOR BETTER RESULTS,1,1,Misdirection
+Pressured Selling,496,continue to confirm your premium plan you can downgrade later,Continue to confirm your Premium plan you can downgrade later,1,1,Misdirection
+Pressured Selling,497,add gift wrap for the full experience pre selected,Add gift wrap for the full experience pre selected,1,1,Misdirection
+Pressured Selling,498,add on something to make it extra special,Add on something to make it extra special!,1,1,Misdirection
+Pressured Selling,499,add priority support for the full experience pre selected,Add priority support for the full experience pre selected,1,1,Misdirection
+Pressured Selling,500,add to your gift and we ll ship it for free,Add to Your Gift and We'll Ship it For Free!,1,1,Misdirection
+Pressured Selling,501,add world s most comfortable chairs,ADD WORLD'S MOST COMFORTABLE CHAIRS,1,1,Misdirection
+Pressured Selling,502,advanced settings are available after purchase,Advanced settings are available after purchase,1,1,Misdirection
+Pressured Selling,503,apply best settings automatically recommended,Apply best settings automatically recommended,1,1,Misdirection
+Pressured Selling,504,before you check out can we tempt you,"Before you check out, can we tempt you?",1,1,Misdirection
+Pressured Selling,505,add insurance is selected by default recommended,Add insurance is selected by default recommended,1,1,Misdirection
+Pressured Selling,506,continue to confirm your pro plan you can downgrade later,Continue to confirm your Pro plan you can downgrade later,1,1,Misdirection
+Pressured Selling,507,continue with annual to keep our most popular choice,Continue with Annual to keep our most popular choice,1,1,Misdirection
+Pressured Selling,508,continue with annual to keep top rated for reliability,Continue with Annual to keep top rated for reliability,1,1,Misdirection
+Pressured Selling,509,get <num> off your <num> nd case or a canopy screen protector a <num> off discount will be automatically applied to the lowest priced item in your cart when you check out with more than one item excludes clearance items click to choose another item,*** Get 50% Off Your 2nd Case OR a Canopy Screen Protector *** A 50% OFF discount will be automatically applied to the lowest priced item in your cart when you check out with more than one item! (excludes Clearance items) Click to Choose Another Item,1,1,Misdirection
+Pressured Selling,510,glassguard warranty do not fear breaking your glass add our glassguard warranty policy for just <num> and we ll insure this purchase,GlassGuard Warranty Do not fear breaking your glass! Add our GlassGuard warranty policy for just $3.85 and we'll insure this purchase.,1,1,Misdirection
+Pressured Selling,511,grab yourself a bargain,Grab yourself a bargain!,1,1,Misdirection
+Pressured Selling,512,how about one of these hot sellers,How about one of these hot sellers?,1,1,Misdirection
+Pressured Selling,513,it is faster with saved card preselected at checkout,It is faster with saved card preselected at checkout,1,1,Misdirection
+Pressured Selling,514,keep bonus points active by clicking buy now,Keep bonus points active by clicking Buy now,1,1,Misdirection
+Pressured Selling,515,keep cashback reward active by clicking claim offer,Keep cashback reward active by clicking Claim offer,1,1,Misdirection
+Pressured Selling,516,for the ultimate experience can select more than one,FOR THE ULTIMATE EXPERIENCE: (Can select more than one),1,1,Misdirection
+Pressured Selling,517,keep exclusive access active by clicking checkout,Keep exclusive access active by clicking Checkout,1,1,Misdirection
+Pressured Selling,518,keep vip access active by clicking apply coupon,Keep VIP access active by clicking Apply coupon,1,1,Misdirection
+Pressured Selling,519,keep vip access active by clicking subscribe,Keep VIP access active by clicking Subscribe,1,1,Misdirection
+Pressured Selling,520,let s make sure you have everything else you need,Let's make sure you have everything else you need,1,1,Misdirection
+Pressured Selling,521,limited time offer grab a matching pair save up <num>,LIMITED TIME OFFER : Grab a Matching Pair & save up 60%!,1,1,Misdirection
+Pressured Selling,522,limited-time offer bundle a base and get <num> off,Limited-time Offer: Bundle a base and get 20% off,1,1,Misdirection
+Pressured Selling,523,nice choice did you know you re missing out on these deals with the item in your cart suit shirt tie now <num> - shop suits shirts and ties or get <num> suit packages for <num>,"Nice choice. Did you know you’re missing out on these deals with the item in your cart. Suit + Shirt + Tie now $599.99* - Shop Suits, Shirts and Ties Or Get 2 Suit Packages for $1100*",1,1,Misdirection
+Pressured Selling,524,no usb or y-adapter our usb sound card is highly recommended for pc mac linux windows and works with current gen consoles the y adapter is recommended for console gaming phone or other trrs jacks,"No USB or Y-Adapter!? Our USB Sound Card is highly recommended for PC (Mac/Linux/Windows) and works with current gen consoles. The Y adapter is recommended for console gaming, phone, or other TRRS jacks.",1,1,Misdirection
+Pressured Selling,525,keep extra coupon active by clicking subscribe,Keep extra coupon active by clicking Subscribe,1,1,Misdirection
+Pressured Selling,526,optional extended warranty is included remove to proceed without it,Optional extended warranty is included remove to proceed without it,1,1,Misdirection
+Pressured Selling,527,fanstastic deals,FANSTASTIC DEALS,1,1,Misdirection
+Pressured Selling,528,don t forget the essentials get up to <num> years of accidental damage coverage with applecare,Don't forget the essentials Get up to 2 years of accidental damage coverage with AppleCare+.,1,1,Misdirection
+Pressured Selling,529,continue with basic to keep top rated for reliability,Continue with Basic to keep top rated for reliability,1,1,Misdirection
+Pressured Selling,530,continue with enterprise to keep best value for money,Continue with Enterprise to keep best value for money,1,1,Misdirection
+Pressured Selling,531,continue with enterprise to keep recommended by experts,Continue with Enterprise to keep recommended by experts,1,1,Misdirection
+Pressured Selling,532,continue with family to keep our most popular choice,Continue with Family to keep our most popular choice,1,1,Misdirection
+Pressured Selling,533,continue with monthly to keep recommended by experts,Continue with Monthly to keep recommended by experts,1,1,Misdirection
+Pressured Selling,534,continue with plus to keep best value for money,Continue with Plus to keep best value for money,1,1,Misdirection
+Pressured Selling,535,continue with plus to keep our most popular choice,Continue with Plus to keep our most popular choice,1,1,Misdirection
+Pressured Selling,536,exclusive access unlocked selection is already chosen for you,exclusive access unlocked selection is already chosen for you,1,1,Misdirection
+Pressured Selling,537,continue with premium to keep easiest to set up,Continue with Premium to keep easiest to set up,1,1,Misdirection
+Pressured Selling,538,continue with pro to keep recommended by experts,Continue with Pro to keep recommended by experts,1,1,Misdirection
+Pressured Selling,539,customer also shopped for,Customer also shopped for,1,1,Misdirection
+Pressured Selling,540,customers also bought,Customers also bought,1,1,Misdirection
+Pressured Selling,541,default plan set to annual for a better experience,Default plan set to Annual for a better experience,1,1,Misdirection
+Pressured Selling,542,default plan set to business for a better experience,Default plan set to Business for a better experience,1,1,Misdirection
+Pressured Selling,543,default plan set to plus for a better experience,Default plan set to Plus for a better experience,1,1,Misdirection
+Pressured Selling,544,did you know that shaver heads need replacing every <num> - <num> months get the shaver guard cleaning spray to extend its life for up to another <num> months,Did you know that Shaver heads need replacing every 12 - 18 months? Get the Shaver Guard cleaning spray to extend its life for up to another 6 months!,1,1,Misdirection
+Pressured Selling,545,continue with pro to keep easiest to set up,Continue with Pro to keep easiest to set up,1,1,Misdirection
+Pressured Selling,546,your wireless earbuds includes priority support unless removed,Your wireless earbuds includes priority support unless removed,1,1,Misdirection
+Trick Questions,547,free trial starts now billing begins automatically after <num> hours,Free trial starts now billing begins automatically after 24 hours,2,1,Misdirection
+Trick Questions,548,free trial starts now billing begins automatically after <num> minutes,Free trial starts now billing begins automatically after 45 minutes,2,1,Misdirection
+Trick Questions,549,agree and continue keeps your current benefits,Agree and continue keeps your current benefits,1,1,Misdirection
+Trick Questions,550,to access the discount agree to terms on the next page,To access the discount agree to terms on the next page,1,1,Misdirection
+Trick Questions,551,tick here if you do not want to receive promotional offers by post tick here if you do wish to receive promotional offers by email and or sms tick here if you would like to receive offers from selected third parties,Tick here if you do not want to receive Promotional Offers by Post Tick here if you do wish to receive Promotional Offers by email and/or SMS Tick here if you would like to receive Offers from selected third parties,1,1,Misdirection
+Trick Questions,552,spin to unlock your mystery offer,Spin to unlock your mystery offer,1,1,Misdirection
+Trick Questions,553,skip step appears after you click next,Skip step appears after you click Next,1,1,Misdirection
+Trick Questions,554,skip step appears after you click continue,Skip step appears after you click Continue,1,1,Misdirection
+Trick Questions,555,skip step appears after you click apply coupon,Skip step appears after you click Apply coupon,1,1,Misdirection
+Trick Questions,556,select view offers to keep current premium,Select View offers to keep current Premium,1,1,Misdirection
+Trick Questions,557,select view offers to keep current enterprise,Select View offers to keep current Enterprise,1,1,Misdirection
+Trick Questions,558,uncheck the box if you prefer not to receive email updates,Uncheck the box if you prefer not to receive email updates.,1,1,Misdirection
+Trick Questions,559,select view offers to keep current business,Select View offers to keep current Business,1,1,Misdirection
+Trick Questions,560,select view offers to keep current annual,Select View offers to keep current Annual,1,1,Misdirection
+Trick Questions,561,savings applied at push notification get deal to finalize,Savings applied at push notification Get deal to finalize,1,1,Misdirection
+Trick Questions,562,savings applied at push notification apply coupon to finalize,Savings applied at push notification Apply coupon to finalize,1,1,Misdirection
+Trick Questions,563,savings applied at product page apply coupon to finalize,Savings applied at product page Apply coupon to finalize,1,1,Misdirection
+Trick Questions,564,savings applied at pop up subscribe to finalize,Savings applied at pop up Subscribe to finalize,1,1,Misdirection
+Trick Questions,565,savings applied at pop up sign up to finalize,Savings applied at pop up Sign up to finalize,1,1,Misdirection
+Trick Questions,566,savings applied at mobile app apply coupon to finalize,Savings applied at mobile app Apply coupon to finalize,1,1,Misdirection
+Trick Questions,567,savings applied at checkout checkout to finalize,Savings applied at checkout Checkout to finalize,1,1,Misdirection
+Trick Questions,568,savings applied at banner sign up to finalize,Savings applied at banner Sign up to finalize,1,1,Misdirection
+Trick Questions,569,promo applied taxes and transaction fee may be shown at checkout,Promo applied Taxes and transaction fee may be shown at checkout,1,1,Misdirection
+Trick Questions,570,select view offers to keep current basic,Select View offers to keep current Basic,1,1,Misdirection
+Trick Questions,571,want free shipping,Want Free Shipping?,1,1,Misdirection
+Trick Questions,572,we d like to keep you informed via email about product updates upgrades special offers and pricing if you do not wish to be contacted via email please ensure that the box is not checked,"We'd like to keep you informed via email about product updates, upgrades, special offers and pricing. If you do not wish to be contacted via email, please ensure that the box is not checked.",1,1,Misdirection
+Trick Questions,573,we d like to send you weekly emails packed full of our lovely products clearance goodies and cool stuff to win you can unsubscribe at any time if you don t want to receive these emails please tick this box we d like to send you the occasional brochure so you can get a regular fix of our lovely product you can unsubscribe at any time if you don t want to receive these brochures please tick this box we d like to introduce you to other brands you might love who will post you the occasional brochure you can opt out of this at any time if you don t want to receive these brochures please tick this box,"We'd like to send you weekly emails packed full of our lovely products, clearance goodies and cool stuff to win. You can unsubscribe at any time. If you DON'T want to receive these emails, please tick this box. We'd like to send you the occasional brochure so you can get a regular fix of our lovely product! You can unsubscribe at any time. If you DON'T want to receive these brochures, please tick this box. We'd like to introduce you to other brands you might love who will post you the occasional brochure. You can opt out of this at any time. If you DON'T want to receive these brochures, please tick this box.",1,1,Misdirection
+Trick Questions,574,your trial auto renews press next to keep access,Your trial auto renews press Next to keep access,1,1,Misdirection
+Trick Questions,575,your trial auto renews press join now to keep access,Your trial auto renews press Join now to keep access,1,1,Misdirection
+Trick Questions,576,your trial auto renews press continue to keep access,Your trial auto renews press Continue to keep access,1,1,Misdirection
+Trick Questions,577,your trial auto renews press claim offer to keep access,Your trial auto renews press Claim offer to keep access,1,1,Misdirection
+Trick Questions,578,your trial auto renews press checkout to keep access,Your trial auto renews press Checkout to keep access,1,1,Misdirection
+Trick Questions,579,your trial auto renews press buy now to keep access,Your trial auto renews press Buy now to keep access,1,1,Misdirection
+Trick Questions,580,your loyalty bonus is ready press continue to proceed,Your loyalty bonus is ready press Continue to proceed,1,1,Misdirection
+Trick Questions,581,your free gift is ready press continue to proceed,Your free gift is ready press Continue to proceed,1,1,Misdirection
+Trick Questions,582,your discount voucher is ready press continue to proceed,Your discount voucher is ready press Continue to proceed,1,1,Misdirection
+Trick Questions,583,your cashback reward is ready press continue to proceed,Your cashback reward is ready press Continue to proceed,1,1,Misdirection
+Trick Questions,584,you are almost done click next to get started,You are almost done Click Next to get started,1,1,Misdirection
+Trick Questions,585,would you like to purchase an extended protection plan,Would you like to purchase an Extended Protection Plan?,1,1,Misdirection
+Trick Questions,586,would you like to buy more and save more,Would you like to buy more and save more?,1,1,Misdirection
+Trick Questions,587,we will keep your preferences cookies required if you hit subscribe,We will keep your preferences cookies required if you hit Subscribe,1,1,Misdirection
+Trick Questions,588,we will keep your preferences cookies required if you hit reserve,We will keep your preferences cookies required if you hit Reserve,1,1,Misdirection
+Trick Questions,589,we will keep your preferences cookies required if you hit next,We will keep your preferences cookies required if you hit Next,1,1,Misdirection
+Trick Questions,590,we will keep your preferences cookies required if you hit join now,We will keep your preferences cookies required if you hit Join now,1,1,Misdirection
+Trick Questions,591,we will keep your preferences cookies required if you hit get deal,We will keep your preferences cookies required if you hit Get deal,1,1,Misdirection
+Trick Questions,592,we will keep your preferences cookies required if you hit claim offer,We will keep your preferences cookies required if you hit Claim offer,1,1,Misdirection
+Trick Questions,593,we will keep your preferences cookies required if you hit checkout,We will keep your preferences cookies required if you hit Checkout,1,1,Misdirection
+Trick Questions,594,we will keep your preferences cookies required if you hit buy now,We will keep your preferences cookies required if you hit Buy now,1,1,Misdirection
+Trick Questions,595,we will keep your preferences cookies required if you hit apply coupon,We will keep your preferences cookies required if you hit Apply coupon,1,1,Misdirection
+Trick Questions,596,we d love to send you emails with offers and new products from new balance athletics inc but if you do not wish to receive these updates please tick this box,"""We'd love to send you emails with offers and new products from New Balance Athletics, Inc. but if you do not wish to receive these updates, please tick this box.",1,1,Misdirection
+Trick Questions,597,promo applied taxes and service fee may be shown at checkout,Promo applied Taxes and service fee may be shown at checkout,1,1,Misdirection
+Trick Questions,598,promo applied taxes and handling fee may be shown at checkout,Promo applied Taxes and handling fee may be shown at checkout,1,1,Misdirection
+Trick Questions,599,optional gift wrap is included remove to proceed without it,Optional gift wrap is included remove to proceed without it,1,1,Misdirection
+Trick Questions,600,your trial auto renews press reserve to keep access,Your trial auto renews press Reserve to keep access,1,1,Misdirection
+Trick Questions,601,continue to keep your cashback reward going back may remove it,Continue to keep your cashback reward going back may remove it,1,1,Misdirection
+Trick Questions,602,continue to confirm your basic plan you can downgrade later,Continue to confirm your Basic plan you can downgrade later,1,1,Misdirection
+Trick Questions,603,continue to claim your cashback reward auto applies at checkout,Continue to claim your cashback reward auto applies at checkout,1,1,Misdirection
+Trick Questions,604,continue to claim your bonus points auto applies at checkout,Continue to claim your bonus points auto applies at checkout,1,1,Misdirection
+Trick Questions,605,continue maintains your perks back may reset choices,Continue maintains your perks Back may reset choices,1,1,Misdirection
+Trick Questions,606,cancellation path continues after several steps,Cancellation path continues after several steps,1,1,Misdirection
+Trick Questions,607,cancel option is under account billing manage cancel,Cancel option is under Account Billing Manage Cancel,1,1,Misdirection
+Trick Questions,608,by clicking sign up you accept promotional communications,By clicking Sign up you accept promotional communications,1,1,Misdirection
+Trick Questions,609,by clicking reserve you accept promotional communications,By clicking Reserve you accept promotional communications,1,1,Misdirection
+Trick Questions,610,by clicking join now you accept promotional communications,By clicking Join now you accept promotional communications,1,1,Misdirection
+Trick Questions,611,continue to keep your extra coupon going back may remove it,Continue to keep your extra coupon going back may remove it,1,1,Misdirection
+Trick Questions,612,by clicking get deal you accept promotional communications,By clicking Get deal you accept promotional communications,1,1,Misdirection
+Trick Questions,613,by clicking checkout you accept promotional communications,By clicking Checkout you accept promotional communications,1,1,Misdirection
+Trick Questions,614,by clicking apply coupon you accept promotional communications,By clicking Apply coupon you accept promotional communications,1,1,Misdirection
+Trick Questions,615,best experience data export is enabled for you,Best experience data export is enabled for you,1,1,Misdirection
+Trick Questions,616,auto renew is enabled to avoid interruption toggle anytime in settings,Auto renew is enabled to avoid interruption toggle anytime in settings,1,1,Misdirection
+Trick Questions,617,almost there confirm details to receive welcome credit,Almost there confirm details to receive welcome credit,1,1,Misdirection
+Trick Questions,618,almost there confirm details to receive vip access,Almost there confirm details to receive VIP access,1,1,Misdirection
+Trick Questions,619,almost there confirm details to receive loyalty bonus,Almost there confirm details to receive loyalty bonus,1,1,Misdirection
+Trick Questions,620,almost there confirm details to receive free gift,Almost there confirm details to receive free gift,1,1,Misdirection
+Trick Questions,621,almost there confirm details to receive exclusive access,Almost there confirm details to receive exclusive access,1,1,Misdirection
+Trick Questions,622,almost there confirm details to receive discount voucher,Almost there confirm details to receive discount voucher,1,1,Misdirection
+Trick Questions,623,by clicking continue you accept promotional communications,By clicking Continue you accept promotional communications,1,1,Misdirection
+Trick Questions,624,promo applied taxes and booking fee may be shown at checkout,Promo applied Taxes and booking fee may be shown at checkout,1,1,Misdirection
+Trick Questions,625,continue to keep your free gift going back may remove it,Continue to keep your free gift going back may remove it,1,1,Misdirection
+Trick Questions,626,continue to keep your trial upgrade going back may remove it,Continue to keep your trial upgrade going back may remove it,1,1,Misdirection
+Trick Questions,627,optional data export is included remove to proceed without it,Optional data export is included remove to proceed without it,1,1,Misdirection
+Trick Questions,628,no i don t feel lucky,No I don't feel lucky,1,1,Misdirection
+Trick Questions,629,no i do not want savings secondary option will remove benefits,No I do not want savings secondary option will remove benefits,1,1,Misdirection
+Trick Questions,630,necessary protection,Necessary Protection..,1,1,Misdirection
+Trick Questions,631,login register,LOGIN/REGISTER,1,1,Misdirection
+Trick Questions,632,lenscap damage only,Lenscap: Damage Only,1,1,Misdirection
+Trick Questions,633,important info in more details collapsed,Important info in More details collapsed,1,1,Misdirection
+Trick Questions,634,if you click continue below we will be happy to tell you about discounts money off and new products from very by e-mail and text unless you tell us you do not want to hear about them by ticking here if you would like to receive offers from carefully selected <num> rd parties please tick here,"If you click continue below we will be happy to tell you about discounts, money off and new products from Very by e-mail and text,
+unless you tell us you DO NOT want to hear about them, by ticking here.
+If you would like to receive offers from carefully selected 3rd parties, please tick here",1,1,Misdirection
+Trick Questions,635,i wish to start shopping but i don t want to receive daily email alerts about your amazing discounts on luxury brands,I wish to Start Shopping but I don't want to receive daily email alerts about your amazing discounts on luxury brands.,1,1,Misdirection
+Trick Questions,636,i do not want to protect my item,I do not want to protect my item,1,1,Misdirection
+Trick Questions,637,continue to keep your loyalty bonus going back may remove it,Continue to keep your loyalty bonus going back may remove it,1,1,Misdirection
+Trick Questions,638,i already have this item do not add this to cart,I already have this item. Do not add this to cart,1,1,Misdirection
+Trick Questions,639,free trial starts now billing begins automatically after this weekend,Free trial starts now billing begins automatically after this weekend,1,1,Misdirection
+Trick Questions,640,express option chosen you can switch in settings later,Express option chosen you can switch in settings later,1,1,Misdirection
+Trick Questions,641,decline protection small text or subscribe to continue,Decline protection small text or Subscribe to continue,1,1,Misdirection
+Trick Questions,642,decline protection small text or sign up to continue,Decline protection small text or Sign up to continue,1,1,Misdirection
+Trick Questions,643,decline protection small text or reserve to continue,Decline protection small text or Reserve to continue,1,1,Misdirection
+Trick Questions,644,decline protection small text or next to continue,Decline protection small text or Next to continue,1,1,Misdirection
+Trick Questions,645,decline protection small text or continue to continue,Decline protection small text or Continue to continue,1,1,Misdirection
+Trick Questions,646,decline protection small text or claim offer to continue,Decline protection small text or Claim offer to continue,1,1,Misdirection
+Trick Questions,647,continue to keep your welcome credit going back may remove it,Continue to keep your welcome credit going back may remove it,1,1,Misdirection
+Trick Questions,648,continue to keep your vip access going back may remove it,Continue to keep your VIP access going back may remove it,1,1,Misdirection
+Trick Questions,649,how about these,How about these?,1,1,Misdirection
+Trick Questions,650,your trial auto renews press sign up to keep access,Your trial auto renews press Sign up to keep access,1,1,Misdirection
