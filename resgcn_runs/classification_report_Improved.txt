@@ -1,0 +1,16 @@
+                                  precision    recall  f1-score   support
+
+          Activity Notifications       0.99      0.96      0.97        72
+                  Confirmshaming       0.92      0.89      0.91        27
+                Countdown Timers       0.91      0.94      0.92        32
+            High-demand Messages       0.86      0.75      0.80         8
+           Limited-time Messages       0.94      0.92      0.93        48
+              Low-stock Messages       0.99      0.99      0.99        72
+                Not Dark Pattern       0.96      0.98      0.97       321
+               Pressured Selling       0.74      0.72      0.73        32
+Testimonials of Uncertain Origin       0.80      1.00      0.89         8
+                 Trick Questions       0.72      0.62      0.67        21
+
+                        accuracy                           0.94       641
+                       macro avg       0.88      0.88      0.88       641
+                    weighted avg       0.94      0.94      0.94       641
