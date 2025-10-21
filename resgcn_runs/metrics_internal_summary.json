@@ -1,0 +1,16 @@
+[
+  {
+    "Model": "Improved",
+    "acc": 0.9391575663026521,
+    "prec": 0.8821708653313276,
+    "rec": 0.8753490765465065,
+    "f1": 0.8767845275119124,
+    "roc_auc": 0.9906887541219269,
+    "pr_auc": 0.9221318665040459,
+    "ModelSizeMB": 0.83,
+    "kNN_k": 10,
+    "embedder": "sentence-transformers/all-mpnet-base-v2",
+    "mutual_kNN": true,
+    "label_smoothing": 0.05
+  }
+]

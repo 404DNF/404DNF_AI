@@ -1,0 +1,101 @@
+test_idx,train_match_idx,cos_sim,test_text,train_text,test_label,train_label
+570,3156,1.0000007,Limited Stock!,Limited stock!,Low-stock Messages,Low-stock Messages
+2325,977,1.0000006,Only 1 left in stock,ONLY 1 LEFT IN STOCK,Low-stock Messages,Low-stock Messages
+2487,639,1.0000006,Only 1 left in stock!,Only 1 Left in Stock!,Low-stock Messages,Low-stock Messages
+1542,1026,1.0000006,Only 3 left,ONLY 3 LEFT,Low-stock Messages,Low-stock Messages
+2976,977,1.0000006,Only 1 left in Stock,ONLY 1 LEFT IN STOCK,Low-stock Messages,Low-stock Messages
+1151,2646,1.0000006,Recent Searches,Recent searches,Not Dark Pattern,Not Dark Pattern
+2211,84,1.0000005,"Tambria in Hattiesburg just bought Peruvian Virgin Natural Wave Hair 3 Bundles with Lace Frontal, 100% Human Virgin Hair","Tambria in Hattiesburg just bought Peruvian Virgin Natural Wave Hair 3 Bundles with Lace Frontal, 100% Human Virgin Hair",Activity Notifications,Activity Notifications
+1264,1450,1.0000005,Only 2 left in stock!,ONLY 2 LEFT IN STOCK!,Low-stock Messages,Low-stock Messages
+1,3140,1.0000002,Flash Sale ends in SHOP NOW,Flash Sale ends in SHOP NOW,Limited-time Messages,Limited-time Messages
+989,2909,1.0000002,1 in Stock,1 in stock,Low-stock Messages,Low-stock Messages
+2182,2508,1.0000001,Hurry! Only 2 left!,HURRY! ONLY 2 LEFT!,Low-stock Messages,Low-stock Messages
+2270,195,1.0000001,40% OFF EVERYTHING* ENTER: 40PLT + FREE SHIPPING ON ALL ORDERS OVER $80,40% OFF EVERYTHING* ENTER: 40PLT + FREE SHIPPING ON ALL ORDERS OVER $80,Limited-time Messages,Limited-time Messages
+1059,2793,1.0000001,only 5 left in stock!,ONLY 5 LEFT IN STOCK!,Low-stock Messages,Low-stock Messages
+945,1178,1.0000001,Your order is reserved for 09:14 minutes!,Your order is reserved for 09:14 minutes!,Countdown Timers,Countdown Timers
+2123,1909,1.0,"no thanks, I like paying full price","No thanks, I like paying full price",Confirmshaming,Confirmshaming
+2830,317,1.0,Only a few left,Only A Few Left,Low-stock Messages,Low-stock Messages
+2314,1984,1.0,Diamond Nose Studs,Diamond Nose Studs,Not Dark Pattern,Not Dark Pattern
+575,2867,1.0,LIMITED TIME OFFER!,Limited Time Offer!,Limited-time Messages,Limited-time Messages
+423,2273,1.0,Only 3 Left In Stock,Only 3 left in stock,Low-stock Messages,Low-stock Messages
+2093,626,0.99999994,"NO THANKS, I'll PAY FULL PRICE","No Thanks, I'll Pay Full Price",Confirmshaming,Confirmshaming
+794,552,0.9999999,3 Left,3 left,Low-stock Messages,Low-stock Messages
+348,1812,0.9999999,ONLY 3 LEFT IN STOCK.,Only 3 left in stock.,Low-stock Messages,Low-stock Messages
+1099,1257,0.9999998,Shirts & Blouses,Shirts & Blouses,Not Dark Pattern,Not Dark Pattern
+1451,1757,0.9999998,Hurry! Only 1 left in stock,Hurry! Only 1 Left In Stock,Low-stock Messages,Low-stock Messages
+866,1643,0.99999964,All Brands A-Z,All Brands A-Z,Not Dark Pattern,Not Dark Pattern
+3142,2032,0.9999996,"GRACE from ORLANDO, United States bought Camouflage Jumpsuit 31 minutes ago","GRACE from ORLANDO, United States bought Camouflage Jumpsuit 31 minutes ago",Activity Notifications,Activity Notifications
+395,2482,0.99999946,Only 5 left,Only 5 Left,Low-stock Messages,Low-stock Messages
+2998,589,0.9999994,ONLY 4 LEFT IN STOCK,Only 4 left in stock,Low-stock Messages,Low-stock Messages
+1871,975,0.9999994,OFFER ENDS: 09h: 09m: 55s: 0,OFFER ENDS: 09h: 09m: 55s: 0,Countdown Timers,Countdown Timers
+2499,1494,0.9989535,there are no promotional banners and you may check out without prompts,there is no promotional banners and you may check out without prompts,Not Dark Pattern,Not Dark Pattern
+2778,1161,0.99614143,Your order is reserved for 09:57 minutes!,Your order is reserved for 09:58 minutes!,Countdown Timers,Countdown Timers
+30,1905,0.99512094,"Hurry, only 6 left in stock!",Hurry! Only 6 left in stock!,Low-stock Messages,Low-stock Messages
+2100,1161,0.99246705,Your order is reserved for 09:43 minutes!,Your order is reserved for 09:58 minutes!,Countdown Timers,Countdown Timers
+2916,1905,0.991651,Hurry! Only 6 left in stock,Hurry! Only 6 left in stock!,Low-stock Messages,Low-stock Messages
+1262,2333,0.9913083,Items in your cart are in high demand.,Items in your cart are in VERY high-demand.,High-demand Messages,High-demand Messages
+2191,339,0.9908307,Your cart is reserved for 14:05 minutes!,Your cart is reserved for 14:57 minutes!,Countdown Timers,Countdown Timers
+1442,1697,0.9906083,"No, I don't feel lucky.","No, I don't feel lucky",Confirmshaming,Confirmshaming
+1105,786,0.9903802,"No thanks, I'd rather pay full price.",No thanks. I'd rather pay full price.,Confirmshaming,Confirmshaming
+3194,1824,0.99036837,Free trial starts now billing begins automatically after 30 minutes,Free trial starts now billing begins automatically after 45 minutes,Trick Questions,Trick Questions
+281,1024,0.9878435,Ending soon cart will reset after 10 minutes,Ending soon cart will reset after 20 minutes,Countdown Timers,Countdown Timers
+1137,2195,0.9849878,No thanks - I don't want to save money,"NO THANKS, I DON'T WANT TO SAVE MONEY",Confirmshaming,Confirmshaming
+2622,243,0.9822993,Move fast 10 minutes left to secure promotional pricing,Move fast 15 minutes left to secure promotional pricing,Countdown Timers,Countdown Timers
+2028,3116,0.9762789,87% offers claimed. Hurry up!,89% offers claimed. Hurry up!,High-demand Messages,High-demand Messages
+1412,133,0.974288,Trending now 51 customers are viewing this item,Trending now 50 customers are viewing this item,Activity Notifications,Activity Notifications
+1337,1139,0.97286403,"No thanks, I don't like free stuff","No thanks, I don't like FREE stuff.",Confirmshaming,Confirmshaming
+1592,2273,0.9722163,"Only 3 left , In Stock",Only 3 left in stock,Low-stock Messages,Low-stock Messages
+1286,1832,0.96997297,No hidden steps and no hidden fees on the information page,No hidden steps and no hidden fees on the details page,Not Dark Pattern,Not Dark Pattern
+2259,1161,0.96896124,Your order is reserved for 08:48 minutes!,Your order is reserved for 09:58 minutes!,Countdown Timers,Countdown Timers
+1602,652,0.96834576,the page provides clear choices only and no popularity counters,the page presents clear choices only and no popularity counters,Not Dark Pattern,Not Dark Pattern
+2703,950,0.96820486,Only 9 left!,Only 8 Left!,Low-stock Messages,Low-stock Messages
+2040,2600,0.9665122,Offer valid today will auto expire end of month,Offer valid this evening will auto expire end of month,Limited-time Messages,Limited-time Messages
+337,1092,0.9653167,Hot right now purchased over the weekend,Hot right now purchased today,Activity Notifications,Activity Notifications
+65,1647,0.9636253,Hurry! Only 3 Left In Stock.,HURRY! 3 left in stock!,Low-stock Messages,Low-stock Messages
+2601,977,0.96263057,Only 1 left in stock.,ONLY 1 LEFT IN STOCK,Low-stock Messages,Low-stock Messages
+206,950,0.9625598,Only 7 left!,Only 8 Left!,Low-stock Messages,Low-stock Messages
+1957,1702,0.9601791,"No thank you, I prefer to pay full price","No Thanks, I Prefer Paying Full Price",Confirmshaming,Confirmshaming
+2611,147,0.95828635,Intro price ends next week renewals at regular rate,Intro price ends today renewals at regular rate,Limited-time Messages,Limited-time Messages
+2329,2792,0.9565777,Sale ends this week only This is your last chance,Sale ends today This is your last chance,Limited-time Messages,Limited-time Messages
+150,2051,0.956481,"No thanks, I want to pay full price","No Thanks, I rather pay full price",Confirmshaming,Confirmshaming
+602,934,0.95597214,Only 1 item left in stock,Only 1 item(s) left in stock,Low-stock Messages,Low-stock Messages
+2667,2757,0.95595056,Hurry! Only 4 left in stock.,Hurry up! Only 4 left in stock,Low-stock Messages,Low-stock Messages
+3038,646,0.9556503,Reserve your note taking app now deal vanishes next week,Reserve your note taking app now deal vanishes this evening,Limited-time Messages,Limited-time Messages
+2415,3081,0.9554324,4 items left,3 items left,Low-stock Messages,Low-stock Messages
+1124,851,0.95531464,Promo applied Taxes and transaction fee may be shown at checkout,Promo applied Taxes and handling fee may be shown at checkout,Trick Questions,Trick Questions
+1479,2170,0.95512724,POPULAR 64 others checked this out in the last few hours.,POPULAR 62 others checked this out in the last few hours.,Activity Notifications,Activity Notifications
+1514,1990,0.9542979,Only 52 codes left for 35 percent off,Only 44 codes left for 65 percent off,Limited-time Messages,Limited-time Messages
+2720,143,0.9541948,"Now 20% off, hurry limited time offer!","Now 30% off - hurry, limited time offer!",Limited-time Messages,Limited-time Messages
+3085,539,0.95386404,Only 1 left.,Only 2 left.,Low-stock Messages,Low-stock Messages
+566,2214,0.9538152,Selling out quickly 53 items left as of over the weekend,Selling out quickly 48 items left as of over the weekend,Limited-time Messages,Limited-time Messages
+388,2266,0.95176053,Final hours save 35 percent if you order within 12 hours,Final hours save 25 percent if you order within 6 hours,Countdown Timers,Countdown Timers
+897,3058,0.9510705,Skip step appears after you click Next,Skip step appears after you click Continue,Trick Questions,Trick Questions
+738,2992,0.95083445,HURRY! ENDS IN: 10 HRS 40 MIN 00 SEC,HURRY! ENDS IN: 11 HRS 20 MIN 13 SEC,Countdown Timers,Countdown Timers
+1993,2474,0.95068693,Preorder window closes by midnight secure your spot,Preorder window closes this evening secure your spot,Limited-time Messages,Limited-time Messages
+761,2044,0.9504515,Limited window 12 hours left to qualify for free shipping,Limited window 30 minutes left to qualify for free shipping,Countdown Timers,Countdown Timers
+1890,1808,0.95040685,Save 40 percent if you complete checkout by next week,Save 20 percent if you complete checkout by next week,Limited-time Messages,Limited-time Messages
+1597,714,0.9497843,ONLY 1 REMAINING,Only 1 left,Low-stock Messages,Low-stock Messages
+2948,1053,0.9496242,2 left in stock,1 left in stock,Low-stock Messages,Low-stock Messages
+509,1752,0.94793206,"No thanks, I will pay full price.","No thanks, I'll pay full price!",Confirmshaming,Confirmshaming
+369,2370,0.94679433,Selected by 73 users in the last 30 minutes,Selected by 69 users in the last 6 hours,Activity Notifications,Activity Notifications
+3048,2060,0.94446343,All choices are explicit and no pop ups are avoided on this page,All choices are explicit and no pop ups are avoided on this section,Not Dark Pattern,Not Dark Pattern
+2643,2044,0.9437913,Limited window 6 hours left to qualify for free shipping,Limited window 30 minutes left to qualify for free shipping,Countdown Timers,Countdown Timers
+2571,107,0.94343585,(Only 1 Left),(Only 1 left!),Low-stock Messages,Low-stock Messages
+437,3081,0.9413709,2 items left,3 items left,Low-stock Messages,Low-stock Messages
+813,392,0.9412483,All choices are explicit and no popularity counters are avoided on the information page,All choices are explicit and no popularity counters are avoided on the settings page,Not Dark Pattern,Not Dark Pattern
+2985,1557,0.9394893,CUSTOMER SERVICE,Customer Support,Not Dark Pattern,Not Dark Pattern
+225,669,0.9385525,Only 7 left in stock!,Only 7 left in stock.,Low-stock Messages,Low-stock Messages
+817,1155,0.93692744,the page displays no hidden fees and you may check out without prompts,the page displays no hidden fees and you may continue without prompts,Not Dark Pattern,Not Dark Pattern
+2938,935,0.93664175,Rated 4 stars by 74 plus customers,Rated 4 5 stars by 57 plus customers,Testimonials of Uncertain Origin,Testimonials of Uncertain Origin
+1886,2251,0.9365821,No hidden steps and no badges on the details page,No hidden steps and no badges on the information page,Not Dark Pattern,Not Dark Pattern
+1421,2273,0.93506914,In Stock only 3 left,Only 3 left in stock,Low-stock Messages,Low-stock Messages
+2193,304,0.9348196,Only 1 unit left in stock,Only 2 units left in stock,Low-stock Messages,Low-stock Messages
+3087,1045,0.93379766,Hurry just 22 items remaining Do not miss out,Hurry just 27 items remaining Do not miss out,Limited-time Messages,Limited-time Messages
+2593,2413,0.93187255,Hurry only 2 left,Hurry! Only 2 Left,Low-stock Messages,Low-stock Messages
+1208,2331,0.931749,"No thanks, I want to pay the full price.","No thanks, I prefer to pay full price.",Confirmshaming,Confirmshaming
+1278,1295,0.9309611,Only 10 left in stock,Less than 10 left in stock,Low-stock Messages,Low-stock Messages
+61,1983,0.9305068,No hidden steps and no inventory messages on the product page,No hidden steps and no inventory messages on the information page,Not Dark Pattern,Not Dark Pattern
+2064,2631,0.93049186,Offer valid today only checkout within 30 minutes,Offer valid today only checkout within 20 minutes,Countdown Timers,Countdown Timers
+2282,1766,0.93031925,"ONLY 5 LEFT, HURRY!","Hurry, only 5 left",Low-stock Messages,Low-stock Messages
+1347,465,0.9298499,0 DAYS22 HOURS13 MINUTES21 SECONDS,0 Days 2 Hours 57 Minutes 53 Seconds,Countdown Timers,Countdown Timers
+2871,2684,0.9295448,ONLY 13 LEFT,Only 13 left!,Low-stock Messages,Low-stock Messages
