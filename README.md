@@ -1,2 +1,53 @@
 # paper
-[논문 실험] NSAI기반 다크패턴 탐지
+# 📊 데이터셋 구성 및 전처리 (Dataset Construction)
+
+본 연구에서는 다크패턴 탐지 모델 학습을 위해 두 개의 공개 데이터셋을 결합하여 **최종 학습 데이터셋**을 제작하였다.  
+이를 통해 데이터의 **품질을 정제하고**, **유형 간 불균형을 해소**하였다.
+
+---
+
+## 🧩 데이터 출처
+
+| 출처 | 파일명 | 설명 |
+|:-----------------------------|:----------------|:--------------------------------|
+| Mathur et al., 2019 *(Princeton, “Dark Patterns at Scale”)* | `dark-patterns.csv` | 웹 상 다크패턴 문구 데이터 |
+| Yada et al., 2022 *(IEEE BigData, “Dark Patterns in E-commerce”)* | `dataset.tsv` | 이커머스 환경의 다크패턴 문구 데이터 |
+
+---
+
+## 🧹 데이터 정제 과정
+
+1. **병합(Merging)**: 두 데이터셋(`csv` + `tsv`)을 통합  
+2. **중복 제거(Deduplication)**: 문장 중복 및 의미 중복 제거  
+3. **데이터 정제(Cleaning)**: 노이즈, 불필요한 HTML 태그, 특수문자 제거  
+4. **데이터 증강(Augmentation)**:  
+   - **Contextual Augmentation** (문맥 기반 증강)  
+   - **Scarcity** 유형은 **언더샘플링**하여 클래스 균형 조정  
+
+---
+
+## 📈 최종 데이터 통계
+
+| Type | Count |
+|:------------------|:------:|
+| **Not Dark Pattern** | **1,600** |
+| **Scarcity** | **400** |
+| **Social Proof** | **400** |
+| **Urgency** | **400** |
+| **Misdirection** | **400** |
+| **Total** | **3,200** |
+
+---
+
+## 📊 시각적 분포
+
+```text
+Type Distribution
+──────────────────────────────
+Not Dark Pattern  ██████████████████████████████████████████████ (50%)
+Scarcity          ████████▌                                        (12.5%)
+Social Proof      ████████▌                                        (12.5%)
+Urgency           ████████▌                                        (12.5%)
+Misdirection      ████████▌                                        (12.5%)
+──────────────────────────────
+Total Samples: 3,200
